@@ -14,7 +14,7 @@ More than a platform, a4b! is a movement that encourages new ways of connecting 
 Anime4Breakfast! doesn’t just want you to watch; it wants you to live anime—to carry the lessons, humor, and dreams from dawn to dusk. Because with a4b!, each sunrise isn’t just the start of a day—it’s the start of a new adventure.
 To use the Minimal theme:
 
-![I4I](assets/fonts/img/I4I.png)
+![I4I](assets/img/I4I.png)
 
 *I4NI* | Collection - Spooky
 
@@ -33,7 +33,7 @@ Community lies at the core of Midnight Kids Academy. This isn’t just a learnin
 
 Whether fueled by the quiet solitude of midnight musings or the energetic exchange of late-night collaborations, Midnight Kids Academy serves as a guiding light for those eager to explore new frontiers. Here, creativity knows no bounds, innovation never ceases, and the night becomes a canvas for shaping the future.
 
-![Sweet_Sweetblacks_Baadasssss_Song](assets/fonts/img/Sweet_Sweetblacks_Baadasssss_Song.jpg)
+![Sweet_Sweetblacks_Baadasssss_Song](assets/img/Sweet_Sweetblacks_Baadasssss_Song.jpg)
 
 *Sweet sweetblack's Badass Song* | Collection - Sepia 
 
