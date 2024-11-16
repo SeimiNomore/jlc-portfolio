@@ -2,7 +2,7 @@
 
 *This is a portfolio of my artworks in the form of [Case Studies] the works you will see here may very between Graphics Design, Digital Design, Ux/Ui, Charcter Develoopment, and Product development. Please take the time to the review the works that I've shown here, Some are apart of projects I worked on and others are from my own curiosity, The projects are compartmentalized the help the the viewer to understand the wide range of works in my porfilio. I will be updating this priodicaly.*
 
-### Case Study | Feb 2006 - **Anime4breakfast!**
+#### Case Study | Feb 2006 - **Anime4breakfast!**
 Anime4Breakfast! (a4b!) is a dynamic cultural space that celebrates the seamless blend of anime and daily life, turning each morning into an electrifying ritual for enthusiasts and casual fans alike. At its core, a4b! aims to invigorate the day’s start with the rich storytelling, vivid art, and diverse narratives that anime offers—a medium that inspires and captivates millions around the world.
 
 From nostalgic classics that evoke the early days of anime fandom to the freshest releases that challenge the imagination, a4b! curates an experience where everyone can find their unique spark of joy. This isn’t just an appreciation forum—it’s a lifestyle brand rooted in the belief that anime, much like breakfast, can fuel creativity, provoke thought, and foster community.
@@ -21,7 +21,7 @@ To use the Minimal theme:
 1. The ideal is a peaceful depiction of (Kodak Black) as Sweet back from Melvin than people's movie (Sweetsweet back's badassssong) I always had a thing for a black exploitation films, and I thought this was a perfect match given the way that Kodak Black grew up and how sweet back grew up in the film. They were almost seamless.
 
 
-## Case Study - Midnight Kids Academy - MDNKA
+#### Case Study - Midnight Kids Academy - MDNKA
 
 Midnight Kids Academy is a vibrant, multifaceted initiative dedicated to cultivating creativity, resilience, and empowerment within a community of ambitious individuals. Grounded in the belief that inspiration often awakens when the world sleeps, the academy champions those who unlock their full potential during the twilight hours—dreamers, passionate strivers, and innovative thinkers who come alive when the world is at rest.
 
