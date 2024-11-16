@@ -23,12 +23,6 @@ To use the Minimal theme:
    existence—a narrative shaped not by their own truths but by the apprehensions and misapprehensions of those observing from the outside. The title itself, a cryptic expression of “Eye for an Eye,” challenges the viewer to reexamine the reactive, often 
    defensive ways society approaches the unknown.
 
-   Through masterful visual storytelling and symbolic motifs, I4NI invites its audience to confront the paradox of fearing what one does not understand. It lays bare the complex reality where youth, vivid and boundless, are judged and mischaracterized by a 
-   world that projects its own insecurities upon them. The piece becomes both a mirror and a magnifying glass—a space where assumptions unravel and genuine understanding struggles to surface.
-
-   With every stroke and layered texture, the artwork evokes the raw essence of youthful rebellion juxtaposed with an unspoken yearning for recognition and empathy. It captures that liminal space between potential and perception, urging curators, critics, 
-   and observers to look beyond the surface, past their trepidations, and into the very soul of a generation too often defined by others’ fears.
-
 #### Case Study | 2008 - Midnight Kids Academy - MDNKA
 
 Midnight Kids Academy is a vibrant, multifaceted initiative dedicated to cultivating creativity, resilience, and empowerment within a community of ambitious individuals. Grounded in the belief that inspiration often awakens when the world sleeps, the academy champions those who unlock their full potential during the twilight hours—dreamers, passionate strivers, and innovative thinkers who come alive when the world is at rest.
