@@ -19,8 +19,7 @@ To use the Minimal theme:
 *I4NI* | Collection - Spooky
 
 1. I4NI: A Testament to Misunderstood Youth
-2. 
-In the intricacies of societal perceptions, I4NI emerges as a profound artistic statement that dissects the veiled interpretations of youth seen through the lens of uncertainty and trepidation. This compelling piece encapsulates the duality of youthful existence—a narrative shaped not by their own truths but by the apprehensions and misapprehensions of those observing from the outside. The title itself, a cryptic expression of “Eye for an Eye,” challenges the viewer to reexamine the reactive, often defensive ways society approaches the unknown.
+   In the intricacies of societal perceptions, I4NI emerges as a profound artistic statement that dissects the veiled interpretations of youth seen through the lens of uncertainty and trepidation. This compelling piece encapsulates the duality of youthful existence—a narrative shaped not by their own truths but by the apprehensions and misapprehensions of those observing from the outside. The title itself, a cryptic expression of “Eye for an Eye,” challenges the viewer to reexamine the reactive, often defensive ways society approaches the unknown.
 
 Through masterful visual storytelling and symbolic motifs, I4NI invites its audience to confront the paradox of fearing what one does not understand. It lays bare the complex reality where youth, vivid and boundless, are judged and mischaracterized by a world that projects its own insecurities upon them. The piece becomes both a mirror and a magnifying glass—a space where assumptions unravel and genuine understanding struggles to surface.
 
