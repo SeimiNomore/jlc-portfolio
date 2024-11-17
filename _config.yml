@@ -1,9 +1,9 @@
-title: Minimalistic
-logo: /assets/img/logo.jpg
+title: JL Christian
+logo: /assets/img/jlc-avatar.png
 email: person@address.com
-description: Minimalistic is a theme powered by Jekyll.
+description: Fine Artist | Art Curator
 favicon: true
-color-scheme: auto
+color-scheme: light
 
 plugins:
   - jekyll-sitemap
