@@ -28,8 +28,9 @@ defensive ways society approaches the unknown.
 
 In the luminous canon of Blaxploitation cinema, Melvin Van Peebles' Sweet Sweetback's Baadasssss Song stands as a defiant, kinetic ode to survival, resistance, and the raw essence of self-determination. It's within this framework that one can draw a seamless, almost mythical comparison to Kodak Black—a contemporary artist whose life and art form an unscripted narrative of struggle and tenacity. His world reflects the bruised, unfiltered resilience that Sweetback embodied, breathing life into the shared tale of overcoming systemic adversity.
 
+---
 
- [#### Art Collectives and Personal Project Outreach](http://stackoverflow.com){:target="_blank" rel="noopener"}
+ #### Art Collectives and Personal Project Outreach
 
 > I collaborated with artists across a range of mediums to support and refine their creative practices. Through these partnerships, I gained hands-on experience in understanding the unique techniques and perspectives that each art form demands. This involvement not only deepened my appreciation for diverse artistic expressions but also enhanced my ability to contribute effectively to creative projects, bridging ideas and execution across various crafts.
 
