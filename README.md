@@ -8,8 +8,8 @@
 
 Engaging in this way wasn’t just about making art; it was about crafting a life where creativity and mindfulness intertwined, giving me the foundation to express myself with authenticity and purpose.
 
-## 
-
+#### Artworks Codex | *Feb 2019* - Mythos
+##
 ![I4I](assets/img/I4I.png)
 
 *I4NI* | Collection - Spooky
@@ -32,7 +32,7 @@ In the luminous canon of Blaxploitation cinema, Melvin Van Peebles' Sweet Sweetb
 The visual language of Blaxploitation films, marked by vivid colors and stark contrasts, finds a subtle reflection in Kodak's aesthetic choices. The boldness of his jewelry, attire, and album art mirrors the genre's fearless embrace of visibility. More importantly, Kodak's music channels that very essence: defiance wrapped in storytelling. His lyrics weave tales of nights spent maneuvering through shadowed streets, guarded by the harsh reality of his upbringing. Each song becomes a scene, a rhythmic screenplay that mirrors the raw truth Van Peebles harnessed when he painted Sweetback's world in broad strokes of pain, pride, and fierce autonomy.
 
 ### Art Collectives and Personal Project Outreach
-##
+
 
 #### Case Study | *Feb 2006* - Anime4breakfast!
  **Anime4Breakfast**! (a4b!) is a dynamic cultural space that celebrates the seamless blend of anime and daily life, turning each morning into an electrifying ritual for enthusiasts and casual fans alike. At its core, a4b! aims to invigorate the day’s start with the rich storytelling, vivid art, and diverse narratives that anime offers—a medium that inspires and captivates millions around the world.
