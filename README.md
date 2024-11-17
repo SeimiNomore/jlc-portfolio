@@ -52,9 +52,9 @@ In the luminous canon of Blaxploitation cinema, Melvin Van Peebles' Sweet Sweetb
 
 ---
 
-> 1. Anime4breakfest was born from a simple yet powerful idea nestled in a quiet corner of my mind. It became my haven for creativity during the late-night hours when the world was asleep, and the neighborhood was wrapped in a rare, serene peace. It was in those moments that inspiration thrived, compelling me to share this unique vision with the online world.
 
 > Drawing from diverse aesthetics—modern architecture and the minimalist beauty of Japanese bathhouses—Anime4breakfest took shape. The snapshot you see, from the blog's early days in 2007, captures the essence of those beginnings and the artistic approach that defined A4B's identity.
+
 ##### Case Study | *Aug 2008* - Midnight Kids Academy - MDNKA
 
  Midnight Kids Academy is a vibrant, multifaceted initiative dedicated to cultivating creativity, resilience, and empowerment within a community of ambitious individuals. Grounded in the belief that inspiration often awakens when the world sleeps, the academy champions those who unlock their full potential during the twilight hours—dreamers, passionate strivers, and innovative thinkers who come alive when the world is at rest.
