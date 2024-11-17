@@ -8,3 +8,8 @@ theme: jekyll-theme-minimal
 environment:
   TEXT_SIZE: "08pt"
   FONT_FAMILY: "Arial"
+
+markdown: kramdown
+kramdown:
+  auto_ids: true
+  auto_id_prefix: ''

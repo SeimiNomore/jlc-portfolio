@@ -1,8 +1,6 @@
 ### Introduction  -
 
-*This is a portfolio of my artworks in the form of [Case Studies] the works you will see here may very between Graphics Design, Digital Design, Ux/Ui, Charcter Develoopment, and Product development. Please take the time to the review the works that I've shown here, Some are apart of projects I worked on and others are from my own curiosity, The projects are compartmentalized the help the the viewer to understand the wide range of works in my porfilio. I will be updating this priodicaly.*
-
- | 
+> This is a portfolio of my artworks in the form of [Case Studies] the works you will see here may very between Graphics Design, Digital Design, Ux/Ui, Charcter Develoopment, and Product development. Please take the time to the review the works that I've shown here, Some are apart of projects I worked on and others are from my own curiosity, The projects are compartmentalized the help the the viewer to understand the wide range of works in my porfilio. I will be updating this priodicaly.
 
 ##### Artworks Codex | *Feb 2019* - Mythos
 
@@ -30,12 +28,8 @@ defensive ways society approaches the unknown.
 
 In the luminous canon of Blaxploitation cinema, Melvin Van Peebles' Sweet Sweetback's Baadasssss Song stands as a defiant, kinetic ode to survival, resistance, and the raw essence of self-determination. It's within this framework that one can draw a seamless, almost mythical comparison to Kodak Black—a contemporary artist whose life and art form an unscripted narrative of struggle and tenacity. His world reflects the bruised, unfiltered resilience that Sweetback embodied, breathing life into the shared tale of overcoming systemic adversity.
 
-The visual language of Blaxploitation films, marked by vivid colors and stark contrasts, finds a subtle reflection in Kodak's aesthetic choices. The boldness of his jewelry, attire, and album art mirrors the genre's fearless embrace of visibility. More importantly, Kodak's music channels that very essence: defiance wrapped in storytelling. His lyrics weave tales of nights spent maneuvering through shadowed streets, guarded by the harsh reality of his upbringing. Each song becomes a scene, a rhythmic screenplay that mirrors the raw truth Van Peebles harnessed when he painted Sweetback's world in broad strokes of pain, pride, and fierce autonomy.
 
-
-
-
-#### Art Collectives and Personal Project Outreach
+[#### Art Collectives and Personal Project Outreach](https://)
 
 > I collaborated with artists across a range of mediums to support and refine their creative practices. Through these partnerships, I gained hands-on experience in understanding the unique techniques and perspectives that each art form demands. This involvement not only deepened my appreciation for diverse artistic expressions but also enhanced my ability to contribute effectively to creative projects, bridging ideas and execution across various crafts.
 
