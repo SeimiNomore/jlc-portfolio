@@ -29,7 +29,7 @@ defensive ways society approaches the unknown.
 In the luminous canon of Blaxploitation cinema, Melvin Van Peebles' Sweet Sweetback's Baadasssss Song stands as a defiant, kinetic ode to survival, resistance, and the raw essence of self-determination. It's within this framework that one can draw a seamless, almost mythical comparison to Kodak Black—a contemporary artist whose life and art form an unscripted narrative of struggle and tenacity. His world reflects the bruised, unfiltered resilience that Sweetback embodied, breathing life into the shared tale of overcoming systemic adversity.
 
 
-[#### Art Collectives and Personal Project Outreach](https://)
+[#### Art Collectives and Personal Project Outreach][def]
 
 > I collaborated with artists across a range of mediums to support and refine their creative practices. Through these partnerships, I gained hands-on experience in understanding the unique techniques and perspectives that each art form demands. This involvement not only deepened my appreciation for diverse artistic expressions but also enhanced my ability to contribute effectively to creative projects, bridging ideas and execution across various crafts.
 
@@ -56,3 +56,5 @@ In the luminous canon of Blaxploitation cinema, Melvin Van Peebles' Sweet Sweetb
  Community lies at the core of Midnight Kids Academy. This isn’t just a learning space—it’s a collective of like-minded individuals who inspire, share, and uplift one another. Participants are encouraged to step out of their comfort zones, channel their innate creativity, and transform their ideas into impactful realities.
 
  Whether fueled by the quiet solitude of midnight musings or the energetic exchange of late-night collaborations, Midnight Kids Academy serves as a guiding light for those eager to explore new frontiers. Here, creativity knows no bounds, innovation never ceases, and the night becomes a canvas for shaping the future.
+
+[def]: https://
