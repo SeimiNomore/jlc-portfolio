@@ -35,7 +35,7 @@
 
  More than a platform, a4b! is a movement that encourages new ways of connecting with the art form—through themed breakfast recipes inspired by anime kitchens, ‘Morning Zen’ segments featuring meditative clips and scenes, and exclusive events where fans can come together in the spirit of shared passion. By weaving anime into the start of each day, we emphasize that this beloved genre’s power extends beyond the screen—it’s a spark that energizes, motivates, and forms bonds.
 
- Anime4Breakfast! doesn’t just want you to watch; it wants you to live anime—to carry the lessons, humor, and dreams from dawn to dusk. Because with a4b!, each sunrise isn’t just the start of a day—it’s the start of a new adventure. To use the Minimal theme:
+ Anime4Breakfast! doesn’t just want you to watch; it wants you to live anime—to carry the lessons, humor, and dreams from dawn to dusk. Because with a4b!, each sunrise isn’t just the start of a day—it’s the start of a new adventure.
 
 #### Case Study | *Aug 2008* - Midnight Kids Academy - MDNKA
 
