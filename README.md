@@ -2,6 +2,7 @@
 
 > This is a portfolio of my artworks in the form of [Case Studies] the works you will see here may very between Graphics Design, Digital Design, Ux/Ui, Charcter Develoopment, and Product development. Please take the time to the review the works that I've shown here, Some are apart of projects I worked on and others are from my own curiosity, The projects are compartmentalized the help the the viewer to understand the wide range of works in my porfilio. I will be updating this priodicaly.
 
+
 #### Artworks Codex | *Feb 2019* - Mythos
 
  This was the chapter where I made the conscious decision to prioritize my own growth and well-being. I knew it was time to give back to myself, to nurture that part of me that had been waiting patiently beneath the surface. I embarked on a journey into the depths of my creative expression, embracing the process not just as an artist but as an individual seeking transformation. Through the lens of fine art, I discovered the freedom to explore new techniques, push my boundaries, and fully immerse in the act of creation. This practice became a blend of artistic passion and inner discipline—a space where I could reflect, refine, and rediscover who I am at my core. 
@@ -45,6 +46,8 @@ In the luminous canon of Blaxploitation cinema, Melvin Van Peebles' Sweet Sweetb
  More than a platform, a4b! is a movement that encourages new ways of connecting with the art form—through themed breakfast recipes inspired by anime kitchens, ‘Morning Zen’ segments featuring meditative clips and scenes, and exclusive events where fans can come together in the spirit of shared passion. By weaving anime into the start of each day, we emphasize that this beloved genre’s power extends beyond the screen—it’s a spark that energizes, motivates, and forms bonds.
 
  Anime4Breakfast! doesn’t just want you to watch; it wants you to live anime—to carry the lessons, humor, and dreams from dawn to dusk. Because with a4b!, each sunrise isn’t just the start of a day—it’s the start of a new adventure.
+
+
 
 ##### Case Study | *Aug 2008* - Midnight Kids Academy - MDNKA
 
