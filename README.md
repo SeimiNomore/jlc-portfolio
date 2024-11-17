@@ -8,8 +8,8 @@
 
 Engaging in this way wasn’t just about making art; it was about crafting a life where creativity and mindfulness intertwined, giving me the foundation to express myself with authenticity and purpose.
 
-#### Artworks Codex | *Feb 2019* - Mythos
-##
+$* | *$
+
 ![I4I](assets/img/I4I.png)
 
 *I4NI* | Collection - Spooky
