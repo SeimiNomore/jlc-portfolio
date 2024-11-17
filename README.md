@@ -47,7 +47,7 @@ In the luminous canon of Blaxploitation cinema, Melvin Van Peebles' Sweet Sweetb
 
  Anime4Breakfast! doesn’t just want you to watch; it wants you to live anime—to carry the lessons, humor, and dreams from dawn to dusk. Because with a4b!, each sunrise isn’t just the start of a day—it’s the start of a new adventure.
 
-
+![a4b-blog-seasons](https://)
 
 ##### Case Study | *Aug 2008* - Midnight Kids Academy - MDNKA
 
