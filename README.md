@@ -1,17 +1,19 @@
-# Artworks -
+### Introduction  -
 
 *This is a portfolio of my artworks in the form of [Case Studies] the works you will see here may very between Graphics Design, Digital Design, Ux/Ui, Charcter Develoopment, and Product development. Please take the time to the review the works that I've shown here, Some are apart of projects I worked on and others are from my own curiosity, The projects are compartmentalized the help the the viewer to understand the wide range of works in my porfilio. I will be updating this priodicaly.*
 #
 
+#### Artworks Codex | *Feb 2019* - Mythos 
+   This is the part of my life when I decided to give back to myself by drive into my creative arts forms from a fine art pros
 
 ![I4I](assets/img/I4I.png)
 
 *I4NI* | Collection - Spooky
 
 1. **I4NI**: A Testament to Misunderstood Youth
-   In the intricacies of societal perceptions, I4NI emerges as a profound artistic statement that dissects the veiled interpretations of youth seen through the lens of uncertainty and trepidation. This compelling piece encapsulates the duality of youthful 
-   existence—a narrative shaped not by their own truths but by the apprehensions and misapprehensions of those observing from the outside. The title itself, a cryptic expression of “Eye for an Eye,” challenges the viewer to reexamine the reactive, often 
-   defensive ways society approaches the unknown.
+In the intricacies of societal perceptions, I4NI emerges as a profound artistic statement that dissects the veiled interpretations of youth seen through the lens of uncertainty and trepidation. This compelling piece encapsulates the duality of youthful 
+existence—a narrative shaped not by their own truths but by the apprehensions and misapprehensions of those observing from the outside. The title itself, a cryptic expression of “Eye for an Eye,” challenges the viewer to reexamine the reactive, often 
+defensive ways society approaches the unknown.
 
 
 ![Sweet_Sweetblacks_Baadasssss_Song](assets/img/Sweet_Sweetblacks_Baadasssss_Song.jpg)
@@ -20,11 +22,11 @@
 
 1. The Art of Resilience: Kodak Black as the Modern Sweetback
 
-   In the luminous canon of Blaxploitation cinema, Melvin Van Peebles' Sweet Sweetback's Baadasssss Song stands as a defiant, kinetic ode to survival, resistance, and the raw essence of self-determination. It's within this framework that one can draw a seamless, almost mythical comparison to Kodak Black—a contemporary artist whose life and art form an unscripted narrative of struggle and tenacity. His world reflects the bruised, unfiltered resilience that Sweetback embodied, breathing life into the shared tale of overcoming systemic adversity.
+In the luminous canon of Blaxploitation cinema, Melvin Van Peebles' Sweet Sweetback's Baadasssss Song stands as a defiant, kinetic ode to survival, resistance, and the raw essence of self-determination. It's within this framework that one can draw a seamless, almost mythical comparison to Kodak Black—a contemporary artist whose life and art form an unscripted narrative of struggle and tenacity. His world reflects the bruised, unfiltered resilience that Sweetback embodied, breathing life into the shared tale of overcoming systemic adversity.
 
-   The visual language of Blaxploitation films, marked by vivid colors and stark contrasts, finds a subtle reflection in Kodak's aesthetic choices. The boldness of his jewelry, attire, and album art mirrors the genre's fearless embrace of visibility. More importantly, Kodak's music channels that very essence: defiance wrapped in storytelling. His lyrics weave tales of nights spent maneuvering through shadowed streets, guarded by the harsh reality of his upbringing. Each song becomes a scene, a rhythmic screenplay that mirrors the raw truth Van Peebles harnessed when he painted Sweetback's world in broad strokes of pain, pride, and fierce autonomy.
+The visual language of Blaxploitation films, marked by vivid colors and stark contrasts, finds a subtle reflection in Kodak's aesthetic choices. The boldness of his jewelry, attire, and album art mirrors the genre's fearless embrace of visibility. More importantly, Kodak's music channels that very essence: defiance wrapped in storytelling. His lyrics weave tales of nights spent maneuvering through shadowed streets, guarded by the harsh reality of his upbringing. Each song becomes a scene, a rhythmic screenplay that mirrors the raw truth Van Peebles harnessed when he painted Sweetback's world in broad strokes of pain, pride, and fierce autonomy.
 
-### Art Collectives and Personal Project Outreach 
+### Art Collectives and Personal Project Outreach |
 
 #### Case Study | *Feb 2006* - Anime4breakfast!
  **Anime4Breakfast**! (a4b!) is a dynamic cultural space that celebrates the seamless blend of anime and daily life, turning each morning into an electrifying ritual for enthusiasts and casual fans alike. At its core, a4b! aims to invigorate the day’s start with the rich storytelling, vivid art, and diverse narratives that anime offers—a medium that inspires and captivates millions around the world.
