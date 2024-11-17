@@ -24,7 +24,7 @@ defensive ways society approaches the unknown.
 
 *Sweet sweetblack's Badass Song* | Collection - Sepia 
 
-1. The Art of Resilience: Kodak Black as the Modern Sweetback
+1. **The Art of Resilience**: Kodak Black as the Modern Sweetback
 
 In the luminous canon of Blaxploitation cinema, Melvin Van Peebles' Sweet Sweetback's Baadasssss Song stands as a defiant, kinetic ode to survival, resistance, and the raw essence of self-determination. It's within this framework that one can draw a seamless, almost mythical comparison to Kodak Black—a contemporary artist whose life and art form an unscripted narrative of struggle and tenacity. His world reflects the bruised, unfiltered resilience that Sweetback embodied, breathing life into the shared tale of overcoming systemic adversity.
 
