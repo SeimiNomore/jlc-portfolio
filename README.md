@@ -4,11 +4,11 @@
 
  | 
 
-##### Artworks Codex | *Feb 2019* - Mythos
+##### Case Study 0 Artworks Codex | *Feb 2019* - Mythos
 
- This was the chapter where I made the conscious decision to prioritize my own growth and well-being. I knew it was time to give back to myself, to nurture that part of me that had been waiting patiently beneath the surface. I embarked on a journey into the depths of my creative expression, embracing the process not just as an artist but as an individual seeking transformation. Through the lens of fine art, I discovered the freedom to explore new techniques, push my boundaries, and fully immerse in the act of creation. This practice became a blend of artistic passion and inner discipline—a space where I could reflect, refine, and rediscover who I am at my core. 
-
-Engaging in this way wasn’t just about making art; it was about crafting a life where creativity and mindfulness intertwined, giving me the foundation to express myself with authenticity and purpose.
+ > This was the chapter where I made the conscious decision to prioritize my own growth and well-being. I knew it was time to give back to myself, to nurture that part of me that had been waiting patiently beneath the surface. I embarked on a journey into the depths of my creative expression, embracing the process not just as an artist but as an individual seeking transformation. Through the lens of fine art, I discovered the freedom to explore new techniques, push my boundaries, and fully immerse in the act of creation. This practice became a blend of artistic passion and inner discipline—a space where I could reflect, refine, and rediscover who I am at my core. 
+ 
+ > Engaging in this way wasn’t just about making art; it was about crafting a life where creativity and mindfulness intertwined, giving me the foundation to express myself with authenticity and purpose.
 
 
 ![I4I](assets/img/I4I.png)
@@ -35,10 +35,11 @@ The visual language of Blaxploitation films, marked by vivid colors and stark co
 
 
 
-##### Art Collectives and Personal Project Outreach
+#### Art Collectives and Personal Project Outreach
 
-> I collaborated with artists across a range of mediums to support and refine their creative practices. Through these partnerships, I gained hands-on experience in understanding the unique techniques and perspectives that each art form demands. This involvement not only deepened my appreciation for diverse artistic expressions but also enhanced my ability to contribute effectively to creative projects, bridging ideas and execution across various crafts.
-###### Case Study | *Feb 2006* - Anime4breakfast!
+> I collaborated with artists across a range of mediums to support and refine their creative practices. Through these partnerships, I gained hands-on experience in understanding the unique techniques and perspectives that each art form demands. This involvement not only deepened my appreciation for diverse artistic expressions but also enhanced my ability to contribute effectively to creative projects, bridging ideas and execution across various crafts.<
+
+##### Case Study | *Feb 2006* - Anime4breakfast!
 
  **Anime4Breakfast**! (a4b!) is a dynamic cultural space that celebrates the seamless blend of anime and daily life, turning each morning into an electrifying ritual for enthusiasts and casual fans alike. At its core, a4b! aims to invigorate the day’s start with the rich storytelling, vivid art, and diverse narratives that anime offers—a medium that inspires and captivates millions around the world.
 
@@ -50,7 +51,7 @@ The visual language of Blaxploitation films, marked by vivid colors and stark co
 
  Anime4Breakfast! doesn’t just want you to watch; it wants you to live anime—to carry the lessons, humor, and dreams from dawn to dusk. Because with a4b!, each sunrise isn’t just the start of a day—it’s the start of a new adventure.
 
-#### Case Study | *Aug 2008* - Midnight Kids Academy - MDNKA
+##### Case Study | *Aug 2008* - Midnight Kids Academy - MDNKA
 
  **Midnight Kids Academy** is a vibrant, multifaceted initiative dedicated to cultivating creativity, resilience, and empowerment within a community of ambitious individuals. Grounded in the belief that inspiration often awakens when the world sleeps, the academy champions those who unlock their full potential during the twilight hours—dreamers, passionate strivers, and innovative thinkers who come alive when the world is at rest.
 
