@@ -19,12 +19,18 @@ platforms:
     link: https://www.linkedin.com/in/vaibhavvikas
 
 navigation:
-  - name: Introduction
-    link: ./index.html#Introduction 
-    name: Artworks Codex | Feb 2019 - Mythos
-    link: ./index.html##Artworks-Codex-|-Feb-2019---Mythos
-    name: Introduction
-          ./index.html#Introduction
+    - name: Introduction
+    link: ./index.html#Introduction
+    - name: Artworks Codex | Feb 2019 - Mythos
+    link: ./index.html##Artworks Codex-|-Feb-2019---Mythos
+    - name: Header 2
+    link: ./index.html##Header-2
+
+    sublist:
+      - name: Image
+        link: ./index.html#small-image
+  - name: Another Page
+    link: ./another-page.html
 
           
     sublist:
