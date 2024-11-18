@@ -20,11 +20,11 @@ platforms:
 
 navigation:
     - name: Introduction
-    link: ./index.html#Introduction
+    link: ./index.html#introduction
     - name: Artworks Codex | Feb 2019 - Mythos
-    link: ./index.html##Artworks Codex-|-Feb-2019---Mythos
+    link: ./index.html##artworks-codex-|-feb-2019---mythos
     - name: Header 2
-    link: ./index.html##Header-2
+    link: ./index.html##header-2
 
     sublist:
       - name: Image
