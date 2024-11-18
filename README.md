@@ -1,7 +1,3 @@
-# JL Chrisitian
-
-Minimalistic theme is based on gh-pages minimal theme, with navigation in the sidebar and super amazing features. Wanna see it in action? You can view a live demo at [Minimalistic](https://vaibhavvikas.github.io/jekyll-theme-minimalistic/).
-
 
 # Introduction
 This is a portfolio of my artworks in the form of [Case Studies] the works you will see here may very between Graphics Design, Digital Design, Ux/Ui, Charcter Develoopment, and Product development. Please take the time to the review the works that I’ve shown here, Some are apart of projects I worked on and others are from my own curiosity, The projects are compartmentalized the help the the viewer to understand the wide range of works in my porfilio. I will be updating this priodicaly.
@@ -20,5 +16,5 @@ This is a portfolio of my artworks in the form of [Case Studies] the works you w
 10. Under active development.
 11. And many more. 😁
 
-## Usage
+## Artworks Codex | Feb 2019 - Mythos
 
