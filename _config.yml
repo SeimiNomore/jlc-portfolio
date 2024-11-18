@@ -19,8 +19,6 @@ platforms:
     link: https://www.linkedin.com/in/vaibhavvikas
 
 navigation:
-  - name: Introduction
-    link: ./index.html#introduction
   - name: Artworks Codex | Feb 2019 - Mythos
         link: ./index.html##artworks-codex-|-feb-2019---mythos
   - name: Header 2
