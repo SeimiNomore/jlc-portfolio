@@ -27,7 +27,7 @@ navigation:
     link: ./index.html#art-collectives-and-personal-project-outreach
     sublist:
       - name: Case Study - Anime4Breakfast!
-        link: ./index.html#case-of-anime4breakfast                                                        
+        link: ./index.html#case-anime4breakfast                                                        
       - name: Image
         link: ./index.html#small-image
   - name: Another Page
