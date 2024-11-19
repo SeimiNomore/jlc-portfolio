@@ -22,7 +22,7 @@ navigation:
   - name: Introduction
     link: ./index.html#introduction
   - name: Artworks Codex Feb 2019 - Mythos
-    link: ./index.html#artworks-codex-feb-2019---mythos
+    link: ./index.html#artworks-codex-feb-2019
     sublist:                                                       
       - name: Image
         link: ./index.html#small-image
