@@ -15,7 +15,7 @@ This was the chapter where I made the conscious decision to prioritize my own gr
 
 Engaging in this way wasn’t just about making art; it was about crafting a life where creativity and mindfulness intertwined, giving me the foundation to express myself with authenticity and purpose.
 
-![a4b-kowloon](assets/img/a4b-kowloon.jpg)
+
 
 ## Art Collectives and Personal Project Outreach
 I collaborated with artists across a range of mediums to support and refine their creative practices. Through these partnerships, I gained hands-on experience in understanding the unique techniques and perspectives that each art form demands. This involvement not only deepened my appreciation for diverse artistic expressions but also enhanced my ability to contribute effectively to creative projects, bridging ideas and execution across various crafts.
@@ -35,6 +35,7 @@ I collaborated with artists across a range of mediums to support and refine thei
 
 ![a4b-logos](assets/img/a4b-logos.png)
 
+![a4b-kowloon](assets/img/a4b-kowloon.jpg)
 
 ### Header 3
 
