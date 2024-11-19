@@ -25,7 +25,9 @@ navigation:
     link: ./index.html#artworks-codex-feb-2019
   - name: Art Collectives and Personal Project Outreach
     link: ./index.html#art-collectives-and-personal-project-outreach
-    sublist:                                                       
+    sublist:
+      - name: Art Collectives and Personal Project Outreach
+        link: ./index.html#art-collectives-and-personal-project-outreach                                                        
       - name: Image
         link: ./index.html#small-image
   - name: Another Page
