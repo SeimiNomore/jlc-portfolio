@@ -21,7 +21,7 @@ platforms:
 navigation:
   - name: Introduction
     link: ./index.html#introduction
-  - name: Artworks Codex Feb 2019
+  - name: Artworks Codex
     link: ./index.html#artworks-codex-feb-2019
     sublist:                                                       
       - name: Image
