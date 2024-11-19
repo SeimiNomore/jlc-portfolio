@@ -31,7 +31,7 @@ navigation:
       - name: Case Study - KC.93 RR
         link: ./index.html#case-study---kc93-rr
       - name: Case Study - MDNKA Midnight Kids Academy
-              link: ./index.html#case-study---mdnka-midnight-kids-academy                                                        
+        link: ./index.html#case-study---mdnka-midnight-kids-academy                                                        
       - name: Image
         link: ./index.html#small-image
   - name: Another Page
