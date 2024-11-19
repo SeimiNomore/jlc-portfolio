@@ -9,7 +9,7 @@ This is a portfolio of my artworks in the form of [Case Studies] the works you w
 There should be whitespace between paragraphs.
 
 
-## Artworks Codex | Feb 2019 - Mythos
+# Artworks Codex | Feb 2019 - Mythos
 
 This was the chapter where I made the conscious decision to prioritize my own growth and well-being. I knew it was time to give back to myself, to nurture that part of me that had been waiting patiently beneath the surface. I embarked on a journey into the depths of my creative expression, embracing the process not just as an artist but as an individual seeking transformation. Through the lens of fine art, I discovered the freedom to explore new techniques, push my boundaries, and fully immerse in the act of creation. This practice became a blend of artistic passion and inner discipline—a space where I could reflect, refine, and rediscover who I am at my core.
 
@@ -17,7 +17,7 @@ Engaging in this way wasn’t just about making art; it was about crafting a lif
 
 
 
-## Art Collectives and Personal Project Outreach
+# Art Collectives and Personal Project Outreach
 I collaborated with artists across a range of mediums to support and refine their creative practices. Through these partnerships, I gained hands-on experience in understanding the unique techniques and perspectives that each art form demands. This involvement not only deepened my appreciation for diverse artistic expressions but also enhanced my ability to contribute effectively to creative projects, bridging ideas and execution across various crafts.
 
 - #### The Case of anime4breakfast
