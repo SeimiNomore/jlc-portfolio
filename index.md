@@ -25,9 +25,9 @@ I collaborated with artists across a range of mediums to support and refine thei
 
 ![a4b-blog-season](assets/img/a4b-blog-season.png)
 
-*Anime4Breakfast! (a4b!) is a dynamic cultural space that celebrates the seamless blend of anime and daily life, turning each morning into an electrifying ritual for enthusiasts and casual fans alike. At its core, a4b! aims to invigorate the day’s start with the rich storytelling, vivid art, and diverse narratives that anime offers—a medium that inspires and captivates millions around the world.
+*Anime4Breakfast! (a4b!) is a dynamic cultural space that celebrates the seamless blend of anime and daily life, turning each morning into an electrifying ritual for enthusiasts and casual fans alike. At its core, a4b! aims to invigorate the day’s start with the rich storytelling, vivid art, and diverse narratives that anime offers—a medium that inspires and captivates millions around the world.*
 
-From nostalgic classics that evoke the early days of anime fandom to the freshest releases that challenge the imagination, a4b! curates an experience where everyone can find their unique spark of joy. This isn’t just an appreciation forum—it’s a lifestyle brand rooted in the belief that anime, much like breakfast, can fuel creativity, provoke thought, and foster community.*
+*From nostalgic classics that evoke the early days of anime fandom to the freshest releases that challenge the imagination, a4b! curates an experience where everyone can find their unique spark of joy. This isn’t just an appreciation forum—it’s a lifestyle brand rooted in the belief that anime, much like breakfast, can fuel creativity, provoke thought, and foster community.*
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
