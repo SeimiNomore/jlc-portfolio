@@ -22,7 +22,7 @@ navigation:
   - name: Introduction
     link: ./index.html#introduction
   - name: Artworks Codex
-    link: ./index.html##artworks-codex-feb-2019
+    link: ./index.html#artworks-codex-feb-2019
   - name: 
     sublist:                                                       
       - name: Image
