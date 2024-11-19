@@ -38,7 +38,7 @@ Engaging in this way wasn’t just about making art; it was about crafting a lif
 
 ![a4b-kowloon](assets/img/a4b-kowloon.jpg)
 
-### Header 3
+### Case study - KC93 RR
 
 ```js
 // Javascript code with syntax highlighting.
