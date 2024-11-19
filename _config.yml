@@ -29,7 +29,9 @@ navigation:
       - name: Case Study - Anime4Breakfast
         link: ./index.html#case-study---anime4breakfast
       - name: Case Study - KC.93 RR
-        link: ./index.html#case-study---kc93-rr                                                        
+        link: ./index.html#case-study---kc93-rr
+      - name: Case Study - MDNKA Midnight Kids Academy
+              link: ./index.html#case-study---mdnka-midnight-kids-academy                                                        
       - name: Image
         link: ./index.html#small-image
   - name: Another Page
