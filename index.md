@@ -35,7 +35,7 @@ I collaborated with artists across a range of mediums to support and refine thei
 
 > "This marked the inception of JoyBoy. JoyBoy was born from the emotions that surge within me during the creative process. I aimed to capture and embody that essence in this banner after being profoundly inspired by this image."eated from the feelings I have when I create my, I wanted to inbody that feeling in the banner after seeing that this image."
 
-![a4b-logos](assets/img/a4b-logos.jpg)
+![a4b-logos](assets/img/a4b-logos.png)
 
 
 ### Header 3
