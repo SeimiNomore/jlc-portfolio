@@ -19,8 +19,8 @@ platforms:
     link: https://www.linkedin.com/in/vaibhavvikas
 
 navigation:
-  - name: Readme
-    link: ./index.html
+  - name: Introduction
+    link: ./index.html#introduction
     sublist:
       - name: Image
         link: ./index.html#small-image
