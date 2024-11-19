@@ -23,7 +23,8 @@ navigation:
     link: ./index.html#introduction
   - name: Artworks Codex
     link: ./index.html#artworks-codex-feb-2019
-  - name: 
+  - name: Art Collectives and Personal Project Outreach
+    link: ./index.html#art-collectives-and-personal-project-outreach
     sublist:                                                       
       - name: Image
         link: ./index.html#small-image
