@@ -23,6 +23,8 @@ navigation:
     link: ./index.html#introduction
   - name: Artworks Codex
     link: ./index.html##artworks-codex-feb-2019
+  - name: Case of Anime4Breakfast
+    link: ./index.html##case-of-anime4breakfast
     sublist:
       - name: Art Collectives and Personal Project Outreach
         link: ./index.html##art-collectives-and-personal-project-outreach                                                        
