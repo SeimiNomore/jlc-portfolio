@@ -18,7 +18,7 @@ Engaging in this way wasn’t just about making art; it was about crafting a lif
 
 
 ## Header 2
-
+![a4b-blog-season](assets/img/a4b-a4b-blog-season.png))
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
