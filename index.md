@@ -36,19 +36,19 @@ In the luminous canon of Blaxploitation cinema, Melvin Van Peebles’ Sweet Swee
 ![Morgens Last Gig](assets/img/Morgens-Last-Gig.webp)
 
 * * *
-![dvspokdsv](https://)
+![Some kind of Blue](assets/img/Some%20kind%20of%20Blue%20Draft.jpg)
 
 * * *
-![dvspokdsv](https://)
+![penthouse](assets/img/Penthouse.png)
 
 * * *
-![dvspokdsv](https://)
+![Madame Bingo](assets/img/Madame%20Bingo.jpg)
 
 * * *
-![dvspokdsv](https://)
+![Oh Mini](assets/img/Oh%20Mini.jpg)
 
 * * *
-![dvspokdsv](https://)
+![The Great Reset](assets/img/The%20Great%20Reset.jpg)
 
 * * *
 ![dvspokdsv](https://)
