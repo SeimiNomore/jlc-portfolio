@@ -112,7 +112,7 @@ Anime4Breakfast! (a4b!) is a dynamic cultural space that celebrates the seamless
 
 ![a4b main4](assets/img/a4b_main4.png)
 
-#### Case study - KC93 RR
+##### Case study - KC93 RR
 
 ```js
 // Javascript code with syntax highlighting.
@@ -121,7 +121,7 @@ var fun = function lang(l) {
   return true;
 }
 ```
-#### Case study - MDNKA Midnight Kids Academy
+##### Case study - MDNKA Midnight Kids Academy
 
 ```ruby
 # Ruby code with syntax highlighting
@@ -130,9 +130,9 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-####Game Development
-
-#####Case study - BPH Battle Park High
+#### Game Development
+* * *
+##### Case study - BPH Battle Park High
 
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
