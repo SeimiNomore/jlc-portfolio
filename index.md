@@ -72,7 +72,8 @@ This painting is a reflection of Davis’s life: a blend of triumph and turmoil,
 #### Keisha Bed | Collection - *Sepia*
 * * *
 
-
+![3Essentials](assets/img/3Essentials.jpg)
+#### 3Essentials | Collection - Muse 1
 
 ## Art Collectives and Personal Project Outreach
 
