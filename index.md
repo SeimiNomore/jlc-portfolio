@@ -80,13 +80,13 @@ In the luminous canon of Blaxploitation cinema, Melvin Van Peebles’ Sweet Swee
 
 ![a4b-logos](assets/img/a4b-logos.png)
 
-![a4b_backflipkid-1](assets/img/backflipkid.png)
+![backflipkid](assets/img/backflipkid.png)
 
 ![a4b-kowloon](assets/img/a4b-kowloon.jpg)
 
 ![kid oreo2](assets/img/kid%20oreo2.png)
 
-![a4b diveinkid](assets/img/diveinkid.png)
+![diveinkid](assets/img/diveinkid.png)
 
 ![a4b kowloon art](assets/img/a4b_kowloon-art.png)
 
