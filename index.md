@@ -11,6 +11,13 @@ This was the chapter where I made the conscious decision to prioritize my own gr
 
 Engaging in this way wasn’t just about making art; it was about crafting a life where creativity and mindfulness intertwined, giving me the foundation to express myself with authenticity and purpose.
 
+![Trumpet over Giza Blue](assets/img/Trumpet_over_Giza-Blue.jpg)
+
+#### Trumpet over Giza Blue | Collection - Veil of the Sphinx
+
+
+
+
 ![I4NI](assets/img/I4I.png)
 
 #### I4NI |	Collection - Spooky
