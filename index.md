@@ -114,7 +114,7 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-#### Header 4
+### Case Study - BPH Battle Park High
 
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.

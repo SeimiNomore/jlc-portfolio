@@ -23,6 +23,7 @@ navigation:
     link: ./index.html#introduction
   - name: Artworks Codex
     link: ./index.html#artworks-codex-feb-2019
+    sublist:
   - name: Art Collectives and Personal Project Outreach
     link: ./index.html#art-collectives-and-personal-project-outreach
     sublist:
@@ -34,5 +35,8 @@ navigation:
         link: ./index.html#case-study---mdnka-midnight-kids-academy                                                        
       - name: Image
         link: ./index.html#small-image
+  - name: Game Development
+      - name: Case Study - BPH Battle Park High
+        link: ./index.html#bph-battle-park-high
   - name: Another Page
     link: ./another-page.html
