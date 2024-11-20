@@ -128,6 +128,18 @@ Central to the philosophy of Midnight Kids Academy is the idea that genuine grow
 * * *
 ##### Case study - BPH Battle Park High
 
+**Battle Park High Overview**
+
+*Battle Park High* is an exhilarating pixel art beat ‘em up that plunges players into a gritty, adrenaline-fueled fight for loyalty, survival, and justice. Set against the backdrop of a chaotic cityscape, this game tells the story of two street-smart teenagers, Leo and Maya, who find themselves pitted against a ruthless network of rival gangs when their mentor and the charismatic leader of their own gang, The Shadows, is kidnapped.
+
+The game opens with a chilling scene: The Shadows’ stronghold has been ambushed, leaving behind nothing but destruction and a cryptic message scrawled on the walls by the assailants. The news hits Leo and Maya like a punch to the gut—their leader, the one who pulled them off the streets and showed them a life beyond fear and desperation, is now a captive. The rival gangs have united, each with its own sinister reasons for wanting The Shadows to fall. But Leo and Maya aren’t about to let their family crumble without a fight.
+
+As players journey through *Battle Park High*, they’ll guide Leo and Maya through a labyrinthine world filled with pulsating synthwave music, explosive street brawls, and unexpected alliances. From abandoned amusement parks turned makeshift arenas to neon-lit rooftops patrolled by ruthless enforcers, every level pushes players deeper into the heart of gang warfare. Each rival gang has its own flair—The Rust Hounds, masters of brute force with their lead pipes and chains, and The Velvet Knives, a cunning group who rule the city’s dark alleys with unmatched agility.
+
+But *Battle Park High* isn’t just about the fights; it’s a narrative-driven experience that forces players to confront the thin line between loyalty and ambition. As the story unfolds, Leo and Maya will uncover secrets that threaten to fracture The Shadows from within, raising the stakes far beyond a mere rescue mission. The duo must rely not only on their combat prowess but on the bonds they’ve forged—and their wits—to navigate shifting loyalties, betrayals, and the ruthless hierarchy of the streets.
+
+
+
 
 
 
