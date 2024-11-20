@@ -27,12 +27,12 @@ In the luminous canon of Blaxploitation cinema, Melvin Van Peebles’ Sweet Swee
 
 ![Devils Shadow](assets/img/Devils_Shadow.jpg)
 
-#### The Ddevil's Shadow
+#### The Ddevil's Shadow | Collection - Phantoms of Blue
 * * *
 As the Phantom of Blues, Robert Johnson’s legacy is more than just his music—it is an enduring symbol of how stories become legends, of how the unseen can captivate and inspire. His spirit continues to haunt the crossroads of history and myth, forever leaving behind an enigmatic trail that invites endless curiosity and speculation.
 
 ![Morgens Last Gig](assets/img/Morgens-Last-Gig.webp)
-#### The Great Reset
+#### The Great Reset | Collection - Spooky
 * * *
 ![Some kind of Blue](assets/img/Some%20kind%20of%20Blue%20Draft.jpg)
 #### Some kind of Blue
