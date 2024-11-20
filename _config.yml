@@ -36,7 +36,8 @@ navigation:
       - name: Image
         link: ./index.html#small-image
   - name: Game Development
-        link: ./index.html#game-development
+    link: ./index.html#game-development
+    sublist:
       - name: Case Study - BPH Battle Park High
         link: ./index.html#case-study---bph-battle-park-high
   - name: Another Page
