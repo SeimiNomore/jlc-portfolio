@@ -71,7 +71,7 @@ This painting is a reflection of Davis’s life: a blend of triumph and turmoil,
 * * *
 
 ![Keisha Bed](assets/img/Keisha_Bed.jpg)
-#### Keisha Bed | Collection *Sepia*
+#### Keisha Bed | Collection - *Sepia*
 * * *
 
 
