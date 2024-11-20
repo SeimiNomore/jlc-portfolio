@@ -32,28 +32,29 @@ In the luminous canon of Blaxploitation cinema, Melvin Van Peebles’ Sweet Swee
 As the Phantom of Blues, Robert Johnson’s legacy is more than just his music—it is an enduring symbol of how stories become legends, of how the unseen can captivate and inspire. His spirit continues to haunt the crossroads of history and myth, forever leaving behind an enigmatic trail that invites endless curiosity and speculation.
 
 ![Morgens Last Gig](assets/img/Morgens-Last-Gig.webp)
-#### The Great Reset | Collection - Spooky
+#### Morgan's Last Gig | Collection - Phantom's
+of Blue
 * * *
 ![Some kind of Blue](assets/img/Some%20kind%20of%20Blue%20Draft.jpg)
-#### Some kind of Blue
+#### Some kind of Blue | Collection - Phantom's of Blue 
 * * *
 ![Penthouse](assets/img/Penthouse.png)
-#### Penthouse
+#### Penthouse | Collection - Muse 2
 * * *
 ![Madame Bingo](assets/img/Madame%20Bingo.jpg)
-#### Madame Bingo
+#### Madame Bingo | Collection - Muse 1
 * * *
 ![Oh Mini](assets/img/Oh%20Mini.jpg)
-#### Oh Mini
+#### Oh Mini | Collection - Muse 1
 * * *
 ![The Great Reset](assets/img/The%20Great%20Reset.jpg)
-#### The Great Reset
+#### The Great Reset | Collection - Spooky
 * * *
 ![Got your back](assets/img/Got%20your%20back.jpg)
-#### Got your back
+#### Got your back | Collection - Spooky
 * * *
 ![Keisha Bed](assets/img/Keisha_Bed.jpg)
-#### Keisha Bed
+#### Keisha Bed | Collection Sepia
 * * *
 
 
