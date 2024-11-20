@@ -35,19 +35,30 @@ In the luminous canon of Blaxploitation cinema, Melvin Van Peebles’ Sweet Swee
 
 ![dvspokdsv](https://)
 
+* * *
 ![dvspokdsv](https://)
 
+* * *
 ![dvspokdsv](https://)
 
+* * *
 ![dvspokdsv](https://)
 
+* * *
 ![dvspokdsv](https://)
 
+* * *
 ![dvspokdsv](https://)
 
+* * *
 ![dvspokdsv](https://)
 
+* * *
 ![dvspokdsv](https://)
+
+* * *
+
+
 
 # Art Collectives and Personal Project Outreach
   I collaborated with artists across a range of mediums to support and refine their creative practices. Through these partnerships, I gained hands-on experience in understanding the unique techniques and perspectives that each art form demands. This involvement not only deepened my appreciation for diverse artistic expressions but also enhanced my ability to contribute effectively to creative projects, bridging ideas and execution across various crafts.
