@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Introduction
+## Introduction
 This is a portfolio of my artworks in the form of [Case Studies] the works you will see here may very between Graphics Design, Digital Design, Ux/Ui, Charcter Develoopment, and Product development. Please take the time to the review the works that I’ve shown here, Some are apart of projects I worked on and others are from my own curiosity, The projects are compartmentalized the help the the viewer to understand the wide range of works in my porfilio. I will be updating this priodicaly.
 [Link to another page](./another-page.html).
 
@@ -60,7 +60,7 @@ In the luminous canon of Blaxploitation cinema, Melvin Van Peebles’ Sweet Swee
 
 
 
-# Art Collectives and Personal Project Outreach
+## Art Collectives and Personal Project Outreach
   I collaborated with artists across a range of mediums to support and refine their creative practices. Through these partnerships, I gained hands-on experience in understanding the unique techniques and perspectives that each art form demands. This involvement not only deepened my appreciation for diverse artistic expressions but also enhanced my ability to contribute effectively to creative projects, bridging ideas and execution across various crafts.
 
 ### Case study - anime4breakfast
@@ -114,7 +114,7 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-# Game Development
+## Game Development
 
 ### Case study - BPH Battle Park High
 
