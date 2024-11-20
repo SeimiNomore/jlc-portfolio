@@ -32,11 +32,11 @@ In the luminous canon of Blaxploitation cinema, Melvin Van Peebles’ Sweet Swee
 As the Phantom of Blues, Robert Johnson’s legacy is more than just his music—it is an enduring symbol of how stories become legends, of how the unseen can captivate and inspire. His spirit continues to haunt the crossroads of history and myth, forever leaving behind an enigmatic trail that invites endless curiosity and speculation.
 
 ![Morgens Last Gig](assets/img/Morgens-Last-Gig.webp)
-#### Morgan's Last Gig | Collection - Phantom's
-of Blue
+#### Morgan's Last Gig | Collection - Phantom's of Blue
 * * *
 Lee’s journey to becoming an urban legend began with this unyielding love. It wasn’t just about mastering an instrument; it was about making it speak. He could translate emotion into sound, pulling from the depths of joy, heartache, and everything in between. His trumpet was more than an instrument; it was a medium through which he shared his love for life, jazz, and the culture that surrounded it. The way he played was personal, almost as if he was having a conversation with each listener, drawing them into a shared experience of rhythm and soul.
- 
+
+!(Some kind of Blue)[assets/img/Some-kind-of-Blue.png]
 #### Some kind of Blue | Collection - Phantom's of Blue 
 * * *
 
