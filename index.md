@@ -1,10 +1,10 @@
 
 
-#### Introduction
+##### Introduction
 This is a portfolio of my artworks in the form of [Case Studies] the works you will see here may very between Graphics Design, Digital Design, Ux/Ui, Charcter Develoopment, and Product development. Please take the time to the review the works that I’ve shown here, Some are apart of projects I worked on and others are from my own curiosity, The projects are compartmentalized the help the the viewer to understand the wide range of works in my porfilio. I will be updating this priodicaly.
 [Link to another page](./another-page.html).
 
-##### Artworks Codex Feb 2019 - present
+#### Artworks Codex Feb 2019 - present
 This was the chapter where I made the conscious decision to prioritize my own growth and well-being. I knew it was time to give back to myself, to nurture that part of me that had been waiting patiently beneath the surface. I embarked on a journey into the depths of my creative expression, embracing the process not just as an artist but as an individual seeking transformation. Through the lens of fine art, I discovered the freedom to explore new techniques, push my boundaries, and fully immerse in the act of creation. This practice became a blend of artistic passion and inner discipline—a space where I could reflect, refine, and rediscover who I am at my core.
 
 Engaging in this way wasn’t just about making art; it was about crafting a life where creativity and mindfulness intertwined, giving me the foundation to express myself with authenticity and purpose.
@@ -75,11 +75,11 @@ This painting is a reflection of Davis’s life: a blend of triumph and turmoil,
 ![3Essentials](assets/img/3Essentials.jpg)
 ##### 3Essentials | Collection - Muse 1
 
-### Art Collectives and Personal Project Outreach
+#### Art Collectives and Personal Project Outreach
 
 I collaborated with artists across a range of mediums to support and refine their creative practices. Through these partnerships, I gained hands-on experience in understanding the unique techniques and perspectives that each art form demands. This involvement not only deepened my appreciation for diverse artistic expressions but also enhanced my ability to contribute effectively to creative projects, bridging ideas and execution across various crafts.
 
-#### Case study - anime4breakfast
+##### Case study - anime4breakfast
 
 
 ![a4b-blog-season](assets/img/a4b-blog-season.png)
@@ -90,7 +90,7 @@ Anime4Breakfast! (a4b!) is a dynamic cultural space that celebrates the seamless
 
 ![a4b_blog-page.png](assets/img/a4b_blog-page.png)
 
-#### a4b! issue #2 banner - 
+##### a4b! issue #2 banner - 
 
 > "This marked the inception of JoyBoy. JoyBoy was born from the emotions that surge within me during the creative process. I aimed to capture and embody that essence in this banner after being profoundly inspired by this image."eated from the feelings I have when I create my, I wanted to inbody that feeling in the banner after seeing that this image."
 
@@ -112,7 +112,7 @@ Anime4Breakfast! (a4b!) is a dynamic cultural space that celebrates the seamless
 
 ![a4b main4](assets/img/a4b_main4.png)
 
-### Case study - KC93 RR
+#### Case study - KC93 RR
 
 ```js
 // Javascript code with syntax highlighting.
@@ -121,7 +121,7 @@ var fun = function lang(l) {
   return true;
 }
 ```
-### Case study - MDNKA Midnight Kids Academy
+#### Case study - MDNKA Midnight Kids Academy
 
 ```ruby
 # Ruby code with syntax highlighting
@@ -130,9 +130,9 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-## Game Development
+####Game Development
 
-### Case study - BPH Battle Park High
+#####Case study - BPH Battle Park High
 
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
