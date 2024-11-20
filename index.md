@@ -34,22 +34,22 @@ In the luminous canon of Blaxploitation cinema, Melvin Van Peebles’ Sweet Swee
 * * *
 
 ![Morgens Last Gig](assets/img/Morgens-Last-Gig.webp)
-The Great Reset
+#### The Great Reset
 * * *
 ![Some kind of Blue](assets/img/Some%20kind%20of%20Blue%20Draft.jpg)
-Some kind of Blue
+#### Some kind of Blue
 * * *
 ![Penthouse](assets/img/Penthouse.png)
-Penthouse
+#### Penthouse
 * * *
 ![Madame Bingo](assets/img/Madame%20Bingo.jpg)
-Madame Bingo
+#### Madame Bingo
 * * *
 ![Oh Mini](assets/img/Oh%20Mini.jpg)
-Oh Mini
+#### Oh Mini
 * * *
 ![The Great Reset](assets/img/The%20Great%20Reset.jpg)
-The Great Reset
+#### The Great Reset
 * * *
 ![dvspokdsv](https://)
 
