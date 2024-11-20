@@ -14,11 +14,21 @@ This was the chapter where I made the conscious decision to prioritize my own gr
 
 Engaging in this way wasn’t just about making art; it was about crafting a life where creativity and mindfulness intertwined, giving me the foundation to express myself with authenticity and purpose.
 
-![dvspokdsv](https://)
+![I4NI](assets/img/I4I.png)
 
-![dvspokdsv](https://)
+I4NI |	Collection - Spooky
+---
+I4NI: A Testament to Misunderstood Youth
+In the intricacies of societal perceptions, I4NI emerges as a profound artistic statement that dissects the veiled interpretations of youth seen through the lens of uncertainty and trepidation. This compelling piece encapsulates the duality of youthful existence—a narrative shaped not by their own truths but by the apprehensions and misapprehensions of those observing from the outside. The title itself, a cryptic expression of “Eye for an Eye,” challenges the viewer to reexamine the reactive, often defensive ways society approaches the unknown.
 
-![dvspokdsv](https://)
+![Sweet Sweetblack Badass Song](assets/img/Sweet_Sweetblacks_Baadasssss_Song.jpg)
+
+**Sweet sweetblack’s Badass Song | Collection - Sepia**
+---
+The Art of Resilience: Kodak Black as the Modern Sweetback
+In the luminous canon of Blaxploitation cinema, Melvin Van Peebles’ Sweet Sweetback’s Baadasssss Song stands as a defiant, kinetic ode to survival, resistance, and the raw essence of self-determination. It’s within this framework that one can draw a seamless, almost mythical comparison to Kodak Black—a contemporary artist whose life and art form an unscripted narrative of struggle and tenacity. His world reflects the bruised, unfiltered resilience that Sweetback embodied, breathing life into the shared tale of overcoming systemic adversity.
+
+![Devils Shadow](assets/img/Devils_Shadow.jpg)
 
 ![dvspokdsv](https://)
 
