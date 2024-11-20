@@ -49,27 +49,27 @@ This painting is a reflection of Davis’s life: a blend of triumph and turmoil,
 * * *
 
 ![Penthouse](assets/img/Penthouse.png)
-#### Penthouse | Collection - *Muse 2*
+#### Penthouse | Collection - Muse 2
 * * *
 
 ![Madame Bingo](assets/img/Madame%20Bingo.jpg)
-#### Madame Bingo | Collection - *Muse 1*
+#### Madame Bingo | Collection - Muse 1
 * * *
 
 ![Oh Mini](assets/img/Oh%20Mini.jpg)
-#### Oh Mini | Collection - *Muse 1*
+#### Oh Mini | Collection - Muse 1
 * * *
 
 ![The Great Reset](assets/img/The%20Great%20Reset.jpg)
-#### The Great Reset | Collection - *Spooky*
+#### The Great Reset | Collection - Spooky
 * * *
 
 ![Got your back](assets/img/Got%20your%20back.jpg)
-#### Got your back | Collection - *Spooky*
+#### Got your back | Collection - Spooky
 * * *
 
 ![Keisha Bed](assets/img/Keisha_Bed.jpg)
-#### Keisha Bed | Collection - *Sepia*
+#### Keisha Bed | Collection - Sepia
 * * *
 
 ![3Essentials](assets/img/3Essentials.jpg)
