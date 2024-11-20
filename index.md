@@ -35,24 +35,31 @@ As the Phantom of Blues, Robert Johnson’s legacy is more than just his music�
 #### Morgan's Last Gig | Collection - Phantom's
 of Blue
 * * *
-![Some kind of Blue](assets/img/Some%20kind%20of%20Blue%20Draft.jpg)
+Lee’s journey to becoming an urban legend began with this unyielding love. It wasn’t just about mastering an instrument; it was about making it speak. He could translate emotion into sound, pulling from the depths of joy, heartache, and everything in between. His trumpet was more than an instrument; it was a medium through which he shared his love for life, jazz, and the culture that surrounded it. The way he played was personal, almost as if he was having a conversation with each listener, drawing them into a shared experience of rhythm and soul.
+ 
 #### Some kind of Blue | Collection - Phantom's of Blue 
 * * *
+
 ![Penthouse](assets/img/Penthouse.png)
 #### Penthouse | Collection - Muse 2
 * * *
+
 ![Madame Bingo](assets/img/Madame%20Bingo.jpg)
 #### Madame Bingo | Collection - Muse 1
 * * *
+
 ![Oh Mini](assets/img/Oh%20Mini.jpg)
 #### Oh Mini | Collection - Muse 1
 * * *
+
 ![The Great Reset](assets/img/The%20Great%20Reset.jpg)
 #### The Great Reset | Collection - Spooky
 * * *
+
 ![Got your back](assets/img/Got%20your%20back.jpg)
 #### Got your back | Collection - Spooky
 * * *
+
 ![Keisha Bed](assets/img/Keisha_Bed.jpg)
 #### Keisha Bed | Collection Sepia
 * * *
