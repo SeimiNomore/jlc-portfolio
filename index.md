@@ -33,7 +33,7 @@ In the luminous canon of Blaxploitation cinema, Melvin Van Peebles’ Sweet Swee
 #### The Ddevil's Shadow
 * * *
 
-![dvspokdsv](https://)
+![Morgens Last Gig](assets/img/Morgens-Last-Gig.webp)
 
 * * *
 ![dvspokdsv](https://)
