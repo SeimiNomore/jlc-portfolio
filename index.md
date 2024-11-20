@@ -13,7 +13,7 @@ Engaging in this way wasn’t just about making art; it was about crafting a lif
 
 ![Trumpet over Giza Blue](assets/img/Trumpet_over_Giza-Blue.jpg)
 
-#### Trumpet over Giza Blue | Collection - Veil of the Sphinx
+#### Trumpet over Giza Blue | Collection - *Veil of the Sphinx*
 
 
 
@@ -49,6 +49,7 @@ Lee’s journey to becoming an urban legend began with this unyielding (***Love*
 
 This painting is a reflection of Davis’s life: a blend of triumph and turmoil, this process of of a urban legend is (***Trauma***) genius and solitude. It captures the spirit of a man whose music transcended barriers, leaving a legacy that resonates long after the final note.
 * * *
+
 ![Penthouse](assets/img/Penthouse.png)
 #### Penthouse | Collection - Muse 2
 * * *
@@ -85,7 +86,7 @@ I collaborated with artists across a range of mediums to support and refine thei
 ![a4b-blog-season](assets/img/a4b-blog-season.png)
 
 #### a4b! blog season -
-> *Anime4Breakfast! (a4b!) is a dynamic cultural space that celebrates the seamless blend of anime and daily life, turning each morning into an electrifying ritual for enthusiasts and casual fans alike. At its core, a4b! aims to invigorate the day’s start with the rich storytelling, vivid art, and diverse narratives that anime offers—a medium that inspires and captivates millions around the world.*
+Anime4Breakfast! (a4b!) is a dynamic cultural space that celebrates the seamless blend of anime and daily life, turning each morning into an electrifying ritual for enthusiasts and casual fans alike. At its core, a4b! aims to invigorate the day’s start with the rich storytelling, vivid art, and diverse narratives that anime offers—a medium that inspires and captivates millions around the world.*
 
 
 ![a4b_blog-page.png](assets/img/a4b_blog-page.png)
