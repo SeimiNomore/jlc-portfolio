@@ -111,19 +111,21 @@ Anime4Breakfast! (a4b!) is a dynamic cultural space that celebrates the seamless
 ![a4b main4](assets/img/a4b-siber2.png)
 
 ##### Case study - KC93 RR
-![a4b_kc.png](assets/img/a4b_kc.png)
-![a4b-logos](assets/img/a4b-logos.png)
-![a4b-logos](assets/img/a4b-logos.png)
-![a4b-logos](assets/img/a4b-logos.png)
-![a4b-logos](assets/img/a4b-logos.png)
-![a4b-logos](assets/img/a4b-logos.png)
 
-![a4b-logos](assets/img/a4b-logos.png)
-![a4b-logos](assets/img/a4b-logos.png)
 
-![a4b-logos](assets/img/a4b-logos.png)
+![a4b kowloon](assets/img/a4b_kowloon.png)
 
-![a4b-logos](assets/img/a4b-logos.png)
+![a4bmusickowloon city](assets/img/a4bmusickowloon_city.png)
+
+![kc93](assets/img/kc93.png)
+![a4b-logos](assets/img/kc93-3.png)
+
+![KC93 new logo1](assets/img/KC93-new-logo1.png)
+
+![KC93 NEW REDO BlK](assets/img/KC93-NEW-REDO-BlK.png)
+![kc93splash](assets/img/kc93splash.jpg)
+
+
 ##### Case study - MDNKA Midnight Kids Academy
 
 Midnight Kids Academy is a vibrant, multifaceted initiative dedicated to cultivating creativity, resilience, and empowerment within a community of ambitious individuals. Grounded in the belief that inspiration often awakens when the world sleeps, the academy champions those who unlock their full potential during the twilight hours—dreamers, passionate strivers, and innovative thinkers who come alive when the world is at rest.
