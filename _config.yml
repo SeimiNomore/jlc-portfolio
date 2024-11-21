@@ -1,8 +1,8 @@
 title: JL Christian
 logo: /assets/img/jlc-avatar.png
-email: person@address.com
+email: mr.jonathanchristian@gmail.com
 description: Fine Artist | Art Curator
-favicon: true
+favicon: fulse
 color-scheme: light
 
 plugins:
@@ -13,10 +13,10 @@ plugins:
 platforms:
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
-    link: https://github.com/vaibhavvikas
+    link: https://github.com/seiminomore
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
-    link: https://www.linkedin.com/in/vaibhavvikas
+    link: https://www.linkedin.com/in/mr-jonathanchristian
 
 navigation:
   - name: Introduction
