@@ -102,13 +102,13 @@ Anime4Breakfast! (a4b!) is a dynamic cultural space that celebrates the seamless
 
 ![diveinkid](assets/img/diveinkid.png)
 
-![a4b kowloon art](assets/img/a4b_kowloon-art.png)
+![a4b kowloon art](assets/img/a4b-kowloon-art.png)
 
 ![a4b kowloon](assets/img/a4b-kowloon.jpg)
 
-![a4b main1](assets/img/a4b_main1.png)
+![a4b main1](assets/img/a4b-siber.png)
 
-![a4b main4](assets/img/a4b_main4.png)
+![a4b main4](assets/img/a4b-siber2.png)
 
 ##### Case study - KC93 RR
 
