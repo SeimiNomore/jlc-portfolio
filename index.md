@@ -113,17 +113,21 @@ Anime4Breakfast! (a4b!) is a dynamic cultural space that celebrates the seamless
 ##### Case study - KC93 RR
 
 
-![a4b kowloon](assets/img/a4b_kowloon.png)
 
 ![a4bmusickowloon city](assets/img/a4bmusickowloon_city.png)
+
+![kc93splash](assets/img/kc93splash.jpg)
+
+![a4b kowloon](assets/img/a4b_kowloon.png)
 
 ![kc93](assets/img/kc93.png)
 ![a4b-logos](assets/img/kc93-3.png)
 
+
 ![KC93 new logo1](assets/img/KC93-new-logo1.png)
 
 ![KC93 NEW REDO BlK](assets/img/KC93-NEW-REDO-BlK.png)
-![kc93splash](assets/img/kc93splash.jpg)
+
 
 
 ##### Case study - MDNKA Midnight Kids Academy
