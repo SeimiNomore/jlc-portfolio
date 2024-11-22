@@ -2,7 +2,7 @@ title: JL Christian
 logo: /assets/img/jlc-avatar.png
 email: mr.jonathanchristian@gmail.com
 description: Fine Artist | Art Curator
-favicon: fulse
+favicon: true
 color-scheme: light
 
 plugins:
