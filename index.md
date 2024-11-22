@@ -10,11 +10,9 @@ Engaging in this way wasn’t just about making art; it was about crafting a lif
 ![Trumpet over Giza Blue](assets/img/Trumpet_over_Giza-Blue.jpg)
 
 ##### Trumpet over Giza 1961 Blue | Collection - *Veil of the Sphinx*
-The trumpet’s sound might symbolize celestial alignment—did Armstrong’s presence in 1961 herald a hidden dialogue between the stars and ancient structures? The Sphinx, mute and eternal, watches as though guarding a riddle yet unsolved, a cipher in the language of music and sand.
+The trumpet symbolize alignment, I thought — did Armstrong’s presence in 1961 herald a hidden dialogue between the stars and ancient structures? The Sphinx, mute and eternal, watches as though guarding a riddle yet unsolved, a cipher in the language of music and sand.
 
 The numeral 1961, faint but deliberate, offers a historical anchor while leaving room for speculation: Was this a forgotten performance under the Egyptian sky, or does it signify a temporal crossroads, merging Armstrong’s revolutionary art with Egypt’s enduring mysteries? The interplay between sound and silence, past and present, suggests a deeper, esoteric truth embedded within.
-
-
 
 ![I4NI](assets/img/I4I.png)
 
@@ -50,6 +48,8 @@ This painting is a reflection of Davis’s life: a blend of triumph and turmoil,
 
 ![Penthouse](assets/img/Penthouse.png)
 ##### Penthouse | Collection - Muse 2
+
+As I created this piece, my focus was entirely on her—a woman standing by her penthouse window, lost in her own world. I wanted to capture her essence, the quiet confidence in her posture, the way she commanded attention effortlessly. This work, part of my *Muse* collection, is an homage to her presence—intoxicating and magnetic, a reminder of how some individuals hold an undeniable power simply by being.
 * * *
 
 ![Madame Bingo](assets/img/Madame%20Bingo.jpg)
