@@ -165,6 +165,8 @@ Park High All Boys Continuation School
 
 ![Yogi-CC](assets/img/Yogi-CC.jpg)
 
+**Yogi: The Relentless Fighter of Park High**  
+
 #### Yogi: The Relentless Fighter of Park High 
 
 Yogi, a hotheaded freshman with a volatile temper, is a name that strikes fear and respect throughout Metreon. Expelled from nearly every middle school in the city for fighting and defiance, his reputation as an unrelenting brawler was forged in the chaos of street battles and schoolyard clashes. Yogi's combative nature stems from a deeply personal tragedy—the loss of his sister, Enola, in an accident he witnessed as a child. This event left him grappling with life and death, channeling his pain into a relentless pursuit of strength.  
@@ -172,3 +174,28 @@ Yogi, a hotheaded freshman with a volatile temper, is a name that strikes fear a
 Known for his unpredictable fighting style and stamina, Yogi never backs down, earning him the moniker “The Zombie” among peers for his refusal to stay down in a fight. Despite countless defeats, he improves with every battle, his resilience unmatched. By the time he reached Park High, Yogi’s goal was clear: to become the school’s first undisputed champion and solidify his legacy.  
 
 When TDFW, a notorious gang led by Silas Marks, sought to recruit him, Yogi stood his ground, refusing to bow to anyone. Silas responded with a ruthless ambush, leaving Yogi and his faction hospitalized and disqualified from Park High’s freshman tournament. Despite the setback, Yogi’s unyielding spirit and reputation as a relentless fighter continue to define him, proving that even in defeat, his story is far from over. [Deep story verion](./yogis-story.md)
+
+*ICE CODA
+Park High All Boys Continuation School
+1st Year Freshmen*
+
+![ICE Coda](assets/img/ICE-Coda.jpg)
+
+**Ice Coda: The Shadow King of Park High**  
+
+From the moment Ice Coda set foot in Park High, the school’s corridors buzzed with tension. Known across Metreon City as a figure of ruthless precision, Ice wasn’t there to blend in—he was there to conquer. Cold, calculating, and unshakable, he carried the weight of a reputation that left even the boldest delinquents hesitant to cross him.  
+
+Ice’s legend began in middle school, where he and his closest friend ruled as an unstoppable duo. Together, they dismantled every rival, cementing their reign by their second year. But Ice’s ambition demanded more. In a chilling act of betrayal, he challenged his friend to a fight for supremacy and, even after securing victory, broke his arm to send a brutal message: power was his alone. The betrayal earned him the name “Ice,” a moniker that captured the frost in his veins.
+
+![coda pixel](assets/img/coda-pixel.png)
+Pixel sprite veriation of ICE Coda 
+
+At Park High, Ice’s reputation as a tactical mastermind preceded him. In the Freshman Battle tournament, his surgical fighting style left opponents battered and broken before they realized the fight had even started. His cold efficiency and unflinching calm made him the most feared contender in the arena, his icy stare enough to shake even the most hardened fighters.  
+
+When chaos erupted and TDFW disrupted the balance of power, Ice found himself drawn into an uneasy alliance with Pooma and Tum-Tum. It wasn’t loyalty or friendship that compelled him—it was strategy. Ice saw opportunity in the turmoil, leveraging the partnership to solidify his control and set the stage for his ultimate goal: to rule both Park High and Metreon City.  
+
+Every move Ice made was deliberate, every step calculated. While others fought with brute force and raw emotion, Ice weaponized his intelligence and precision, turning the chaos around him into a battlefield of his design. To his enemies, he was an unstoppable force; to his allies, a dangerous enigma.  
+
+With Park High descending into a storm of rivalries and shifting loyalties, Ice Coda stands at the eye of it all, calm, composed, and deadly. He isn’t fighting for survival—he’s fighting to rule. And for those who dare to stand in his way, Ice’s chilling wrath will leave them broken and forgotten, just another step on his path to becoming the undisputed king of Metreon City. [Deep story verion](./coda-story.md)
+
+
