@@ -165,8 +165,6 @@ Park High All Boys Continuation School
 
 ![Yogi-CC](assets/img/Yogi-CC.jpg)
 
-**Yogi: The Relentless Fighter of Park High**  
-
 #### Yogi: The Relentless Fighter of Park High 
 
 Yogi, a hotheaded freshman with a volatile temper, is a name that strikes fear and respect throughout Metreon. Expelled from nearly every middle school in the city for fighting and defiance, his reputation as an unrelenting brawler was forged in the chaos of street battles and schoolyard clashes. Yogi's combative nature stems from a deeply personal tragedy—the loss of his sister, Enola, in an accident he witnessed as a child. This event left him grappling with life and death, channeling his pain into a relentless pursuit of strength.  
