@@ -142,7 +142,7 @@ Central to the philosophy of Midnight Kids Academy is the idea that genuine grow
 
 
 ## Game Development
-#### Case study - BPH Battle Park High (The Story of the Five Legends)
+#### Case study - BPH Battle Park High
 
 *Park High Reborn*  
 
