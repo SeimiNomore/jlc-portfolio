@@ -2,7 +2,7 @@
 layout: post
 ---
 
-### The Relentless Flame of Park High: Yogi’s Story
+#### The Relentless Flame of Park High: Yogi’s Story
 ___
 
 ![Yogi-CC](assets/img/Yogi-CC.jpg)
