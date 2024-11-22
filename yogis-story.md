@@ -2,7 +2,9 @@
 layout: post
 ---
 
-## The Relentless Flame of Park High: Yogi’s Story  
+### The Relentless Flame of Park High: Yogi’s Story
+___
+
 ![Yogi-CC](assets/img/Yogi-CC.jpg)
 
 *Yogi,* the brash, loudmouthed firebrand, strode through the rusted gates of Park High’s All Boys School with a swagger that dared the world to cross him. Known across the city for his volatile temper and penchant for chaos, Yogi had been expelled from nearly every middle school in Metreon. He wasn’t just a troublemaker; he was a name whispered with both fear and awe—a kid who fought like his life depended on it, because, in a way, it did.  
