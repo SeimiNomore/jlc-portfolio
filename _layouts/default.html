@@ -15,12 +15,59 @@
     <link rel="stylesheet" href="{{ "/assets/css/colors-ColorScheme.css?v=" | replace: "ColorScheme", ColorScheme | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <link rel="preload" href="{{site.logo | relative_url}}" as="image">
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sticky Config.yml</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+        .container {
+            display: flex;
+        }
+        .content {
+            flex: 1;
+            padding: 20px;
+        }
+        .sticky-box {
+            position: sticky;
+            top: 0; /* Distance from the top of the viewport */
+            background: #f4f4f4;
+            padding: 20px;
+            border: 1px solid #ccc;
+            max-height: 100vh;
+            overflow: auto; /* Enable scrolling within the sticky area if content exceeds its height */
+        }
+    </style>
+
     {% include head-custom.html %}
   </head>
   <body>
     <div class="wrapper">
       <div class="sidebar">
         <header>
+          <div class="container">
+            <aside class="sticky-box">
+                <h3>config.yml</h3>
+                <pre>
+    theme: dark
+    layout: grid
+    showHeader: true
+    footer: minimal
+                </pre>
+            </aside>
+            <div class="content">
+                <h1>Content Section</h1>
+                <p>Scroll down to see the sticky effect in action!</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec placerat...</p>
+                <!-- Add more content here to make the page scrollable -->
+            </div>
+        </div>
+
+
+
           {%- include header.html -%}
         </header>
         {% include mobile.html %}
