@@ -2,12 +2,10 @@
 layout: post
 ---
 
-### The Relentless Flame of Park High: ICE Coda’s Story
+### Ice Coda's Full Story: The Shadow King of Park High
 ___
 
 ![ICE-Coda](https:assets/img/ICE-Coda.jpg)
-
-**Ice Coda: The Shadow King of Park High**  
 
 Ice Coda wasn’t the kind of delinquent who sought attention—he didn’t need to. His reputation arrived at Park High long before he did, whispered through the hallways like a ghost story. Known throughout Metreon City for his calculated cruelty and unflinching demeanor, Ice wasn’t after fleeting fame or petty rivalries. His ambitions were larger, darker: to transform Park High into the foundation of a citywide empire.  
 
