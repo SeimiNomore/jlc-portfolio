@@ -8,4 +8,4 @@ AllCops:
     - vendor/**/*
 
 Layout/LineLength:
-  Enabled: false
+  Enabled: true
