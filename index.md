@@ -1,81 +1,80 @@
 ##### Portfolio Introduction
 > This is a portfolio of my artworks in the form of [Case Studies] the works you will see here may very between Graphics Design, Digital Design, Ux/Ui, Charcter Develoopment, and Product development. Please take the time to the review the works that I’ve shown here, Some are apart of projects I worked on and others are from my own curiosity, The projects are compartmentalized the help the the viewer to understand the wide range of works in my porfilio. I will be updating this priodicaly.
-[Link to another page](./another-page.html).
 
-#### Artworks Codex Feb 2019 - present
+## Artworks Codex Feb 2019 - present
 This was the chapter where I made the conscious decision to prioritize my own growth and well-being. I knew it was time to give back to myself, to nurture that part of me that had been waiting patiently beneath the surface. I embarked on a journey into the depths of my creative expression, embracing the process not just as an artist but as an individual seeking transformation. Through the lens of fine art, I discovered the freedom to explore new techniques, push my boundaries, and fully immerse in the act of creation. This practice became a blend of artistic passion and inner discipline—a space where I could reflect, refine, and rediscover who I am at my core.
 
 Engaging in this way wasn’t just about making art; it was about crafting a life where creativity and mindfulness intertwined, giving me the foundation to express myself with authenticity and purpose.
 
 ![Trumpet over Giza Blue](assets/img/Trumpet_over_Giza-Blue.jpg)
 
-##### Trumpet over Giza 1961 Blue | Collection - *Veil of the Sphinx*
+#### Trumpet over Giza 1961 Blue | Collection - *Veil of the Sphinx*
 The trumpet symbolize alignment, I thought — did Armstrong’s presence in 1961 herald a hidden dialogue between the stars and ancient structures? The Sphinx, mute and eternal, watches as though guarding a riddle yet unsolved, a cipher in the language of music and sand.
 
 The numeral 1961, faint but deliberate, offers a historical anchor while leaving room for speculation: Was this a forgotten performance under the Egyptian sky, or does it signify a temporal crossroads, merging Armstrong’s revolutionary art with Egypt’s enduring mysteries? The interplay between sound and silence, past and present, suggests a deeper, esoteric truth embedded within.
 
 ![I4NI](assets/img/I4I.png)
 
-##### I4NI |	Collection - Spooky
+#### I4NI |	Collection - Spooky
 
 I4NI: A Testament to Misunderstood Youth
 In the intricacies of societal perceptions, I4NI emerges as a profound artistic statement that dissects the veiled interpretations of youth seen through the lens of uncertainty and trepidation. This compelling piece encapsulates the duality of youthful existence—a narrative shaped not by their own truths but by the apprehensions and misapprehensions of those observing from the outside. The title itself, a cryptic expression of “Eye for an Eye,” challenges the viewer to reexamine the reactive, often defensive ways society approaches the unknown.
 * * *
 ![Sweet Sweetblack Badass Song](assets/img/Sweet_Sweetblacks_Baadasssss_Song.jpg)
 
-##### Sweet sweetblack’s Badass Song | Collection - Sepia
+#### Sweet sweetblack’s Badass Song | Collection - Sepia
 
 The Art of Resilience: Kodak Black as the Modern Sweetback
 In the luminous canon of Blaxploitation cinema, Melvin Van Peebles’ Sweet Sweetback’s Baadasssss Song stands as a defiant, kinetic ode to survival, resistance, and the raw essence of self-determination. It’s within this framework that one can draw a seamless, almost mythical comparison to Kodak Black—a contemporary artist whose life and art form an unscripted narrative of struggle and tenacity. His world reflects the bruised, unfiltered resilience that Sweetback embodied, breathing life into the shared tale of overcoming systemic adversity.
 * * *
 ![Devils Shadow](assets/img/Devils_Shadow.jpg)
 
-##### The Ddevil's Shadow | Collection - Phantoms of Blue
+#### The Ddevil's Shadow | Collection - Phantoms of Blue
 
 As the (***Phantom***) of Blues, Robert Johnson’s legacy is more than just his music—it is an enduring symbol of how stories become legends, of how the unseen can captivate and inspire. His spirit continues to haunt the crossroads of history and myth, forever leaving behind an enigmatic trail that invites endless curiosity and speculation.
 * * *
 ![Morgens Last Gig](assets/img/Morgens-Last-Gig.webp)
-##### Morgan's Last Gig | Collection - Phantom's of Blue
+#### Morgan's Last Gig | Collection - Phantom's of Blue
 
 Lee’s journey to becoming an urban legend began with this unyielding (***Love***). It wasn’t just about mastering an instrument; it was about making it speak. He could translate emotion into sound, pulling from the depths of joy, heartache, and everything in between. His trumpet was more than an instrument; it was a medium through which he shared his love for life, jazz, and the culture that surrounded it. The way he played was personal, almost as if he was having a conversation with each listener, drawing them into a shared experience of rhythm and soul.
 * * *
 
 ![Some kind of Blue](assets/img/Some%20kind%20of%20Blue%20Draft.jpg)
-##### Some kind of Blue | Collection - Phantom's of Blue
+#### Some kind of Blue | Collection - Phantom's of Blue
 
 This painting is a reflection of Davis’s life: a blend of triumph and turmoil, this process of of a urban legend is (***Trauma***) genius and solitude. It captures the spirit of a man whose music transcended barriers, leaving a legacy that resonates long after the final note.
 * * *
 
 ![Penthouse](assets/img/Penthouse.png)
-##### Penthouse | Collection - Muse 2
+#### Penthouse | Collection - Muse 2
 
 As I created this piece, my focus was entirely on her—a woman standing by her penthouse window, lost in her own world. I wanted to capture her essence, the quiet confidence in her posture, the way she commanded attention effortlessly. This work, part of my *Muse* collection, is an homage to her presence—intoxicating and magnetic, a reminder of how some individuals hold an undeniable power simply by being.
 * * *
 
 ![Madame Bingo](assets/img/Madame%20Bingo.jpg)
-##### Madame Bingo | Collection - Muse 1
+#### Madame Bingo | Collection - Muse 1
 * * *
 
 ![Oh Mini](assets/img/Oh%20Mini.jpg)
-##### Oh Mini | Collection - Muse 1
+#### Oh Mini | Collection - Muse 1
 * * *
 
 ![The Great Reset](assets/img/The%20Great%20Reset.jpg)
-##### The Great Reset | Collection - Spooky
+#### The Great Reset | Collection - Spooky
 * * *
 
 ![Got your back](assets/img/Got%20your%20back.jpg)
-##### Got your back | Collection - Spooky
+#### Got your back | Collection - Spooky
 * * *
 
 ![Keisha Bed](assets/img/Keisha_Bed.jpg)
-##### Keisha Bed | Collection - Sepia
+#### Keisha Bed | Collection - Sepia
 * * *
 
 ![3Essentials](assets/img/3Essentials.jpg)
-##### 3Essentials | Collection - Muse 1
+#### 3Essentials | Collection - Muse 1
 
-#### Art Collectives and Personal Project Outreach
+## Art Collectives and Personal Project Outreach
 
 I collaborated with artists across a range of mediums to support and refine their creative practices. Through these partnerships, I gained hands-on experience in understanding the unique techniques and perspectives that each art form demands. This involvement not only deepened my appreciation for diverse artistic expressions but also enhanced my ability to contribute effectively to creative projects, bridging ideas and execution across various crafts.
 
@@ -142,11 +141,10 @@ Central to the philosophy of Midnight Kids Academy is the idea that genuine grow
 
 
 
-#### Game Development
-* * *
-##### Case study - BPH Battle Park High (The Story of the Five Legends)
+## Game Development
+#### Case study - BPH Battle Park High (The Story of the Five Legends)
 
-**A City on the Brink**  
+*Park High Reborn*  
 
 Metreon City is unraveling. Ravaged by violent turf wars, its streets belong to rival gangs of angry teens, each vying for dominance in an endless cycle of chaos. The city’s most dangerous battlegrounds aren't just the alleyways but the high schools, where grudges turn into warfare and alliances are forged in blood.  
 
@@ -158,32 +156,21 @@ Though they come from different walks of life and aren’t the tightest-knit gro
 
 This is the story of four freshmen rising to legendary status. A tale of brotherhood forged in fire, of a school defended against all odds, and of a city on the brink. But the question remains: **will they have what it takes to survive the fight of their lives?** 
 
-###### The famous five freshmen of the first year battle:
+#### The famous five freshmen of the first year battle:
 
-YOGI - Choovio Raymond
+*YOGI - Choovio Raymond
 Park High All Boys Continuation School
-1st Year Freshmen
+1st Year Freshmen*
 
 ![Yogi-CC](assets/img/Yogi-CC.jpg)
 
-Yogi, the brash, loudmouthed firebrand, strode through the rusted gates of Park High’s All Boys School with a swagger that dared the world to cross him. Known across the city for his volatile temper and penchant for chaos, Yogi had been expelled from nearly every middle school in Metreon. He wasn’t just a troublemaker; he was a name whispered with both fear and awe—a kid who fought like his life depended on it, because, in a way, it did.
+**Yogi: The Relentless Fighter of Park High**  
 
-Yogi’s young life was shaped by tragedy. Losing his sister, Enola Raymond, in a horrific accident he witnessed as a child left him with a fractured view of life and death. The event hardened him, and by his first year of middle school, his behavior became erratic and destructive. He skipped classes, picked fights, and hurled insults with reckless abandon. If there was a middle school in Metreon, Yogi had likely been kicked out of it.
+Yogi, a hotheaded freshman with a volatile temper, is a name that strikes fear and respect throughout Metreon. Expelled from nearly every middle school in the city for fighting and defiance, his reputation as an unrelenting brawler was forged in the chaos of street battles and schoolyard clashes. Yogi's combative nature stems from a deeply personal tragedy—the loss of his sister, Enola, in an accident he witnessed as a child. This event left him grappling with life and death, channeling his pain into a relentless pursuit of strength.  
 
-His infamous street reputation began to solidify during those turbulent years. One fight, in particular, stood out: an encounter with Pooma, a fellow troublemaker with a knack for survival. Though details of their clash remain murky, the two emerged with mutual respect—Pooma later described Yogi as “the one that didn’t stay down.”
+Known for his unpredictable fighting style and stamina, Yogi never backs down, earning him the moniker “The Zombie” among peers for his refusal to stay down in a fight. Despite countless defeats, he improves with every battle, his resilience unmatched. By the time he reached Park High, Yogi’s goal was clear: to become the school’s first undisputed champion and solidify his legacy.  
 
-For Yogi, fighting wasn’t just an outlet; it became his purpose. The adrenaline, the pain, and the triumph filled the void left by his sister’s death. Street brawls became his battlegrounds, and he quickly earned the nickname “The Hothead” for his unpredictable style and unyielding stamina. Yogi’s relentless fighting spirit even landed him in juvenile detention after a scuffle with a police officer—a testament to his refusal to back down from anyone, authority figures included.
-
-Yogi’s fighting style was as erratic as his personality. He could collapse from exhaustion mid-battle yet still refuse to fall completely. His uncanny ability to recover and learn from each fight made him a force to be reckoned with. Defeats only fueled his hunger for improvement, and with every punch thrown and every blow endured, he grew stronger.
-
-When the Freshman Battle tournament at Park High began, Yogi saw his chance to channel his raw energy into a singular goal: to claim the title of champion and establish himself as the first undisputed king of the school. But Yogi wasn’t just in it for glory; he had a plan. With a vision of taking on the upperclassmen, he began forming his own faction, preparing for war against the school’s most dangerous opponents.
-
-Yogi’s rise quickly caught the attention of Silas Marks, the cunning leader of TDFW. Silas, along with his generals Ryder and Ralph, had encountered Yogi during a stint in juvenile detention. Ryder had nearly lost to Yogi’s relentless assault, and Ralph only managed to subdue him with significant effort. The two walked away shaken, dubbing him a “zombie” for his refusal to stay down. Recognizing Yogi’s potential, Silas attempted to recruit him into TDFW’s ranks.
-
-But Yogi was nobody’s pawn. He refused Silas outright, rejecting any notion of servitude. Insulted and enraged, Silas retaliated with a brutal ambush outside school grounds. Leading TDFW himself, Silas unleashed his gang’s full force on Yogi and his faction. Despite their fierce resistance, the group was overwhelmed by sheer numbers. The assault left Yogi and his comrades hospitalized, disqualifying him from the Freshman Battle and delaying his long-awaited showdown with Silas.
-
-Yogi’s defeat was a temporary setback, but his spirit remained unbroken. His story was far from over, and Park High was about to learn that even the hardest punches couldn’t extinguish the fire burning inside him.
-
+When TDFW, a notorious gang led by Silas Marks, sought to recruit him, Yogi stood his ground, refusing to bow to anyone. Silas responded with a ruthless ambush, leaving Yogi and his faction hospitalized and disqualified from Park High’s freshman tournament. Despite the setback, Yogi’s unyielding spirit and reputation as a relentless fighter continue to define him, proving that even in defeat, his story is far from over. [Deep story verion](./yogis-story.md)
 
 
 
