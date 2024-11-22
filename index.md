@@ -162,16 +162,13 @@ This is the story of four freshmen rising to legendary status. A tale of brother
 Park High All Boys Continuation School
 1st Year Freshmen*
 
+
 ![Yogi-CC](assets/img/Yogi-CC.jpg)
 
-**Yogi: The Relentless Fighter of Park High**  
+#### Yogi: The Relentless Fighter of Park High 
 
 Yogi, a hotheaded freshman with a volatile temper, is a name that strikes fear and respect throughout Metreon. Expelled from nearly every middle school in the city for fighting and defiance, his reputation as an unrelenting brawler was forged in the chaos of street battles and schoolyard clashes. Yogi's combative nature stems from a deeply personal tragedy—the loss of his sister, Enola, in an accident he witnessed as a child. This event left him grappling with life and death, channeling his pain into a relentless pursuit of strength.  
 
 Known for his unpredictable fighting style and stamina, Yogi never backs down, earning him the moniker “The Zombie” among peers for his refusal to stay down in a fight. Despite countless defeats, he improves with every battle, his resilience unmatched. By the time he reached Park High, Yogi’s goal was clear: to become the school’s first undisputed champion and solidify his legacy.  
 
 When TDFW, a notorious gang led by Silas Marks, sought to recruit him, Yogi stood his ground, refusing to bow to anyone. Silas responded with a ruthless ambush, leaving Yogi and his faction hospitalized and disqualified from Park High’s freshman tournament. Despite the setback, Yogi’s unyielding spirit and reputation as a relentless fighter continue to define him, proving that even in defeat, his story is far from over. [Deep story verion](./yogis-story.md)
-
-
-
-
