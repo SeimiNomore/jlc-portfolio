@@ -188,7 +188,8 @@ From the moment Ice Coda set foot in Park High, the school’s corridors buzzed 
 Ice’s legend began in middle school, where he and his closest friend ruled as an unstoppable duo. Together, they dismantled every rival, cementing their reign by their second year. But Ice’s ambition demanded more. In a chilling act of betrayal, he challenged his friend to a fight for supremacy and, even after securing victory, broke his arm to send a brutal message: power was his alone. The betrayal earned him the name “Ice,” a moniker that captured the frost in his veins.
 
 ![coda pixel](assets/img/coda-pixel.png)
-Pixel sprite veriation of ICE Coda 
+
+Pixel sprite variation of *ICE Coda* 
 
 At Park High, Ice’s reputation as a tactical mastermind preceded him. In the Freshman Battle tournament, his surgical fighting style left opponents battered and broken before they realized the fight had even started. His cold efficiency and unflinching calm made him the most feared contender in the arena, his icy stare enough to shake even the most hardened fighters.  
 
