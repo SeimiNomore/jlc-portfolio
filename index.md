@@ -213,7 +213,7 @@ Ice’s legend began in middle school, where he and his closest friend ruled as 
 
 ![coda pixel](assets/img/coda-pixel.png)
 
-Pixel sprite variation of *ICE Coda* 
+Pixel sprite variation of **ICE Coda** 
 
 At Park High, Ice’s reputation as a tactical mastermind preceded him. In the Freshman Battle tournament, his surgical fighting style left opponents battered and broken before they realized the fight had even started. His cold efficiency and unflinching calm made him the most feared contender in the arena, his icy stare enough to shake even the most hardened fighters.  
 
