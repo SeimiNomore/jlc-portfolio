@@ -113,8 +113,9 @@ As *Anime4Breakfast* grew, it became more than an artistic exploration; it becam
 
 
 ![a4b Hrz 01](assets/img/a4b_Hrz-01.png)
-
 ![a4b-beta](assets/img/a4b-beta.png)
+![a4b-alpha-flag](assets/img/a4b-alpha-flag.png)
+
 
 ![a4b-logos](assets/img/a4b-logos.png)
 
