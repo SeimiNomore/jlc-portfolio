@@ -241,9 +241,12 @@ At Park High, Ice’s reputation as a tactical mastermind preceded him. In the F
 
  [Deep story verion](./coda-story.md)
 
+**Antagonist Gang - Dance Floor Wolfs** 
 
 ![Hodge CC](assets/img/Hodge-CC.jpg)
 
 **Hodge** Vice Right-Hand - 
 
 ![Rocco CC](assets/img/Rocco-CC.jpg)
+
+**Rocco** Vice Left-Hand -
