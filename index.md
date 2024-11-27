@@ -117,13 +117,13 @@ As *Anime4Breakfast* grew, it became more than an artistic exploration; it becam
 
 ![a4b-blog-season](assets/img/a4b-blog-season.png)
 
-#### a4b! blog season -
+**a4b! blog season -**
 > *Anime4Breakfast! (a4b!) is a dynamic cultural space that celebrates the seamless blend of anime and daily life, turning each morning into an electrifying ritual for enthusiasts and casual fans alike. At its core, a4b! aims to invigorate the day’s start with the rich storytelling, vivid art, and diverse narratives that anime offers—a medium that inspires and captivates millions around the world.*
 
 
 ![a4b_blog-page.png](assets/img/a4b_blog-page.png)
 
-**a4b! issue #2 banner** - 
+**a4b! issue #2 banner -**
 
 > *"This marked the inception of JoyBoy. JoyBoy was born from the emotions that surge within me during the creative process. I aimed to capture and embody that essence in this banner after being profoundly inspired by this image."eated from the feelings I have when I create my, I wanted to inbody that feeling in the banner after seeing that this image."*
 
