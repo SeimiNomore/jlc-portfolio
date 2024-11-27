@@ -231,8 +231,6 @@ Park High All Boys Continuation School
 
 From the moment Ice Coda set foot in Park High, the school’s corridors buzzed with tension. Known across Metreon City as a figure of ruthless precision, Ice wasn’t there to blend in—he was there to conquer. Cold, calculating, and unshakable, he carried the weight of a reputation that left even the boldest delinquents hesitant to cross him.  
 
-Ice’s legend began in middle school, where he and his closest friend ruled as an unstoppable duo. Together, they dismantled every rival, cementing their reign by their second year. But Ice’s ambition demanded more. In a chilling act of betrayal, he challenged his friend to a fight for supremacy and, even after securing victory, broke his arm to send a brutal message: power was his alone. The betrayal earned him the name “Ice,” a moniker that captured the frost in his veins.
-
 ![coda pixel](assets/img/coda-pixel.png)
 
 Pixel sprite variation of **ICE Coda** 
