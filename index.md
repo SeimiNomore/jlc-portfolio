@@ -179,9 +179,9 @@ Through its presence in the logo, JoyBoy serves as a beacon of inspiration, remi
 
 ![KC93 NEW REDO BlK](assets/img/KC93-NEW-REDO-BlK.png)
 
-![a4b milesdeva timothy](assets/img/a4b_miles-deval-timothy.png)
+![a4b milesdeva timothy](assets/img/a4b-miles-deval-timothy.png.png)
 
-![]()
+![a4b nolis](assets/img/a4b-nolis.png.png)
 
 ![]()
 
