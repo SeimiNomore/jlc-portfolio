@@ -90,7 +90,7 @@ This work seamlessly combines the unsettling tone of the Spooky collection with 
 #### 3Essentials | Collection - Muse 1
 
 ![Coliseum](assets/img/Coliseum.jpeg)
-#### Coliseum | Otomo Drive
+#### Coliseum | Collection - Otomo Drive
 
 
 ## Art Collectives and Personal Project Outreach
