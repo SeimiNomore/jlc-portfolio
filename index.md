@@ -175,7 +175,7 @@ Through its presence in the logo, JoyBoy serves as a beacon of inspiration, remi
 
 ![nolisphoto-2](assets/img/nolisphoto-2.png)
 
-![a4b pixel]assets/img/a4b-pixel.png)
+![a4b pixel](assets/img/a4b-pixel.png)
 
 ![a4b milesdeva timothy](assets/img/a4b-miles-deval-timothy.png.png)
 
