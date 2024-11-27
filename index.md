@@ -16,12 +16,15 @@ The numeral 1961, faint but deliberate, offers a historical anchor while leaving
 
 ![](assets/img/Moor.jpg)
 
-![](assets/img/White_Bag.png)
+#### Moor | Collection - Spooky
 
+![](assets/img/White_Bag.png)
+#### White Bag | Collection - Muse 2
 ![]()
 
 ![immortal-sosa](assets/img/immortal-sosa.jpg)
 
+#### Immortal Sosa | Collection - Sepia
 ![]()
 
 ![I4NI](assets/img/I4I.png)
