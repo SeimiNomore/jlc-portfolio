@@ -144,7 +144,6 @@ Through its presence in the logo, JoyBoy serves as a beacon of inspiration, remi
 
 ![anime_nun](assets/img/anime_nun.png)
 
-=======
 ![a4b-beta](assets/img/a4b-beta.png)
 ![a4b Hrz 01](assets/img/a4b_Hrz-01.png)
 ![a4b-alpha-flag](assets/img/a4b-alpha-flag.png)
