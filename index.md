@@ -12,6 +12,17 @@ Engaging in this way wasn’t just about making art; it was about crafting a lif
 The trumpet symbolize alignment, I thought — did Armstrong’s presence in 1961 herald a hidden dialogue between the stars and ancient structures? The Sphinx, mute and eternal, watches as though guarding a riddle yet unsolved, a cipher in the language of music and sand.
 
 The numeral 1961, faint but deliberate, offers a historical anchor while leaving room for speculation: Was this a forgotten performance under the Egyptian sky, or does it signify a temporal crossroads, merging Armstrong’s revolutionary art with Egypt’s enduring mysteries? The interplay between sound and silence, past and present, suggests a deeper, esoteric truth embedded within.
+* * *
+
+![](assets/img/Moor.jpg)
+
+![](assets/img/White_Bag.png)
+
+![]()
+
+![immortal-sosa](assets/img/immortal-sosa.jpg)
+
+![]()
 
 ![I4NI](assets/img/I4I.png)
 
@@ -77,6 +88,10 @@ This work seamlessly combines the unsettling tone of the Spooky collection with 
 
 ![3Essentials](assets/img/3Essentials.jpg)
 #### 3Essentials | Collection - Muse 1
+
+![Coliseum](assets/img/Coliseum.jpeg)
+#### Coliseum | Otomo Drive
+
 
 ## Art Collectives and Personal Project Outreach
 
