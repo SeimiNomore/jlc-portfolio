@@ -123,7 +123,7 @@ As *Anime4Breakfast* grew, it became more than an artistic exploration; it becam
 
 ![a4b_blog-page.png](assets/img/a4b_blog-page.png)
 
-#### a4b! issue #2 banner - 
+**a4b! issue #2 banner** - 
 
 > *"This marked the inception of JoyBoy. JoyBoy was born from the emotions that surge within me during the creative process. I aimed to capture and embody that essence in this banner after being profoundly inspired by this image."eated from the feelings I have when I create my, I wanted to inbody that feeling in the banner after seeing that this image."*
 
@@ -141,7 +141,7 @@ The creation of the A4B logo was born from a nostalgic spark of imagination that
 
 > The idea for **Anime4Breakfast** came during countless late-night sessions watching Adult Swim, waiting patiently for the anime block at 11:30 P.M. It struck me how late the wait felt—so much so that they might as well call it "Anime for Breakfast." And that’s when it all came together: "I'll create an anime world of my own!" From that epiphany, Anime4Breakfast was born—a platform where art, creativity, and nostalgia converge into something extraordinary. 
 
-***The Color Palette of the A4B! logo***
+**The Color Palette of the A4B! logo**
 
 The color palette of the A4B logo plays a central role in its identity, beginning with the aqua blue backdrop. This shade was inspired by the concept of an "Anime Island," a place of escape and creativity that reflects the boundless imagination tied to anime culture. Aqua blue became the foundation, symbolizing a calm yet adventurous sea of ideas, inviting viewers into a world of nostalgia and fun.
 
@@ -152,7 +152,7 @@ Each element—the color, the font, and the composition—came together organica
 
 ![a4b logo reboot](assets/img/a4b-logo-reboot.png)
 
-***How JoyBoy became apart of the logo*** 
+**How JoyBoy became apart of the logo** 
 
 **JoyBoy** became an integral part of the logo as a reflection of the boundless spirit of freedom and creativity that drives the vision behind it. The name itself symbolizes the joy and liberation found in uninhibited self-expression, while the design incorporates elements that evoke a sense of limitless potential. JoyBoy isn’t just a name or a concept; it’s a representation of the creative energy that flows when ideas are allowed to evolve freely, unshackled by convention.  
 
