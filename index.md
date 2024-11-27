@@ -117,7 +117,7 @@ As *Anime4Breakfast* grew, it became more than an artistic exploration; it becam
 ![a4b-alpha-flag](assets/img/a4b-alpha-flag.png)
 
 
-![a4b-logos](assets/img/a4b-logos.png)
+![a4b-logos2](assets/img/a4b-logos2.png)
 
 ![a4b logo reboot](assets/img/a4b-logo-reboot.png)
 
