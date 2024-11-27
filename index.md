@@ -133,7 +133,7 @@ As *Anime4Breakfast* grew, it became more than an artistic exploration; it becam
 
 ![a4b-logos3](assets/img/a4b-logos3.png)
 
-A4B! logo ***(Draft Development)*** for 2006 - 2007 
+A4B! logo **(Draft Development)** for 2006 - 2007 
 
 ---
 
