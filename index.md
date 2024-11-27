@@ -163,7 +163,8 @@ Through its presence in the logo, JoyBoy serves as a beacon of inspiration, remi
 
 ![a4bmusickowloon city](assets/img/a4bmusickowloon_city.png)
 
-#### a4b - Music Kowloon City - Issue 01
+**a4b - Music Kowloon City - Issue 01**
+
 Cover #01 of the a4b series---*"a place where like-minded intellects can evolve."* and kicking-off KC93 the music production division. 
 
 ![backflipkid](assets/img/backflipkid.png)
