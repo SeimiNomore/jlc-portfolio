@@ -157,7 +157,9 @@ Each element—the color, the font, and the composition—came together organica
 **JoyBoy** became an integral part of the logo as a reflection of the boundless spirit of freedom and creativity that drives the vision behind it. The name itself symbolizes the joy and liberation found in uninhibited self-expression, while the design incorporates elements that evoke a sense of limitless potential. JoyBoy isn’t just a name or a concept; it’s a representation of the creative energy that flows when ideas are allowed to evolve freely, unshackled by convention.  
 
 Through its presence in the logo, JoyBoy serves as a beacon of inspiration, reminding us that true creativity thrives in an environment of freedom—where imagination knows no boundaries, and every idea has the space to take flight.
+
 ---
+
 
 ![a4bmusickowloon city](assets/img/a4bmusickowloon_city.png)
 
