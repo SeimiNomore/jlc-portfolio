@@ -61,6 +61,7 @@ As I created this piece, my focus was entirely on her—a woman standing by her 
 
 ![The Great Reset](assets/img/The%20Great%20Reset.jpg)
 #### The Great Reset | Collection - Spooky
+This piece belongs to the Spooky collection, where themes of the unknown, the uncanny, and the transformative power of darkness take center stage. Here, "The Great Reset" positions itself as a commentary on the intersection of human fragility and resilience, speaking to both the individual and collective desire for a fresh start in an unrelenting, mysterious universe.
 * * *
 
 ![Got your back](assets/img/Got%20your%20back.jpg)
