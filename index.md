@@ -179,6 +179,15 @@ Through its presence in the logo, JoyBoy serves as a beacon of inspiration, remi
 
 ![KC93 NEW REDO BlK](assets/img/KC93-NEW-REDO-BlK.png)
 
+![a4b milesdeva timothy](assets/img/a4b_miles-deval-timothy.png)
+
+![]()
+
+![]()
+
+![](assets/img/a4b-banner3.png)
+
+![]()
 
 
 ##### Case study - MDNKA Midnight Kids Academy
