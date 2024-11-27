@@ -168,7 +168,7 @@ Cover #01 of the a4b series---*"a place where like-minded intellects can evolve.
 
 ![backflipkid](assets/img/backflipkid.png)
 
-***A4B! issue 1 advertivements*** This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy logo, creating that this ads just followed that concept. Leaning more in the spirit of freedom of A4B!, I start working with more on the backflip aspect of the idea. The idea was for it to be a digital magazine that focus not just on anime but art and artist alike.
+***A4B! issue 1 advertivements*** This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept. Leaning more in the spirit of freedom of A4B!, I start working with more on the backflip aspect of the idea. The idea was for it to be a digital magazine that focus not just on anime but art and artist alike.
 
 ![a4b-kowloon](assets/img/a4b-kowloon.jpg)
 
