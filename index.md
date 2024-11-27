@@ -66,6 +66,9 @@ This piece belongs to the Spooky collection, where themes of the unknown, the un
 
 ![Got your back](assets/img/Got%20your%20back.jpg)
 #### Got your back | Collection - Spooky
+This piece delves into the fragility of human relationships, portraying the tension of relying on another while questioning their motives. The use of subdued colors and dynamic strokes evokes an eerie, dreamlike quality, drawing viewers into its haunting atmosphere. Got Your Back asks the poignant question: in a world of hidden faces and uncertain allies, who can we truly trust?
+
+This work seamlessly combines the unsettling tone of the Spooky collection with a deeply personal exploration of loyalty and vulnerability.
 * * *
 
 ![Keisha Bed](assets/img/Keisha_Bed.jpg)
