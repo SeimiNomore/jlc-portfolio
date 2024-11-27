@@ -123,7 +123,7 @@ A4B! logo ***(Draft Development)*** for 2006 - 2007
 
 The creation of the A4B logo was born from a nostalgic spark of imagination that lingered in the corners of my mind. When designing this logo, I aimed to capture the joy and excitement I felt as a child while drawing—a pure, unfiltered sense of fun. I wanted the design to reflect that same spirit while incorporating the "A!" as a nod to the anime inspiration behind the name.  
 
-The idea for **Anime4Breakfast** came during countless late-night sessions watching Adult Swim, waiting patiently for the anime block at 11:30 P.M. It struck me how late the wait felt—so much so that they might as well call it "Anime for Breakfast." And that’s when it all came together: "I'll create an anime world of my own!" From that epiphany, Anime4Breakfast was born—a platform where art, creativity, and nostalgia converge into something extraordinary. 
+> The idea for **Anime4Breakfast** came during countless late-night sessions watching Adult Swim, waiting patiently for the anime block at 11:30 P.M. It struck me how late the wait felt—so much so that they might as well call it "Anime for Breakfast." And that’s when it all came together: "I'll create an anime world of my own!" From that epiphany, Anime4Breakfast was born—a platform where art, creativity, and nostalgia converge into something extraordinary. 
 
 ***The Color Palette of the A4B! logo***
 
@@ -145,7 +145,7 @@ Through its presence in the logo, JoyBoy serves as a beacon of inspiration, remi
 
 ![backflipkid](assets/img/backflipkid.png)
 
-
+***A4B! issue 1 advertivements*** 
 
 ![a4b-kowloon](assets/img/a4b-kowloon.jpg)
 
