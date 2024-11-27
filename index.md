@@ -291,6 +291,6 @@ At Park High, Ice’s reputation as a tactical mastermind preceded him. In the F
 
 **Rocco** Vice Left-Hand -
 
-![tumtum-pixel](assets/img/tumtum-pixel.png)
+![tumtum-pixel](assets/img/tumtum-pix.png)
 
 **TumTum** Pixel
