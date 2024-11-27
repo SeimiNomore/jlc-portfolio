@@ -208,7 +208,7 @@ Cover #01 of the a4b series---*"a place where like-minded intellects can evolve.
 
 
 
-##### Case study - KC93 RR
+#### Case study - KC93 RR
 
 
 
@@ -232,7 +232,7 @@ Cover #01 of the a4b series---*"a place where like-minded intellects can evolve.
 ![]()
 
 
-##### Case study - MDNKA Midnight Kids Academy
+#### Case study - MDNKA Midnight Kids Academy
 
 Midnight Kids Academy is a vibrant, multifaceted initiative dedicated to cultivating creativity, resilience, and empowerment within a community of ambitious individuals. Grounded in the belief that inspiration often awakens when the world sleeps, the academy champions those who unlock their full potential during the twilight hours—dreamers, passionate strivers, and innovative thinkers who come alive when the world is at rest.
 
