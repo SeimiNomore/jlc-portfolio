@@ -112,10 +112,9 @@ As *Anime4Breakfast* grew, it became more than an artistic exploration; it becam
 > *"This marked the inception of JoyBoy. JoyBoy was born from the emotions that surge within me during the creative process. I aimed to capture and embody that essence in this banner after being profoundly inspired by this image."eated from the feelings I have when I create my, I wanted to inbody that feeling in the banner after seeing that this image."*
 
 
-![a4b Hrz 01](assets/img/a4b_Hrz-01.png)
 ![a4b-beta](assets/img/a4b-beta.png)
+![a4b Hrz 01](assets/img/a4b_Hrz-01.png)
 ![a4b-alpha-flag](assets/img/a4b-alpha-flag.png)
-
 
 ![a4b-logos3](assets/img/a4b-logos3.png)
 
