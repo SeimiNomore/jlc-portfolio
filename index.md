@@ -142,19 +142,10 @@ Each element—the color, the font, and the composition—came together organica
 
 Through its presence in the logo, JoyBoy serves as a beacon of inspiration, reminding us that true creativity thrives in an environment of freedom—where imagination knows no boundaries, and every idea has the space to take flight.
 
-![anime_nun](assets/img/anime_nun.png)
-
-![a4b-beta](assets/img/a4b-beta.png)
-![a4b Hrz 01](assets/img/a4b_Hrz-01.png)
-![a4b-alpha-flag](assets/img/a4b-alpha-flag.png)
-
-![a4b-logos3](assets/img/a4b-logos3.png)
-
-![a4b logo reboot](assets/img/a4b-logo-reboot.png)
-
-![anime_nun](assets/img/anime_nun.png)
 
 ![backflipkid](assets/img/backflipkid.png)
+
+
 
 ![a4b-kowloon](assets/img/a4b-kowloon.jpg)
 
