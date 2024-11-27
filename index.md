@@ -186,7 +186,7 @@ This is the story of four freshmen rising to legendary status. A tale of brother
 
 #### The famous five freshmen of the first year battle:
 
-*YOGI - Choovio Raymond
+**YOGI** - Choovio Raymond
 Park High All Boys Continuation School
 1st Year Freshmen*
 
@@ -199,7 +199,7 @@ Yogi, a hotheaded freshman with a volatile temper, is a name that strikes fear a
 
 [Deep story verion](./yogis-story.md)
 
-*ICE CODA
+**ICE CODA**
 Park High All Boys Continuation School
 1st Year Freshmen*
 
