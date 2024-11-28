@@ -17,8 +17,6 @@
 <br>
 
 **Artworks Codex** Feb 2019 - present
-
-<br>
 <br>
 <br>
 <br>
