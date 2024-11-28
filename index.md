@@ -20,8 +20,8 @@
 
 The trumpet symbolize alignment, I thought — did Armstrong’s presence in 1961 herald a hidden dialogue between the stars and ancient structures? The Sphinx, mute and eternal, watches as though guarding a riddle yet unsolved, a cipher in the language of music and sand.
 
-The numeral 1961, faint but deliberate, offers a historical anchor while leaving room for speculation: Was this a forgotten performance under the Egyptian sky, or does it signify a temporal crossroads, merging Armstrong’s revolutionary art with Egypt’s enduring mysteries? The interplay between sound and silence, past and present, suggests a deeper, esoteric truth embedded within.
-* * *
+<br>
+<br>
 
 ![](assets/img/Moor.jpg)
 
