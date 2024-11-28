@@ -62,7 +62,6 @@ This was the beginnning of it all the first ads for anime4breakfast! -- going of
 ---
 
 This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
-
 <br>
 <br>
 
@@ -97,8 +96,6 @@ Lee’s journey to becoming an urban legend began with this unyielding (***Love*
 
 <br>
 <br>
-
-
 
 ![Some kind of Blue](assets/img/Some%20kind%20of%20Blue%20Draft.jpg)
 **Some kind of Blue** | Collection - Phantom's of Blue - 2023 / Jan.
