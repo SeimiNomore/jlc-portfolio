@@ -8,11 +8,7 @@
 
 > This is a portfolio of my artworks in the form of [Case Studies] the works you will see here may very between Graphics Design, Digital Design, Ux/Ui, Charcter Develoopment, and Product development.
 
-<br>
-<br>
-<br>
-<br>
-<br>
+
 <br>
 <br>
 --  Artworks
@@ -23,7 +19,7 @@
 **Artworks Codex** Feb 2019 - present
 
 
-> Through the lens of fine art, I discovered the freedom to explore new techniques, push my boundaries, and fully immerse in the act of creation. This practice became a blend of artistic passion and inner discipline—a space where I could reflect, refine, and rediscover who I am at my core.
+    > Through the lens of fine art, I discovered the freedom to explore new techniques, push my boundaries, and fully immerse in the act of creation. This practice became a blend of artistic passion and inner discipline—a space where I could reflect, refine, and rediscover who I am at my core.
 
 <br>
 <br>
@@ -75,10 +71,8 @@ This was the beginnning of it all the first ads for anime4breakfast! -- going of
 
 ---
 
-This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
-
 I4NI: A Testament to Misunderstood Youth
-In the intricacies of societal perceptions, I4NI emerges as a profound artistic statement that dissects the veiled interpretations of youth seen through the lens of uncertainty and trepidation. This compelling piece encapsulates the duality of youthful existence—a narrative shaped not by their own truths but by the apprehensions and misapprehensions of those observing from the outside. The title itself, a cryptic expression of “Eye for an Eye,” challenges the viewer to reexamine the reactive, often defensive ways society approaches the unknown.
+In the intricacies of societal perceptions, I4NI emerges as a profound artistic statement that dissects the veiled interpretations of youth seen through the lens of uncertainty and trepidation. The title itself, a cryptic expression of “Eye for an Eye,” challenges the viewer to reexamine the reactive, often defensive ways society approaches the unknown.
 
 ![Sweet Sweetblack Badass Song](assets/img/Sweet_Sweetblacks_Baadasssss_Song.jpg)
 **Sweet sweetblack’s Badass Song** | Collection - Sepia - 2023 May.
@@ -95,45 +89,71 @@ It’s within this framework that one can draw a seamless, almost mythical compa
 As the (***Phantom***) of Blues, Robert Johnson’s legacy is more than just his music—it is an enduring symbol of how stories become legends, of how the unseen can captivate and inspire. His spirit continues to haunt the crossroads of history and myth, forever leaving behind an enigmatic trail that invites endless curiosity and speculation.
  
 ![Morgens Last Gig](assets/img/Morgens-Last-Gig.webp)
-#### Morgan's Last Gig | Collection - Phantom's of Blue
+**Morgan's Last Gig** | Collection - Phantom's of Blue - 2023 / Feb.
 
-Lee’s journey to becoming an urban legend began with this unyielding (***Love***). It wasn’t just about mastering an instrument; it was about making it speak. He could translate emotion into sound, pulling from the depths of joy, heartache, and everything in between. His trumpet was more than an instrument; it was a medium through which he shared his love for life, jazz, and the culture that surrounded it. The way he played was personal, almost as if he was having a conversation with each listener, drawing them into a shared experience of rhythm and soul.
+---
+
+Lee’s journey to becoming an urban legend began with this unyielding (***Love***). It wasn’t just about mastering an instrument; it was about making it speak. He could translate emotion into sound, pulling from the depths of joy, heartache, and everything in between.
+
+<br>
+<br>
+
 
 
 ![Some kind of Blue](assets/img/Some%20kind%20of%20Blue%20Draft.jpg)
-#### Some kind of Blue | Collection - Phantom's of Blue
+**Some kind of Blue** | Collection - Phantom's of Blue - 2023 / Jan.
+
+---
 
 This painting is a reflection of Davis’s life: a blend of triumph and turmoil, this process of of a urban legend is (***Trauma***) genius and solitude. It captures the spirit of a man whose music transcended barriers, leaving a legacy that resonates long after the final note.
 
 
 ![Penthouse](assets/img/Penthouse.png)
-#### Penthouse | Collection - Muse 2
+**Penthouse** | Collection - Muse 2 - 2023 / Mar.
+
+---
 
 As I created this piece, my focus was entirely on her—a woman standing by her penthouse window, lost in her own world. I wanted to capture her essence, the quiet confidence in her posture, the way she commanded attention effortlessly. This work, part of my *Muse* collection, is an homage to her presence—intoxicating and magnetic, a reminder of how some individuals hold an undeniable power simply by being.
 
 
 ![Madame Bingo](assets/img/Madame%20Bingo.jpg)
-#### Madame Bingo | Collection - Muse 1
+**Madame Bingo** | Collection - Muse 1 - 2023 / Jan.
+
+---
+
+Lee’s journey to becoming an urban legend began with this unyielding (***Love***). It wasn’t just about mastering an instrument; it was about making it speak. He could translate emotion into sound, pulling from the depths of joy, heartache, and everything in between.
 
 ![Oh Mini](assets/img/Oh%20Mini.jpg)
-#### Oh Mini | Collection - Muse 1
+**Oh Mini** | Collection - Muse 1 - 2023 / Jan.
 
+---
+
+Lee’s journey to becoming an urban legend began with this unyielding (***Love***). It wasn’t just about mastering an instrument; it was about making it speak. He could translate emotion into sound, pulling from the depths of joy, heartache, and everything in between.
 
 ![The Great Reset](assets/img/The%20Great%20Reset.jpg)
-#### The Great Reset | Collection - Spooky
+**The Great Reset** | Collection - Spooky - 2023 / Jan.
+
+---
+
 This piece belongs to the Spooky collection, where themes of the unknown, the uncanny, and the transformative power of darkness take center stage. Here, "The Great Reset" positions itself as a commentary on the intersection of human fragility and resilience, speaking to both the individual and collective desire for a fresh start in an unrelenting, mysterious universe.
-* * *
 
 ![Got your back](assets/img/Got%20your%20back.jpg)
 #### Got your back | Collection - Spooky
+**Some kind of Blue** | Collection - Phantom's of Blue - 2023 / Jan.
+
+---
+
+Lee’s journey to becoming an urban legend began with this unyielding (***Love***). It wasn’t just about mastering an instrument; it was about making it speak. He could translate emotion into sound, pulling from the depths of joy, heartache, and everything in between.
 This piece delves into the fragility of human relationships, portraying the tension of relying on another while questioning their motives. The use of subdued colors and dynamic strokes evokes an eerie, dreamlike quality, drawing viewers into its haunting atmosphere. Got Your Back asks the poignant question: in a world of hidden faces and uncertain allies, who can we truly trust?
 
 This work seamlessly combines the unsettling tone of the Spooky collection with a deeply personal exploration of loyalty and vulnerability.
-* * *
 
 ![Keisha Bed](assets/img/Keisha_Bed.jpg)
-#### Keisha Bed | Collection - Sepia
-* * *
+**Keisha Bed** | Collection - Sepia - 2023 / Jan.
+
+---
+
+Lee’s journey to becoming an urban legend began with this unyielding (***Love***). It wasn’t just about mastering an instrument; it was about making it speak. He could translate emotion into sound, pulling from the depths of joy, heartache, and everything in between.
 
 ![3Essentials](assets/img/3Essentials.jpg)
 **3Essentials** | Collection - Muse 1 - 2022 / Jul.
@@ -162,8 +182,6 @@ I collaborated with artists across a range of mediums to support and refine thei
 **The Conception and Development of Anime4Breakfast**  
 
 *Anime4Breakfast* was born from a desire to carve out a space in modern culture where the timeless charm of 1980s anime and the mystique of neon-drenched cityscapes could coexist as a distinct artistic narrative. Rooted in nostalgia, the concept emerged as a sanctuary for the imagination—an ode to the golden age of hand-drawn animation and the electrifying atmosphere of urban nightscapes.
-
-The project began as a personal reflection, a way to compartmentalize and celebrate a specific era of artistry that has profoundly shaped visual culture. Morning routines, often laden with repetition, inspired the metaphor of "breakfast"—a ritual of sustenance for the creative mind, paired with the vibrant storytelling of 80s anime. This unique blend became a platform to explore themes of solitude, wonder, and the pursuit of identity in a rapidly evolving world.
 
 To develop *Anime4Breakfast*, the visual and conceptual elements were curated to evoke a blend of dreamlike nostalgia and forward-thinking aesthetics. Drawing inspiration from iconic anime such as *Akira*, *Bubblegum Crisis*, and *City Hunter*, alongside the evocative imagery of glowing skyscrapers, rain-slicked streets, and buzzing neon signs, the project flourished into a distinct expression of the past-meets-future mindset.
 
