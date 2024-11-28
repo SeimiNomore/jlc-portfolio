@@ -172,43 +172,142 @@ This inaugural issue brings focus to KC93, the music production division born fr
 
 ![backflipkid](assets/img/backflipkid.png)
 
-***A4B! issue 1 advertivements*** This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept. Leaning more in the spirit of freedom of A4B!, I start working with more on the backflip aspect of the idea. The idea was for it to be a digital magazine that focus not just on anime but art and artist alike.
+**A4B! Issue 01 advertivements** - 2007 / Feb.
+
+---
+
+This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept. Leaning more in the spirit of freedom of A4B!, I start working with more on the backflip aspect of the idea. The idea was for it to be a digital magazine that focus not just on anime but art and artist alike.
 
 ![a4b-kowloon](assets/img/a4b-kowloon.jpg)
+**a4b! Kowloon** - 
+2007 / Feb.
+
+---
+
+a4b! Kowloom, o
+
 
 ![kid oreo2](assets/img/kid%20oreo2.png)
 
+**A4B! Issue 01 advertivements** - 2007 / Feb.
+
+---
+
+This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
+
 ![diveinkid](assets/img/diveinkid.png)
+
+**A4B! Issue 01 advertivements** - 2007 / Feb.
+
+---
+
+This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
 
 ![a4b kowloon art](assets/img/a4b-kowloon-art.png)
 
+**A4B! Issue 01 advertivements** - 2007 / Feb.
+
+---
+
+This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
+
 ![a4b kowloon](assets/img/a4b-kowloon.jpg)
+
+**A4B! Issue 01 advertivements** - 2007 / Feb.
+
+---
+
+This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
 
 ![a4b main1](assets/img/a4b-siber.png)
 
+**A4B! Issue 01 advertivements** - 2007 / Feb.
+
+---
+
+This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
+
 ![a4b main4](assets/img/a4b-siber2.png)
+
+**A4B! Issue 01 advertivements** - 2007 / Feb.
+
+---
+
+This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
 
 ![newbanner_a4b3](assets/img/newbanner_a4b3.png)
 
+**A4B! Issue 01 advertivements** - 2007 / Feb.
+
+---
+
+This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
+
 ![bmw1](assets/img/bmw1.png)
+
+**A4B! Issue 01 advertivements** - 2007 / Feb.
+
+---
+
+This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
 
 ![bmw4](assets/img/bmw4.png)
 
+**A4B! Issue 01 advertivements** - 2007 / Feb.
+
+---
+
+This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
+
 ![bwm3](assets/img/bmw3.png)
+
+**A4B! Issue 01 advertivements** - 2007 / Feb.
+
+---
+
+This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
 
 
 
 ![nolisphoto-1](assets/img/nolisphoto-1.png)
 
+**A4B! Issue 01 advertivements** - 2007 / Feb.
+
+---
+
+This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
+
 ![nolisphoto-2](assets/img/nolisphoto-2.png)
+
+**A4B! Issue 01 advertivements** - 2007 / Feb.
+
+---
+
+This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
 
 ![a4b pixel](assets/img/a4b-pixel.png)
 
+**A4B! Issue 01 advertivements** - 2007 / Feb.
+
+---
+
+This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
+
 ![a4b milesdeva timothy](assets/img/a4b-miles-deval-timothy.png.png)
+
+**A4B! Issue 01 advertivements** - 2007 / Feb.
+
+---
+
+This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
 
 ![a4b nolis](assets/img/a4b-nolis.png.png)
 
+**A4B! Issue 01 advertivements** - 2007 / Feb.
 
+---
+
+This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
 
 
 
@@ -219,17 +318,57 @@ This inaugural issue brings focus to KC93, the music production division born fr
 
 ![kc93splash](assets/img/kc93splash.jpg)
 
+**A4B! Issue 01 advertivements** - 2007 / Feb.
+
+---
+
+This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
+
 ![a4b kowloon](assets/img/a4b_kowloon.png)
 
+**A4B! Issue 01 advertivements** - 2007 / Feb.
+
+---
+
+This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
+
 ![kc93](assets/img/kc93.png)
+
+**A4B! Issue 01 advertivements** - 2007 / Feb.
+
+---
+
+This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
+
 ![a4b-logos](assets/img/kc93-3.png)
+
+**A4B! Issue 01 advertivements** - 2007 / Feb.
+
+---
+
+This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
 
 
 ![KC93 new logo1](assets/img/KC93-new-logo1.png)
 
+**A4B! Issue 01 advertivements** - 2007 / Feb.
+
+---
+
+This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
+
 ![KC93 NEW REDO BlK](assets/img/KC93-NEW-REDO-BlK.png)
 
+**A4B! Issue 01 advertivements** - 2007 / Feb.
 
+---
+
+This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
+
+
+
+
+---
 
 ![]()
 
