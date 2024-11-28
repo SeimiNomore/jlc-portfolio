@@ -64,30 +64,30 @@ a {
 }
 
 a:hover, a:focus {
-  color: var(--clr-a-text-hvr);
+  color: dodgerblue;
 }
 
 a small {
   font-size: 10px;
-  color: var(--clr-small-in-a);
+  color: dodgerblue;
   margin-top: -0.3em;
   display: block;
 }
 
 a:hover small {
-  color: var(--clr-small-in-a);
+  color: dodgerblue;
 }
 
 .addr a:hover, a:focus {
-  color: var(--clr-a-text-hvr);
+  color: dodgerblue var(--clr-a-text-hvr);
 }
 
 ul.link a {
-  color:var(--clr-h1-and-bold);
+  color: dodgerblue var(--clr-h1-and-bold);
 }
 
 ul.link a:hover, a:focus {
-  color: var(--clr-a-text-hvr);
+  color: dodgerblue var(--clr-a-text-hvr);
 }
 
 ul.content {
