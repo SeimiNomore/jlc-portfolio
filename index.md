@@ -13,7 +13,6 @@
 <br>
 
 ![Trumpet over Giza Blue](assets/img/Trumpet_over_Giza-Blue.jpg)
-
 **Trumpet over Giza 1961 Blue** | Collection - Veil of the Sphinx 2024 / Apr.
 
 ---
@@ -24,7 +23,6 @@ The trumpet symbolize alignment, I thought — did Armstrong’s presence in 196
 <br>
 
 ![](assets/img/Moor.jpg)
-
 **Moor** | Collection - Spooky - 2022 / Jul.
 
 ---
@@ -35,7 +33,6 @@ This was the beginnning of it all the first ads for anime4breakfast! -- going of
 <br>
 
 ![](assets/img/White_Bag.png)
-
 **White Bag** | Collection - Muse 2 - 2022 / Jul.
 
 ---
@@ -46,8 +43,8 @@ This was the beginnning of it all the first ads for anime4breakfast! -- going of
 <br>
 
 ![immortal-sosa](assets/img/immortal-sosa.jpg)
-
 **Immortal Sosa** | Collection - Sepia - 2022 / Jul.
+
 
 ---
 
@@ -55,6 +52,7 @@ This was the beginnning of it all the first ads for anime4breakfast! -- going of
 
 <br>
 <br>
+
 ![I4NI](assets/img/I4I.png)
 
 #### I4NI |	Collection - Spooky
