@@ -94,8 +94,6 @@ As the (***Phantom***) of Blues, Robert Johnson’s legacy is more than just his
 
 Lee’s journey to becoming an urban legend began with this unyielding (***Love***). It wasn’t just about mastering an instrument; it was about making it speak. He could translate emotion into sound, pulling from the depths of joy, heartache, and everything in between.
 
-<br>
-<br>
 
 ![Some kind of Blue](assets/img/Some%20kind%20of%20Blue%20Draft.jpg)
 **Some kind of Blue** | Collection - Phantom's of Blue - 2023 / Jan.
@@ -120,6 +118,7 @@ As I created this piece, my focus was entirely on her—a woman standing by her 
 
 Lee’s journey to becoming an urban legend began with this unyielding (***Love***). It wasn’t just about mastering an instrument; it was about making it speak. He could translate emotion into sound, pulling from the depths of joy, heartache, and everything in between.
 
+
 ![Oh Mini](assets/img/Oh%20Mini.jpg)
 **Oh Mini** | Collection - Muse 1 - 2023 / Jan.
 
@@ -134,16 +133,13 @@ Lee’s journey to becoming an urban legend began with this unyielding (***Love*
 
 This piece belongs to the Spooky collection, where themes of the unknown, the uncanny, and the transformative power of darkness take center stage. Here, "The Great Reset" positions itself as a commentary on the intersection of human fragility and resilience, speaking to both the individual and collective desire for a fresh start in an unrelenting, mysterious universe.
 
+
 ![Got your back](assets/img/Got%20your%20back.jpg)
-#### Got your back | Collection - Spooky
-**Some kind of Blue** | Collection - Phantom's of Blue - 2023 / Jan.
+**Got your back** | Collection - Spooky - 2023 / Jan.
 
 ---
 
-Lee’s journey to becoming an urban legend began with this unyielding (***Love***). It wasn’t just about mastering an instrument; it was about making it speak. He could translate emotion into sound, pulling from the depths of joy, heartache, and everything in between.
-This piece delves into the fragility of human relationships, portraying the tension of relying on another while questioning their motives. The use of subdued colors and dynamic strokes evokes an eerie, dreamlike quality, drawing viewers into its haunting atmosphere. Got Your Back asks the poignant question: in a world of hidden faces and uncertain allies, who can we truly trust?
-
-This work seamlessly combines the unsettling tone of the Spooky collection with a deeply personal exploration of loyalty and vulnerability.
+"Got Your Back" is an evocative artwork that navigates the dualities of protection and suspicion. A faceless figure stands in the foreground, cloaked in muted greens, their posture suggesting a quiet vigilance. Behind them, a second figure emerges from the shadows, their eyes piercing through a masked visage, a blend of trust and veiled intentions.
 
 ![Keisha Bed](assets/img/Keisha_Bed.jpg)
 **Keisha Bed** | Collection - Sepia - 2023 / Jan.
@@ -178,11 +174,11 @@ I collaborated with artists across a range of mediums to support and refine thei
 
 **The Conception and Development of Anime4Breakfast**  
 
-*Anime4Breakfast* was born from a desire to carve out a space in modern culture where the timeless charm of 1980s anime and the mystique of neon-drenched cityscapes could coexist as a distinct artistic narrative. Rooted in nostalgia, the concept emerged as a sanctuary for the imagination—an ode to the golden age of hand-drawn animation and the electrifying atmosphere of urban nightscapes.
+> *Anime4Breakfast* was born from a desire to carve out a space in modern culture where the timeless charm of 1980s anime and the mystique of neon-drenched cityscapes could coexist as a distinct artistic narrative. Rooted in nostalgia, the concept emerged as a sanctuary for the imagination—an ode to the golden age of hand-drawn animation and the electrifying atmosphere of urban nightscapes.
 
-To develop *Anime4Breakfast*, the visual and conceptual elements were curated to evoke a blend of dreamlike nostalgia and forward-thinking aesthetics. Drawing inspiration from iconic anime such as *Akira*, *Bubblegum Crisis*, and *City Hunter*, alongside the evocative imagery of glowing skyscrapers, rain-slicked streets, and buzzing neon signs, the project flourished into a distinct expression of the past-meets-future mindset.
+> To develop *Anime4Breakfast*, the visual and conceptual elements were curated to evoke a blend of dreamlike nostalgia and forward-thinking aesthetics. Drawing inspiration from iconic anime such as *Akira*, *Bubblegum Crisis*, and *City Hunter*, alongside the evocative imagery of glowing skyscrapers, rain-slicked streets, and buzzing neon signs, the project flourished into a distinct expression of the past-meets-future mindset.
 
-As *Anime4Breakfast* grew, it became more than an artistic exploration; it became a lifestyle philosophy—a tribute to those quiet, introspective moments where one’s connection to art and self-expression becomes a cornerstone of creativity.
+> As *Anime4Breakfast* grew, it became more than an artistic exploration; it became a lifestyle philosophy—a tribute to those quiet, introspective moments where one’s connection to art and self-expression becomes a cornerstone of creativity.
 
 --- 
 
