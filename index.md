@@ -33,8 +33,6 @@
 
 The trumpet symbolize alignment, I thought — did Armstrong’s presence in 1961 herald a hidden dialogue between the stars and ancient structures? The Sphinx, mute and eternal, watches as though guarding a riddle yet unsolved, a cipher in the language of music and sand.
 
-<br>
-<br>
 
 ![](assets/img/Moor.jpg)
 **Moor** | Collection - Spooky - 2022 / Jul.
@@ -43,8 +41,6 @@ The trumpet symbolize alignment, I thought — did Armstrong’s presence in 196
 
 This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
 
-<br>
-<br>
 
 ![](assets/img/White_Bag.png)
 **White Bag** | Collection - Muse 2 - 2022 / Jul.
@@ -53,8 +49,6 @@ This was the beginnning of it all the first ads for anime4breakfast! -- going of
 
 This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
 
-<br>
-<br>
 
 ![immortal-sosa](assets/img/immortal-sosa.jpg)
 **Immortal Sosa** | Collection - Sepia - 2022 / Jul.
@@ -62,8 +56,7 @@ This was the beginnning of it all the first ads for anime4breakfast! -- going of
 ---
 
 This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
-<br>
-<br>
+
 
 ![I4NI](assets/img/I4I.png)
 **I4NI** | Collection - Spooky - 2022 / Jul.
