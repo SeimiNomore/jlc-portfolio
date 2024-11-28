@@ -4,13 +4,17 @@
 <br>
 <br>
 
+-- *Artworks*
+
+<br>
+<br>
+
 ******Artworks Codex****** Feb 2019 - present
 
 
 > Through the lens of fine art, I discovered the freedom to explore new techniques, push my boundaries, and fully immerse in the act of creation. This practice became a blend of artistic passion and inner discipline—a space where I could reflect, refine, and rediscover who I am at my core.
 
 <br>
---
 <br>
 <br>
 <br>
