@@ -6,16 +6,21 @@
 ### Portfolio Introduction
 
 
-> This is a portfolio of my artworks in the form of [Case Studies] the works you will see here may very between Graphics Design, Digital Design, Ux/Ui, Charcter Develoopment, and Product development. 
+> This is a portfolio of my artworks in the form of [Case Studies] the works you will see here may very between Graphics Design, Digital Design, Ux/Ui, Charcter Develoopment, and Product development.
 
 <br>
 <br>
-
+<br>
+<br>
+<br>
+<br>
+<br>
 --  Artworks
 <br>
 <br>
+<br>
 
-******Artworks Codex****** Feb 2019 - present
+**Artworks Codex** Feb 2019 - present
 
 
 > Through the lens of fine art, I discovered the freedom to explore new techniques, push my boundaries, and fully immerse in the act of creation. This practice became a blend of artistic passion and inner discipline—a space where I could reflect, refine, and rediscover who I am at my core.
@@ -58,7 +63,6 @@ This was the beginnning of it all the first ads for anime4breakfast! -- going of
 ![immortal-sosa](assets/img/immortal-sosa.jpg)
 **Immortal Sosa** | Collection - Sepia - 2022 / Jul.
 
-
 ---
 
 This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
@@ -67,50 +71,53 @@ This was the beginnning of it all the first ads for anime4breakfast! -- going of
 <br>
 
 ![I4NI](assets/img/I4I.png)
+**I4NI** | Collection - Spooky - 2022 / Jul.
 
-#### I4NI |	Collection - Spooky
+---
+
+This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
 
 I4NI: A Testament to Misunderstood Youth
 In the intricacies of societal perceptions, I4NI emerges as a profound artistic statement that dissects the veiled interpretations of youth seen through the lens of uncertainty and trepidation. This compelling piece encapsulates the duality of youthful existence—a narrative shaped not by their own truths but by the apprehensions and misapprehensions of those observing from the outside. The title itself, a cryptic expression of “Eye for an Eye,” challenges the viewer to reexamine the reactive, often defensive ways society approaches the unknown.
-* * *
+
 ![Sweet Sweetblack Badass Song](assets/img/Sweet_Sweetblacks_Baadasssss_Song.jpg)
+**Sweet sweetblack’s Badass Song** | Collection - Sepia - 2023 May.
 
-#### Sweet sweetblack’s Badass Song | Collection - Sepia
+---
 
-The Art of Resilience: Kodak Black as the Modern Sweetback
-In the luminous canon of Blaxploitation cinema, Melvin Van Peebles’ Sweet Sweetback’s Baadasssss Song stands as a defiant, kinetic ode to survival, resistance, and the raw essence of self-determination. It’s within this framework that one can draw a seamless, almost mythical comparison to Kodak Black—a contemporary artist whose life and art form an unscripted narrative of struggle and tenacity. His world reflects the bruised, unfiltered resilience that Sweetback embodied, breathing life into the shared tale of overcoming systemic adversity.
-* * *
+It’s within this framework that one can draw a seamless, almost mythical comparison to Kodak Black—a contemporary artist whose life and art form an unscripted narrative of struggle and tenacity. His world reflects the bruised, unfiltered resilience that Sweetback embodied, breathing life into the shared tale of overcoming systemic adversity.
+
 ![Devils Shadow](assets/img/Devils_Shadow.jpg)
+**The Devil's Shadow** | Collection - Phantoms of Blue - 2023 Mar.
 
-#### The Devil's Shadow | Collection - Phantoms of Blue
+---
 
 As the (***Phantom***) of Blues, Robert Johnson’s legacy is more than just his music—it is an enduring symbol of how stories become legends, of how the unseen can captivate and inspire. His spirit continues to haunt the crossroads of history and myth, forever leaving behind an enigmatic trail that invites endless curiosity and speculation.
-* * *
+ 
 ![Morgens Last Gig](assets/img/Morgens-Last-Gig.webp)
 #### Morgan's Last Gig | Collection - Phantom's of Blue
 
 Lee’s journey to becoming an urban legend began with this unyielding (***Love***). It wasn’t just about mastering an instrument; it was about making it speak. He could translate emotion into sound, pulling from the depths of joy, heartache, and everything in between. His trumpet was more than an instrument; it was a medium through which he shared his love for life, jazz, and the culture that surrounded it. The way he played was personal, almost as if he was having a conversation with each listener, drawing them into a shared experience of rhythm and soul.
-* * *
+
 
 ![Some kind of Blue](assets/img/Some%20kind%20of%20Blue%20Draft.jpg)
 #### Some kind of Blue | Collection - Phantom's of Blue
 
 This painting is a reflection of Davis’s life: a blend of triumph and turmoil, this process of of a urban legend is (***Trauma***) genius and solitude. It captures the spirit of a man whose music transcended barriers, leaving a legacy that resonates long after the final note.
-* * *
+
 
 ![Penthouse](assets/img/Penthouse.png)
 #### Penthouse | Collection - Muse 2
 
 As I created this piece, my focus was entirely on her—a woman standing by her penthouse window, lost in her own world. I wanted to capture her essence, the quiet confidence in her posture, the way she commanded attention effortlessly. This work, part of my *Muse* collection, is an homage to her presence—intoxicating and magnetic, a reminder of how some individuals hold an undeniable power simply by being.
-* * *
+
 
 ![Madame Bingo](assets/img/Madame%20Bingo.jpg)
 #### Madame Bingo | Collection - Muse 1
-* * *
 
 ![Oh Mini](assets/img/Oh%20Mini.jpg)
 #### Oh Mini | Collection - Muse 1
-* * *
+
 
 ![The Great Reset](assets/img/The%20Great%20Reset.jpg)
 #### The Great Reset | Collection - Spooky
