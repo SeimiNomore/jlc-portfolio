@@ -1,4 +1,4 @@
-##### Portfolio Introduction
+### Portfolio Introduction
 > This is a portfolio of my artworks in the form of [Case Studies] the works you will see here may very between Graphics Design, Digital Design, Ux/Ui, Charcter Develoopment, and Product development. 
 
 ### Artworks Codex Feb 2019 - present
@@ -6,11 +6,17 @@
 
 >  Through the lens of fine art, I discovered the freedom to explore new techniques, push my boundaries, and fully immerse in the act of creation. This practice became a blend of artistic passion and inner discipline—a space where I could reflect, refine, and rediscover who I am at my core.
 
-> Engaging in this way wasn’t just about making art; it was about crafting a life where creativity and mindfulness intertwined, giving me the foundation to express myself with authenticity and purpose.
+<br>
+<br>
+<br>
+<br>
 
 ![Trumpet over Giza Blue](assets/img/Trumpet_over_Giza-Blue.jpg)
 
-#### Trumpet over Giza 1961 Blue | Collection - *Veil of the Sphinx*
+**Trumpet over Giza 1961 Blue** | Collection - Veil of the Sphinx 2024 / Apr.
+
+---
+
 The trumpet symbolize alignment, I thought — did Armstrong’s presence in 1961 herald a hidden dialogue between the stars and ancient structures? The Sphinx, mute and eternal, watches as though guarding a riddle yet unsolved, a cipher in the language of music and sand.
 
 The numeral 1961, faint but deliberate, offers a historical anchor while leaving room for speculation: Was this a forgotten performance under the Egyptian sky, or does it signify a temporal crossroads, merging Armstrong’s revolutionary art with Egypt’s enduring mysteries? The interplay between sound and silence, past and present, suggests a deeper, esoteric truth embedded within.
