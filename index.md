@@ -88,11 +88,20 @@ This work seamlessly combines the unsettling tone of the Spooky collection with 
 * * *
 
 ![3Essentials](assets/img/3Essentials.jpg)
-#### 3Essentials | Collection - Muse 1
+**3Essentials** | Collection - Muse 1 - 2022 / Jul.
+
+---
+
+This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
+
+
 
 ![Coliseum](assets/img/Coliseum.jpeg)
-#### Coliseum | Collection - Otomo Drive
+**Coliseum** | Collection - Otomo Drive - 2023 / Jun
 
+---
+
+Coliseum, is a piece basic on the movie Akira by 
 
 ## Art Collectives and Personal Project Outreach
 
