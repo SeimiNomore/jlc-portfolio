@@ -224,7 +224,7 @@ A4B! logo **(Draft Development)** for 2006 - 2007
 The creation of the A4B logo was born from a nostalgic spark of imagination that lingered in the corners of my mind. When designing this logo, I aimed to capture the joy and excitement I felt as a child while drawing—a pure, unfiltered sense of fun. I wanted the design to reflect that same spirit while incorporating the "A!" as a nod to the anime inspiration behind the name.
 
 ![a4b-logos3](assets/img/a4b-logos3.png)
-A4B! logo **(Draft Development)** for 2006 - 2007 
+A4B! logo - **Draft Development** / 2006 - 2007 
 
 ---
 
@@ -242,21 +242,23 @@ Each element—the color, the font, and the composition—came together organica
 
 
 ![a4b logo reboot](assets/img/a4b-logo-reboot.png)
-**How JoyBoy became apart of the logo** | 2007 - 2008
+**How JoyBoy became apart of the logo** / 2007 - 2008
+
+---
 
 **JoyBoy** became an integral part of the logo as a reflection of the boundless spirit of freedom and creativity that drives the vision behind it. The name itself symbolizes the joy and liberation found in uninhibited self-expression, while the design incorporates elements that evoke a sense of limitless potential. JoyBoy isn’t just a name or a concept; it’s a representation of the creative energy that flows when ideas are allowed to evolve freely, unshackled by convention.  
 
 Through its presence in the logo, JoyBoy serves as a beacon of inspiration, reminding us that true creativity thrives in an environment of freedom—where imagination knows no boundaries, and every idea has the space to take flight.
 
----
-
+<br>
+<br>
 
 ![a4bmusickowloon city](assets/img/a4bmusickowloon_city.png)
+**A4B! Music Kowloon City - Online Magazine cover design** / 2007 - 2008
 
+---
 
-A4B - Music Kowloon City: Issue 01
-
-Introducing Cover #01 of the A4B series, a curated conceptual space designed to harmonize intellect and creativity. Rooted in the philosophy of progression and evolution, this series serves as a platform for thinkers, creators, and innovators to connect, challenge norms, and shape their unique narratives.
+**A4B - Music Kowloon City:** Issue 01 / 2007 - 2008
 
 This inaugural issue brings focus to KC93, the music production division born from the kinetic energy of Kowloon City. KC93 represents more than a production hub—it’s a conceptual ecosystem where sound becomes a medium for storytelling, innovation, and cultural dialogue. Each project under KC93 is a reflection of deliberate design, merging technical mastery with the raw energy of inspiration to craft sonic experiences that resonate on a profound level.
 
@@ -443,18 +445,41 @@ This was the beginnning of it all the first ads for anime4breakfast! -- going of
 
 **A4B! Issue 01 advertivements** - 2007 / Feb.
 
----
-
-This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
-
-![KC93 NEW REDO BlK](assets/img/KC93-NEW-REDO-BlK.png)
-
 **A4B! Issue 01 advertivements** - 2007 / Feb.
 
 ---
 
 This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
 
+![KC93 NEW REDO BlK](assets/img/KC93-NEW-REDO-BlK.png)
+
+---
+**A4B! Issue 01 advertivements** - 2007 / Feb.
+
+This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
+---
+
+![KC93 NEW REDO BlK](assets/img/KC93-NEW-REDO-BlK.png)**KC93 New Reboot** - 2007 / Feb.
+This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
+
+---
+
+This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
+
+<br>
+<br>
+
+
+---
+
+![]()
+
+![]()
+
+
+#### Case study - MDNKA Midnight Kids Academy
+
+=======
 
 
 
