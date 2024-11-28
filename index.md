@@ -203,11 +203,27 @@ As *Anime4Breakfast* grew, it became more than an artistic exploration; it becam
 > *"This marked the inception of JoyBoy. JoyBoy was born from the emotions that surge within me during the creative process. I aimed to capture and embody that essence in this banner after being profoundly inspired by this image."eated from the feelings I have when I create my, I wanted to inbody that feeling in the banner after seeing that this image."*
 
 ![a4b-beta](assets/img/a4b-beta.png)
+A4B! logo **(Draft Development)** for 2006 - 2007 
+
+---
+
+The creation of the A4B logo was born from a nostalgic spark of imagination that lingered in the corners of my mind. When designing this logo, I aimed to capture the joy and excitement I felt as a child while drawing—a pure, unfiltered sense of fun. I wanted the design to reflect that same spirit while incorporating the "A!" as a nod to the anime inspiration behind the name.
+
 ![a4b Hrz 01](assets/img/a4b_Hrz-01.png)
+A4B! logo **(Draft Development)** for 2006 - 2007 
+
+---
+
+The creation of the A4B logo was born from a nostalgic spark of imagination that lingered in the corners of my mind. When designing this logo, I aimed to capture the joy and excitement I felt as a child while drawing—a pure, unfiltered sense of fun. I wanted the design to reflect that same spirit while incorporating the "A!" as a nod to the anime inspiration behind the name.
+
 ![a4b-alpha-flag](assets/img/a4b-alpha-flag.png)
+A4B! logo **(Draft Development)** for 2006 - 2007 
+
+---
+
+The creation of the A4B logo was born from a nostalgic spark of imagination that lingered in the corners of my mind. When designing this logo, I aimed to capture the joy and excitement I felt as a child while drawing—a pure, unfiltered sense of fun. I wanted the design to reflect that same spirit while incorporating the "A!" as a nod to the anime inspiration behind the name.
 
 ![a4b-logos3](assets/img/a4b-logos3.png)
-
 A4B! logo **(Draft Development)** for 2006 - 2007 
 
 ---
@@ -226,8 +242,7 @@ Each element—the color, the font, and the composition—came together organica
 
 
 ![a4b logo reboot](assets/img/a4b-logo-reboot.png)
-
-**How JoyBoy became apart of the logo** 
+**How JoyBoy became apart of the logo** | 2007 - 2008
 
 **JoyBoy** became an integral part of the logo as a reflection of the boundless spirit of freedom and creativity that drives the vision behind it. The name itself symbolizes the joy and liberation found in uninhibited self-expression, while the design incorporates elements that evoke a sense of limitless potential. JoyBoy isn’t just a name or a concept; it’s a representation of the creative energy that flows when ideas are allowed to evolve freely, unshackled by convention.  
 
