@@ -30,4 +30,12 @@ But Yogi was nobody’s pawn. He refused Silas outright, rejecting any notion of
 
 Yogi’s defeat was a temporary setback, but his spirit remained unbroken. His story was far from over, and Park High was about to learn that even the hardest punches couldn’t extinguish the fire burning inside him.
 
+
+
+
+<br>
+<br>
+<br>
+<br>
+
 [back](./)

@@ -27,3 +27,13 @@ But beneath the layers of ruthlessness lies something more complex. Ice isn’t 
 Now, with the Freshman Battle reaching its climax and TDFW tightening its grip on the school, Ice stands at a crossroads. His vision of turning Park High into a kingdom under his rule is within reach, but the alliances he’s forged—and the grudges he’s created—threaten to topple it all. For Ice Coda, the fight is no longer just about dominance. It’s about proving that control, even in the chaos of Metreon City, can be wrested by sheer will.  
 
 Cold, unrelenting, and dangerously brilliant, Ice Coda is the shadow king of Park High—a figure who commands fear not with noise, but with silence, and whose greatest weapon isn’t his fists, but his mind.
+
+
+
+
+<br>
+<br>
+<br>
+<br>
+
+[back](./)
