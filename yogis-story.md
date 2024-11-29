@@ -1,9 +1,14 @@
----
-layout: post
----
 
-#### The Relentless Flame of Park High: Yogi’s Story
+
+<br>
+<br>
+<br>
+<br>
+
+### The Relentless Flame of Park High: Yogi’s Story
 ___
+
+<br>
 
 ![Yogi-CC](assets/img/Yogi-CC.jpg)
 

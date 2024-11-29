@@ -1,9 +1,14 @@
----
-layout: post
----
 
-#### Ice Coda's Full Story: The Shadow King of Park High
+
+<br>
+<br>
+<br>
+<br>
+
+### Ice Coda's Full Story: The Shadow King of Park High
 ___
+
+<br>
 
 ![ICE-Coda](https:assets/img/ICE-Coda.jpg)
 

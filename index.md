@@ -5,6 +5,11 @@
 <br>
 <br>
 
+### Index
+Directory of works
+
+---
+
 ### Artworks Codex 
 Conception - Feb 2019 / present
 

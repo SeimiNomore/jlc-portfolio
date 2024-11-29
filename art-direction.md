@@ -1,7 +1,16 @@
+
+
+<br>
+<br>
+<br>
+<br>
+
 ### Case study - anime4breakfast
-Conception / 2006 - present
+Conception / 2006 - Ongoing
 
 ---
+
+<br>
 
 **The Conception and Development of Anime4Breakfast**  
 
