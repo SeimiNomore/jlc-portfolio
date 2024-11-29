@@ -230,6 +230,7 @@ Each element—the color, the font, and the composition—came together organica
 
 
 ![a4b logo reboot](assets/img/a4b-logo-reboot.png)
+
 **How JoyBoy became apart of the logo** / 2007 - 2008
 
 ---
