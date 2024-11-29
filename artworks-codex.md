@@ -1,6 +1,4 @@
----
-layout: post
----
+
 
 
 ![Trumpet over Giza Blue](assets/img/Trumpet_over_Giza-Blue.jpg)
