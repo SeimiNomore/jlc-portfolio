@@ -11,7 +11,7 @@
 ---
 <br>
 
-#### Case study - anime4breakfast
+##### Case study - anime4breakfast
 Conception / 2006 - 2011
 
 <br>
