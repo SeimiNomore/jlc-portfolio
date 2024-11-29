@@ -22,7 +22,7 @@ navigation:
   - name: Introduction
     link: ./index.html#portfolio-introduction
   - name: Artworks Codex
-    link: ./index.html#artworks-codex
+    link: ./artworks-codex.html
     sublist:
   - name: Art Collectives and Personal Project Outreach
     link: ./index.html#art-collectives-and-personal-project-outreach
