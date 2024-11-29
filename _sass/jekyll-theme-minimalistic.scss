@@ -34,7 +34,7 @@ img {
 h1, h2, h3, h4, h5, h6 {
   color: var(--clr-h1-and-bold);
   color: dimgray;
-  margin: 0 0 7px;
+  margin: 0 0 px;
 }
 
 p, ul, ol, table, pre, dl {
@@ -137,14 +137,14 @@ blockquote {
   border-left: 1px solid var(--clr-splitter-blockquote-and-section);
   margin: 0;
   padding: 0 0 0 20px;
-  font-style: normal;
-  font-family: system-ui, Terminal;
-  font-size: 15px;
+  font-style: italic;
+  font-family: system-ui, Bitstream Vera Sans Mono, Terminal;
+  font-size: 13px;
   color:dodgerblue;
 }
 
 code, pre {
-  font-family: Terminal;
+  font-family:  Bitstream Vera Sans Mono, Lucida Console, Terminal, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
   color: var(--clr-code-text);
 }
 
