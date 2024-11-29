@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 <br>
 <br>
 <br>

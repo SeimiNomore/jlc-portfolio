@@ -21,7 +21,7 @@ platforms:
 navigation:
   - name: Portfolio Introduction
     link: ./portfolio-introduction.html
-    name: Index
+  -  name: Index
     link: ./index.html
   - name: Artworks Codex
     link: ./artworks-codex.html

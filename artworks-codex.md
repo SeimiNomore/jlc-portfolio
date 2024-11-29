@@ -1,3 +1,8 @@
+---
+layout: post
+---
+
+
 ![Trumpet over Giza Blue](assets/img/Trumpet_over_Giza-Blue.jpg)
 **Trumpet over Giza 1961 Blue** | Collection - Veil of the Sphinx 2024 / Apr.
 
