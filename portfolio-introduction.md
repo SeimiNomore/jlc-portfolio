@@ -1,6 +1,4 @@
----
-layout: post
----
+
 ### Porfolio Introduction
 
 > This portfolio is a reflection of my creative process, showcasing a variety of projects that span across Fine Artworks, Art Direction, Graphic Design, Digital Design, UX/UI, Character Development, and Product Development. Each case study highlights not only the end result but the journey behind it—how ideas evolved, challenges were faced, and solutions were crafted. 
