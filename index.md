@@ -2,22 +2,6 @@
 <br>
 <br>
 <br>
-<br>
-
-### Portfolio Introduction
-
-
-> This is a portfolio of my artworks in the form of **[Case Studies]** the works you will see here may very between Graphics Design, Digital Design, Ux/Ui, Charcter Develoopment, and Product development.
-
-<br>
-<br>
-<br>
-<br>
-
----
-<br>
-<br>
-<br>
 
 ### Artworks Codex 
 Conception - Feb 2019 / present

@@ -19,8 +19,10 @@ platforms:
     link: https://www.linkedin.com/in/jonathanlejon/
 
 navigation:
-  - name: Introduction
-    link: ./index.html#portfolio-introduction
+  - name: Portfolio Introduction
+    link: ./portfolio-introduction.html
+    name: Index
+    link: ./index.html
   - name: Artworks Codex
     link: ./artworks-codex.html
     sublist:
