@@ -32,7 +32,7 @@ Feb 2019 - present
 
 ### Art Collectives and Personal Project Outreach
 
-I collaborated with artists across a range of mediums to support and refine their creative practices. Through these partnerships, I gained hands-on experience in understanding the unique techniques and perspectives that each art form demands. This involvement not only deepened my appreciation for diverse artistic expressions but also enhanced my ability to contribute effectively to creative projects, bridging ideas and execution across various crafts.
+> I collaborated with artists across a range of mediums to support and refine their creative practices. Through these partnerships, I gained hands-on experience in understanding the unique techniques and perspectives that each art form demands. This involvement not only deepened my appreciation for diverse artistic expressions but also enhanced my ability to contribute effectively to creative projects, bridging ideas and execution across various crafts.
 
 [unpack](./art-collectives-and-personal-project-outreach.md)
 
@@ -40,7 +40,10 @@ I collaborated with artists across a range of mediums to support and refine thei
 
 
 
-## Game Development
+### Game Development
+
+vkdsoc sapokcpksack a[pskPKCx[ksapc[k[askc ap CSPSACk]]]]
+
 #### Case study - BPH Battle Park High
 
 *Park High Reborn*  
