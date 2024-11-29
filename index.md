@@ -21,7 +21,7 @@
 ### Artworks Codex 
 Feb 2019 - present
 
-The latest works of my fine art journey, the devepment of my oun mythos and metamorphsis. 
+> The latest works of my fine art journey, the devepment of my oun mythos and metamorphsis. 
 
 <br>
 <br>
