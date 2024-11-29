@@ -20,7 +20,7 @@ platforms:
 
 navigation:
   - name: Portfolio Introduction
-    link: ./portfolio-intro.html
+    link: ./portfolio-introduction.html
     name: Index
     link: ./index.html
   - name: Artworks Codex
