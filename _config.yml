@@ -38,5 +38,3 @@ navigation:
     sublist:
       - name: Case Study - BPH Battle Park High
         link: ./character-design-&-storytelling.html#case-study---bph-battle-park-high
-  - name: Another Page
-    link: ./another-page.html

@@ -128,3 +128,12 @@ This was the beginnning of it all the first ads for anime4breakfast! -- going of
 ---
 
 Coliseum, is a piece basic on the movie Akira by 
+
+
+
+<br>
+<br>
+<br>
+<br>
+
+[back](./)

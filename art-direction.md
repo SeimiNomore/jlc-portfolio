@@ -300,3 +300,12 @@ Midnight Kids Academy is a vibrant, multifaceted initiative dedicated to cultiva
 With a mission to foster talent through immersive experiences, practical learning, and a robust support network, Midnight Kids Academy prioritizes skill-building, collaboration, and real-world application. The academy offers a wide array of programs and workshops tailored to diverse artistic and intellectual ambitions, spanning from fine arts and digital media to entrepreneurship and thought leadership.
 
 Central to the philosophy of Midnight Kids Academy is the idea that genuine growth comes from pushing boundaries and venturing into the unknown. Its curriculum defies traditional learning methods, featuring unconventional schedules, nocturnal brainstorming sessions, and mentorship by accomplished experts who themselves have succeeded through unorthodox paths.
+
+
+
+<br>
+<br>
+<br>
+<br>
+
+[back](./)
