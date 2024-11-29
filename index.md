@@ -366,18 +366,12 @@ This was the beginnning of it all the first ads for anime4breakfast! -- going of
 
 This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
 
-<br>
-<br>
-
 ![bwm3](assets/img/bmw3.png)
 **A4B! Issue 01 advertivements** - 2007 / Feb.
 
 ---
 
 This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
-
-<br>
-<br>
 
 ![nolisphoto-1](assets/img/nolisphoto-1.png)
 **A4B! Issue 01 advertivements** - 2007 / Feb.
@@ -386,9 +380,6 @@ This was the beginnning of it all the first ads for anime4breakfast! -- going of
 
 This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
 
-<br>
-<br>
-
 ![nolisphoto-2](assets/img/nolisphoto-2.png)
 **A4B! Issue 01 advertivements** - 2007 / Feb.
 
@@ -396,8 +387,6 @@ This was the beginnning of it all the first ads for anime4breakfast! -- going of
 
 This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
 
-<br>
-<br>
 
 ![a4b pixel](assets/img/a4b-pixel.png)
 **A4B! Issue 01 advertivements** - 2007 / Feb.
@@ -406,9 +395,6 @@ This was the beginnning of it all the first ads for anime4breakfast! -- going of
 
 This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
 
-<br>
-<br>
-
 ![a4b milesdeva timothy](assets/img/a4b-miles-deval-timothy.png.png)
 **A4B! Issue 01 advertivements** - 2007 / Feb.
 
@@ -416,18 +402,12 @@ This was the beginnning of it all the first ads for anime4breakfast! -- going of
 
 This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
 
-<br>
-<br>
-
 ![a4b nolis](assets/img/a4b-nolis.png.png)
 **A4B! Issue 01 advertivements** - 2007 / Feb.
 
 ---
 
 This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
-
-<br>
-<br>
 
 #### Case study - KC93 RR
 
@@ -441,18 +421,12 @@ This was the beginnning of it all the first ads for anime4breakfast! -- going of
 
 This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
 
-<br>
-<br>
-
 ![a4b kowloon](assets/img/a4b_kowloon.png)
 **A4B! Issue 01 advertivements** - 2007 / Feb.
 
 ---
 
 This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
-
-<br>
-<br>
 
 ![kc93](assets/img/kc93.png)
 **A4B! Issue 01 advertivements** - 2007 / Feb.
@@ -461,18 +435,12 @@ This was the beginnning of it all the first ads for anime4breakfast! -- going of
 
 This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
 
-<br>
-<br>
-
 ![a4b-logos](assets/img/kc93-3.png)
 **A4B! Issue 01 advertivements** - 2007 / Feb.
 
 ---
 
 This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
-
-<br>
-<br>
 
 ![KC93 new logo1](assets/img/KC93-new-logo1.png)
 **KC93 new logo1** - 2007 / Feb.
@@ -481,9 +449,6 @@ This was the beginnning of it all the first ads for anime4breakfast! -- going of
 
 This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
 
-<br>
-<br>
-
 ![KC93 NEW REDO BlK](assets/img/KC93-NEW-REDO-BlK.png)
 **A4B! Issue 01 advertivements** - 2007 / Feb.
 
@@ -491,18 +456,12 @@ This was the beginnning of it all the first ads for anime4breakfast! -- going of
 
 This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
 
-<br>
-<br>
-
 ![KC93 NEW REDO BlK](assets/img/KC93-NEW-REDO-BlK.png
 **KC93 NEW REDO BlK** - 2007 / Feb.
 
 ---
 
 This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
-
-<br>
-<br>
 
 
 ---
@@ -513,9 +472,6 @@ This was the beginnning of it all the first ads for anime4breakfast! -- going of
 
 
 #### Case study - MDNKA Midnight Kids Academy
-
-=======
-
 
 
 ---
