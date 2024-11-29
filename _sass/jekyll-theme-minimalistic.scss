@@ -34,7 +34,7 @@ img {
 h1, h2, h3, h4, h5, h6 {
   color: var(--clr-h1-and-bold);
   color: dimgray;
-  margin: 0 0 20px;
+  margin: 0 0 10px;
 }
 
 p, ul, ol, table, pre, dl {
@@ -138,7 +138,7 @@ blockquote {
   margin: 0;
   padding: 0 0 0 20px;
   font-style: italic;
-  font-family:system-ui, -apple-system;
+  font-family:system-ui, Bitstream Vera Sans Mono, Lucida Console;
   font-size: 13px;
   color:dodgerblue;
 }
