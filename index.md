@@ -261,9 +261,6 @@ This inaugural issue brings focus to KC93, the music production division born fr
 
 This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept. Leaning more in the spirit of freedom of A4B!, I start working with more on the backflip aspect of the idea. The idea was for it to be a digital magazine that focus not just on anime but art and artist alike.
 
-<br>
-<br>
-
 ![a4b-kowloon](assets/img/a4b-kowloon.jpg)
 **a4b! Kowloon** - 2007 / Feb.
 
@@ -274,9 +271,6 @@ This was the beginnning of it all the first ads for anime4breakfast! -- going of
 ![assets/img/gs-hongkng.webp](assets/img/gs-hongkng.webp)
 Scene from the anime (Ghost in the Shell)
 
-<br>
-<br>
-
 
 ![kid oreo2](assets/img/kid%20oreo2.png)
 **A4B! Kid Oreo 2** Advertisement - 2007 / Feb.
@@ -286,18 +280,12 @@ Scene from the anime (Ghost in the Shell)
 
 This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
 
-<br>
-<br>
-
 ![diveinkid](assets/img/diveinkid.png)
 **A4B! Issue 01 advertivements** - 2007 / Feb.
 
 ---
 
 This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
-
-<br>
-<br>
 
 ![a4b kowloon art](assets/img/a4b-kowloon-art.png)
 **A4B! Issue 01 advertivements** - 2007 / Feb.
@@ -306,18 +294,12 @@ This was the beginnning of it all the first ads for anime4breakfast! -- going of
 
 This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
 
-<br>
-<br>
-
 ![a4b kowloon](assets/img/a4b-kowloon.jpg)
 **A4B! Issue 01 advertivements** - 2007 / Feb.
 
 ---
 
 This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
-
-<br>
-<br>
 
 ![a4b main1](assets/img/a4b-siber.png)
 **A4B! Issue 01 advertivements** - 2007 / Feb.
@@ -326,18 +308,12 @@ This was the beginnning of it all the first ads for anime4breakfast! -- going of
 
 This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
 
-<br>
-<br>
-
 ![a4b main4](assets/img/a4b-siber2.png)
 **A4B! Issue 01 advertivements** - 2007 / Feb.
 
 ---
 
 This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
-
-<br>
-<br>
 
 ![newbanner_a4b3](assets/img/newbanner_a4b3.png)
 **A4B! Issue 01 advertivements** - 2007 / Feb.
@@ -346,8 +322,6 @@ This was the beginnning of it all the first ads for anime4breakfast! -- going of
 
 This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
 
-<br>
-<br>
 
 ![bmw1](assets/img/bmw1.png)
 **A4B! Issue 01 advertivements** - 2007 / Feb.
@@ -355,9 +329,6 @@ This was the beginnning of it all the first ads for anime4breakfast! -- going of
 ---
 
 This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
-
-<br>
-<br>
 
 ![bmw4](assets/img/bmw4.png)
 **A4B! Issue 01 advertivements** - 2007 / Feb.
