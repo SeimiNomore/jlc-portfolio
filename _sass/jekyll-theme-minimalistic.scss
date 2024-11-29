@@ -34,7 +34,7 @@ img {
 h1, h2, h3, h4, h5, h6 {
   color: var(--clr-h1-and-bold);
   color: dimgray;
-  margin: 0 0 5px;
+  margin: 0 0 7px;
 }
 
 p, ul, ol, table, pre, dl {
@@ -144,7 +144,7 @@ blockquote {
 }
 
 code, pre {
-  font-family:  Bitstream Vera Sans Mono, Lucida Console, Terminal, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
+  font-family:  Bitstream Vera Sans Mono, Terminal, Liberation Mono, DejaVu Sans Mono, monospace;
   color: var(--clr-code-text);
 }
 
