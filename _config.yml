@@ -25,7 +25,7 @@ navigation:
     link: ./artworks-codex.html
     sublist:
   - name: Art Collectives and Personal Project Outreach
-    link: ./index.html#art-collectives-and-personal-project-outreach
+    link: ./art-collectives-and-personal-project-outreach.html
     sublist:
       - name: Case Study - Anime4Breakfast
         link: ./index.html#case-study---anime4breakfast
