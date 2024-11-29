@@ -5,10 +5,14 @@
 <br>
 <br>
 
-### Case study - anime4breakfast
-Conception / 2006 - Ongoing
+### Art Direction
+2006 - Ongoing
 
 ---
+<br>
+
+#### Case study - anime4breakfast
+Conception / 2006 - 2011
 
 <br>
 
