@@ -19,4 +19,4 @@
 <br>
 <br>
 
-[back](./)
+[back](./) [index](./index.html)
