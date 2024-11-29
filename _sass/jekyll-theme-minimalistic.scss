@@ -139,7 +139,7 @@ blockquote {
   padding: 0 0 0 20px;
   font-style: italic;
   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  font-size: 12px;
+  font-size: 11px;
   color: rgb(164, 173, 181);
 }
 
@@ -243,7 +243,7 @@ kbd {
   overflow-x: hidden;
   overflow-y: scroll;
   -ms-overflow-style: -ms-autohiding-scrollbar;
-  font-size: 13px;
+  font-size: 12px;
 }
 
 @-moz-document url-prefix() {
@@ -426,7 +426,7 @@ hr {
 @media print {
   body {
     padding: 0.4in;
-    font-size: 11px;
+    font-size: 10px;
     color: #444;
   }
 }
