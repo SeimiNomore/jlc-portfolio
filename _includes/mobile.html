@@ -1,10 +1,10 @@
 <div class="link-wrapper-mobile">
     
     <ul class="link">
-    {%- for platform in site.platforms %}
+    
     <nobr><a href="{{ platform.link }}" rel="me">{{ platform.icon }}&nbsp;{{ platform.name }}</a>
     {%- unless forloop.last %}<span style="margin-left: 6px;"></span>{% endunless %}</nobr>
-    {%- endfor %}
+    
     </ul>
    
 
