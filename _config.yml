@@ -24,19 +24,19 @@ navigation:
   - name: Artworks Codex
     link: ./artworks-codex.html
     sublist:
-  - name: Art Collectives and Personal Project Outreach
-    link: ./art-collectives-and-personal-project-outreach.html
+  - name: Art Direction
+    link: ./art-direction.html
     sublist:
       - name: Case Study - Anime4Breakfast
-        link: ./index.html#case-study---anime4breakfast
+        link: ./art-direction.html#case-study---anime4breakfast
       - name: Case Study - KC.93 RR
-        link: ./index.html#case-study---kc93-rr
+        link: ./art-direction.html#case-study---kc93-rr
       - name: Case Study - MDNKA Midnight Kids Academy
-        link: ./index.html#case-study---mdnka-midnight-kids-academy                                                        
+        link: ./art-direction.html#case-study---mdnka-midnight-kids-academy                                                        
   - name: Character Design & Storytelling
     link: ./character-design-&-storytelling.html
     sublist:
       - name: Case Study - BPH Battle Park High
-        link: ./index.html#case-study---bph-battle-park-high
+        link: ./character-design-&-storytelling.html#case-study---bph-battle-park-high
   - name: Another Page
     link: ./another-page.html
