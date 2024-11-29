@@ -20,12 +20,11 @@ platforms:
 
 navigation:
   - name: Portfolio Introduction
-    link: ./portfolio-introduction.html
+    link: ./portfolio-intro.html
     name: Index
     link: ./index.html
   - name: Artworks Codex
     link: ./artworks-codex.html
-    sublist:
   - name: Art Direction
     link: ./art-direction.html
     sublist:
