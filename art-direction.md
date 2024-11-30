@@ -98,7 +98,6 @@ Each element—the color, the font, and the composition—came together organica
 Through its presence in the logo, JoyBoy serves as a beacon of inspiration, reminding us that true creativity thrives in an environment of freedom—where imagination knows no boundaries, and every idea has the space to take flight.
 
 <br>
-<br>
 
 ![a4bmusickowloon city](assets/img/a4bmusickowloon_city.png)
 **A4B! Music Kowloon City - Online Magazine cover design** / 2007 - 2008
@@ -109,7 +108,6 @@ Through its presence in the logo, JoyBoy serves as a beacon of inspiration, remi
 
 This inaugural issue brings focus to KC93, the music production division born from the kinetic energy of Kowloon City. KC93 represents more than a production hub—it’s a conceptual ecosystem where sound becomes a medium for storytelling, innovation, and cultural dialogue. Each project under KC93 is a reflection of deliberate design, merging technical mastery with the raw energy of inspiration to craft sonic experiences that resonate on a profound level.
 
-<br>
 <br>
 
 ![backflipkid](assets/img/backflipkid.png)
