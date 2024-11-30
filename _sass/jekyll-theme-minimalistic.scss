@@ -249,7 +249,9 @@ kbd {
 }
 
 @-moz-document url-prefix() {
+  
   .sidebar {
+    position: sticky;
     scrollbar-width: none;
   }
 }
