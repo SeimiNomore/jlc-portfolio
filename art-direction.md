@@ -174,7 +174,12 @@ This was the beginnning of it all the first ads for anime4breakfast! -- going of
 
 This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
 
+![](assets/img/a4b-index.jpg)
+**Racquel ***Twitche*** Brazer** Advertizment - 01 for A4B!
 
+---
+
+This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
 
 
 ![a4b kowloon](assets/img/a4b-kowloon.jpg)
@@ -337,12 +342,64 @@ With a mission to foster talent through immersive experiences, practical learnin
 Central to the philosophy of Midnight Kids Academy is the idea that genuine growth comes from pushing boundaries and venturing into the unknown. Its curriculum defies traditional learning methods, featuring unconventional schedules, nocturnal brainstorming sessions, and mentorship by accomplished experts who themselves have succeeded through unorthodox paths.
 
 ![ghost-kids](assets/img/ghost-kids.png)
+**A4B! Issue 01 advertivements** - 2007 / Feb.
+
+---
+
+This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
+
+![](assets/img/midnightkids-cover04.png)
+**A4B! Issue 01 advertivements** - 2007 / Feb.
+
+---
+
+This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
+
+![](assets/img/midnightkids_cover.png)
+**A4B! Issue 01 advertivements** - 2007 / Feb.
+
+---
+
+This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
+
+![](assets/img/midnight-kids-logo.png)
 
 ![MDNK-mini-Tour](assets/img/MDNK-mini-Tour.jpg)
+**A4B! Issue 01 advertivements** - 2007 / Feb.
 
-![MDNK-mini-Tour](assets/img/MDNK-mini-Tour.jpg)
+---
 
-![MDNK-mini-Tour](assets/img/MDNK-mini-Tour.jpg)
+This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
+
+![MDNK-mini-Tour](assets/img/MDNK-Morning-Star-Arcata1.jpg)
+**A4B! Issue 01 advertivements** - 2007 / Feb.
+
+---
+
+This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
+
+![MDNK-mini-Tour](assets/img/MDNK-Academy-logo-photoshop-draft1.jpg)
+**A4B! Issue 01 advertivements** - 2007 / Feb.
+
+---
+
+This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
+
+![](assets/img/mdnk-no-prisoners.jpg)
+**A4B! Issue 01 advertivements** - 2007 / Feb.
+
+---
+
+This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
+
+![](assets/img/Midnight-Kids-for-Japan-Banner.jpg)
+**A4B! Issue 01 advertivements** - 2007 / Feb.
+
+---
+
+This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
+
+
 
 <br>
 <br>
