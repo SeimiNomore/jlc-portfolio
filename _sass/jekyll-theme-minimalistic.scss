@@ -61,7 +61,7 @@ h3, h4, h5, h6 {
 a {
   color:var(--clr-a-text);
   text-decoration:none;
-  color:rgb(71, 65, 99);
+  color:rgb(94, 76, 179);
 }
 
 a:hover, a:focus {
@@ -70,25 +70,25 @@ a:hover, a:focus {
 
 a small {
   font-size: 9.8px;
-  color:rgb(71, 65, 99);
+  color:rgb(94, 76, 179);
   margin-top: -0.3em;
   display: block;
 }
 
 a:hover small {
-  color:rgb(71, 65, 99);
+  color:rgb(94, 76, 179);
 }
 
 .addr a:hover, a:focus {
-  color: rgb(71, 65, 99)(--clr-a-text-hvr);
+  color: rgb(94, 76, 179)(--clr-a-text-hvr);
 }
 
 ul.link a {
-  color:rgb(71, 65, 99)(--clr-h1-and-bold);
+  color:rgb(94, 76, 179)(--clr-h1-and-bold);
 }
 
 ul.link a:hover, a:focus {
-  color: rgb(71, 65, 99)(--clr-a-text-hvr);
+  color: rgb(94, 76, 179)(--clr-a-text-hvr);
 }
 
 ul.content {
