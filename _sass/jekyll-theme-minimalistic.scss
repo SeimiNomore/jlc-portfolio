@@ -133,11 +133,6 @@ ul.link:last-child {
   margin: 0 auto;
 }
 
-a.section, a:hover, a:focus {
-color: cornflowerblue var(--clr-a-text-hvr);
-}
-
-
 blockquote {
   border-left: 1px solid var(--clr-splitter-blockquote-and-section);
   margin: 0;
@@ -235,15 +230,6 @@ kbd {
   vertical-align: middle;
 }
 
-.sidebar a:hover, a:focus {
-  color: cornflowerblue;
-}
-
-.sidebar :hover small {
-  color: lightslategray ;
-}
-
-
 .sidebar {
   width: 250px;
   float: left;
@@ -259,7 +245,6 @@ kbd {
   overflow-y: scroll;
   -ms-overflow-style: -ms-autohiding-scrollbar;
   font-size: 12px;
-  
 }
 
 @-moz-document url-prefix() {
