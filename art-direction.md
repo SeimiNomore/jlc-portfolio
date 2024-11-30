@@ -23,20 +23,26 @@ Conception / 2006 - 2011
 
 > As *Anime4Breakfast* grew, it became more than an artistic exploration; it became a lifestyle philosophy—a tribute to those quiet, introspective moments where one’s connection to art and self-expression becomes a cornerstone of creativity.
 
---- 
+<br>
+<br>
+
 
 
 ![a4b-blog-season](assets/img/a4b-blog-season.png)
+**a4b! Blog Season**
 
-**a4b! blog season -**
-> *Anime4Breakfast! (a4b!) is a dynamic cultural space that celebrates the seamless blend of anime and daily life, turning each morning into an electrifying ritual for enthusiasts and casual fans alike. At its core, a4b! aims to invigorate the day’s start with the rich storytelling, vivid art, and diverse narratives that anime offers—a medium that inspires and captivates millions around the world.*
+---
+
+Anime4Breakfast! (a4b!) is a dynamic cultural space that celebrates the seamless blend of anime and daily life, turning each morning into an electrifying ritual for enthusiasts and casual fans alike. At its core, a4b! aims to invigorate the day’s start with the rich storytelling, vivid art, and diverse narratives that anime offers—a medium that inspires and captivates millions around the world.*
 
 
 ![a4b_blog-page.png](assets/img/a4b_blog-page.png)
 
-**a4b! issue #2 banner -**
+**a4b! Issue #2 Banner**
 
-> *"This marked the inception of JoyBoy. JoyBoy was born from the emotions that surge within me during the creative process. I aimed to capture and embody that essence in this banner after being profoundly inspired by this image."eated from the feelings I have when I create my, I wanted to inbody that feeling in the banner after seeing that this image."*
+---
+
+This marked the inception of JoyBoy. JoyBoy was born from the emotions that surge within me during the creative process. I aimed to capture and embody that essence in this banner after being profoundly inspired by this image."eated from the feelings I have when I create my, I wanted to inbody that feeling in the banner after seeing that this image."*
 
 ![a4b-beta](assets/img/a4b-beta.png)
 
@@ -253,6 +259,7 @@ This was the beginnning of it all the first ads for anime4breakfast! -- going of
 This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
 
 ![kc93](assets/img/kc93.png)
+
 **A4B! Issue 01 advertivements** - 2007 / Feb.
 
 ---
@@ -260,6 +267,7 @@ This was the beginnning of it all the first ads for anime4breakfast! -- going of
 This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
 
 ![a4b-logos](assets/img/kc93-3.png)
+
 **A4B! Issue 01 advertivements** - 2007 / Feb.
 
 ---
@@ -267,6 +275,7 @@ This was the beginnning of it all the first ads for anime4breakfast! -- going of
 This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
 
 ![KC93 new logo1](assets/img/KC93-new-logo1.png)
+
 **KC93 new logo1** - 2007 / Feb.
 
 ---
@@ -274,35 +283,20 @@ This was the beginnning of it all the first ads for anime4breakfast! -- going of
 This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
 
 ![KC93 NEW REDO BlK](assets/img/KC93-NEW-REDO-BlK.png)
+
 **A4B! Issue 01 advertivements** - 2007 / Feb.
 
 ---
 
 This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
 
-![KC93 NEW REDO BlK](assets/img/KC93-NEW-REDO-BlK.png
-**KC93 NEW REDO BlK** - 2007 / Feb.
-
----
-
-This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
-
-
----
-
-![]()
-
-![]()
-
+<br>
 
 #### Case study - MDNKA Midnight Kids Academy
 
 
+
 ---
-
-![]()
-
-![]()
 
 
 #### Case study - MDNKA Midnight Kids Academy
