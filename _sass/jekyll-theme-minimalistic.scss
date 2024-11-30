@@ -10,7 +10,7 @@ body {
   background-color: var(--clr-bg);
   padding: 50px;
   font: 12px/1.2 "Noto Sans", "Helvetica Neue", Helvetica, sans-serif;
-  color:#50505d(--clr-text);
+  color:(--clr-text);
   font-weight: 200;
   -ms-overflow-style: -ms-autohiding-scrollbar;
 }
@@ -429,6 +429,6 @@ hr {
   body {
     padding: 0.4in;
     font-size: 10px;
-    color: #444;
+    color:#2d2d36;
   }
 }
