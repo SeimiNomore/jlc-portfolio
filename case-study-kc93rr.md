@@ -1,3 +1,15 @@
+<br>
+<br>
+<br>
+<br>
+
+### Case Study - KC93RR
+Fine art - 2022 - Ongonig
+
+---
+
+<br>
+
 ![kc93splash](assets/img/kc93splash.jpg)
 **A4B! Issue 01 advertivements** - 2007 / Feb.
 

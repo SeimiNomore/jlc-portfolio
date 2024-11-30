@@ -25,7 +25,8 @@ The trumpet symbolize alignment, I thought — did Armstrong’s presence in 196
 
 ---
 
-This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
+Moore, is a repestion to how black youths are judge a book by it's cover. The word "MOOR," carved across the mask, anchors the piece with weight and intention. It speaks volumes in its quiet presence—layered with historical depth and cultural resonance. It pulls the viewer into forgotten narratives and unseen legacies, urging a pause to reconsider how identity is shaped, misread, or even erased in plain sight.
+ 
 
 
 ![](assets/img/White_Bag.png)
@@ -33,7 +34,9 @@ This was the beginnning of it all the first ads for anime4breakfast! -- going of
 
 ---
 
-This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
+White Bag is more than an exploration of fashion; it’s a narrative of identity. It speaks to the elegance found in individuality, how even the simplest elements—a bag, a stance, a look—can embody the essence of self-expression.
+
+The delicate tension between her purposeful style and her understated authority is what inspired me. Her gaze, so subtle yet magnetic, became the focal point, guiding the raw, free-flowing strokes that define this work.
 
 
 ![immortal-sosa](assets/img/immortal-sosa.jpg)
@@ -41,8 +44,7 @@ This was the beginnning of it all the first ads for anime4breakfast! -- going of
 
 ---
 
-This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
-
+I crated about the character Immortal Sosa is a piece inspired by the film Belly. In creating this work, I sought to explore the character's development, emphasizing his resilience and transformation. My goal was to delve into the layers of his persona of the scene capturing the movie.
 
 ![I4NI](assets/img/I4I.png)
 **I4NI** | Collection - Spooky - 2022 / Jul.
