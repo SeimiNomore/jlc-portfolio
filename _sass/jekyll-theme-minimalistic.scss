@@ -231,6 +231,7 @@ kbd {
 }
 
 .sidebar {
+  position: sticky;
   width: 250px;
   float: left;
   position: fixed;
