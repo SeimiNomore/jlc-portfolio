@@ -414,7 +414,33 @@ This was the beginnning of it all the first ads for anime4breakfast! -- going of
 
 This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
 
+![](assets/img/twitch-mdnka-japan-relief-ad.jpg)
+**A4B! Issue 01 advertivements** - 2007 / Feb.
 
+---
+
+This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
+
+![](assets/img/mdnka-cover-mmx11.jpg)
+**A4B! Issue 01 advertivements** - 2007 / Feb.
+
+---
+
+This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
+
+![](assets/img/cookies-mdnka.png)
+**A4B! Issue 01 advertivements** - 2007 / Feb.
+
+---
+
+This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
+
+![](assets/img/alma-noir-mdnka-logo.png)
+**A4B! Issue 01 advertivements** - 2007 / Feb.
+
+---
+
+This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
 
 <br>
 <br>
