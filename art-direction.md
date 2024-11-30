@@ -44,6 +44,9 @@ Anime4Breakfast! (a4b!) is a dynamic cultural space that celebrates the seamless
 
 This marked the inception of JoyBoy. JoyBoy was born from the emotions that surge within me during the creative process. I aimed to capture and embody that essence in this banner after being profoundly inspired by this image."eated from the feelings I have when I create my, I wanted to inbody that feeling in the banner after seeing that this image."*
 
+
+
+
 ![a4b-beta](assets/img/a4b-beta.png)
 
 A4B! logo **(Draft Development)** for 2006 - 2007 
@@ -87,15 +90,15 @@ When developing the logo, I envisioned a flag—a bold emblem representing a com
 Each element—the color, the font, and the composition—came together organically to create a logo that is both playful and iconic, embodying the essence of Anime4Breakfast as a hub of creativity, nostalgia, and endless possibilities.
 
 
-![a4b logo reboot](assets/img/a4b-logo-reboot.png)
 
-**How JoyBoy became apart of the logo** / 2007 - 2008
+![](assets/img/a4b-index.jpg)
+**Racquel *Twitche* Brazer** Advertizment - 01 for A4B!
 
 ---
 
-**JoyBoy** became an integral part of the logo as a reflection of the boundless spirit of freedom and creativity that drives the vision behind it. The name itself symbolizes the joy and liberation found in uninhibited self-expression, while the design incorporates elements that evoke a sense of limitless potential. JoyBoy isn’t just a name or a concept; it’s a representation of the creative energy that flows when ideas are allowed to evolve freely, unshackled by convention.  
+This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
 
-Through its presence in the logo, JoyBoy serves as a beacon of inspiration, reminding us that true creativity thrives in an environment of freedom—where imagination knows no boundaries, and every idea has the space to take flight.
+
 
 <br>
 
@@ -117,6 +120,22 @@ This inaugural issue brings focus to KC93, the music production division born fr
 ---
 
 This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept. Leaning more in the spirit of freedom of A4B!, I start working with more on the backflip aspect of the idea. The idea was for it to be a digital magazine that focus not just on anime but art and artist alike.
+
+![](assets/img/tmoneyanime4.png)
+**TMoney Ad 2**
+
+---
+
+This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
+
+
+
+![](assets/img/rsisanime.png)
+**Rsisanime** First Advertizment with Anime4Breakfast
+
+---
+
+This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
 
 ![a4b-kowloon](assets/img/a4b-kowloon.jpg)
 **a4b! Kowloon** - 2007 / Feb.
@@ -158,34 +177,16 @@ This was the beginnning of it all the first ads for anime4breakfast! -- going of
 
 This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
 
+![a4b milesdeva timothy](assets/img/a4b-miles-deval-timothy.png.png)
+**A4B! Issue 01 advertivements** - 2007 / Feb.
+
+---
+
+This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
+
 
 ![](assets/img/pixelcut-export2.png)
 **Bad News S, Free** Sucka Free First Year at Anime4Breakfast
-
----
-
-This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
-
-
-
-![](assets/img/tmoneyanime4.png)
-**TMoney Ad 2**
-
----
-
-This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
-
-
-
-![](assets/img/rsisanime.png)
-**Rsisanime** First Advertizment with Anime4Breakfast
-
----
-
-This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
-
-![](assets/img/a4b-index.jpg)
-**Racquel *Twitche* Brazer** Advertizment - 01 for A4B!
 
 ---
 
@@ -231,6 +232,18 @@ This was the beginnning of it all the first ads for anime4breakfast! -- going of
 
 This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
 
+![a4b logo reboot](assets/img/a4b-logo-reboot.png)
+
+**How JoyBoy became apart of the logo** / 2007 - 2008
+
+---
+
+**JoyBoy** became an integral part of the logo as a reflection of the boundless spirit of freedom and creativity that drives the vision behind it. The name itself symbolizes the joy and liberation found in uninhibited self-expression, while the design incorporates elements that evoke a sense of limitless potential. JoyBoy isn’t just a name or a concept; it’s a representation of the creative energy that flows when ideas are allowed to evolve freely, unshackled by convention.  
+
+Through its presence in the logo, JoyBoy serves as a beacon of inspiration, reminding us that true creativity thrives in an environment of freedom—where imagination knows no boundaries, and every idea has the space to take flight.
+
+
+
 ![newbanner_a4b3](assets/img/newbanner_a4b3.png)
 **A4B! Issue 01 advertivements** - 2007 / Feb.
 
@@ -267,12 +280,13 @@ This was the beginnning of it all the first ads for anime4breakfast! -- going of
 
 This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
 
-![a4b milesdeva timothy](assets/img/a4b-miles-deval-timothy.png.png)
+![](assets/img/ryo_issue6.png)
 **A4B! Issue 01 advertivements** - 2007 / Feb.
 
 ---
 
 This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
+
 
 <br>
 <br>
