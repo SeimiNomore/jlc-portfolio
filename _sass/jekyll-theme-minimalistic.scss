@@ -10,7 +10,7 @@ body {
   background-color: var(--clr-bg);
   padding: 50px;
   font: 12px/1.2 "Noto Sans", "Helvetica Neue", Helvetica, "Muli", sans-serif;
-  color:#292939;
+  color:#38384d;
   font-weight: 200;
   -ms-overflow-style: -ms-autohiding-scrollbar;
 }
@@ -61,34 +61,34 @@ h3, h4, h5, h6 {
 a {
   color:var(--clr-a-text);
   text-decoration:none;
-  color:cornflowerblue;
+  color:rgb(52, 28, 158);
 }
 
 a:hover, a:focus {
-  color: lightslategray;
+  color: rgb(52, 28, 158);
 }
 
 a small {
   font-size: 9.8px;
-  color:cornflowerblue;
+  color:rgb(52, 28, 158);
   margin-top: -0.3em;
   display: block;
 }
 
 a:hover small {
-  color:cornflowerblue;
+  color:rgb(52, 28, 158);
 }
 
 .addr a:hover, a:focus {
-  color: cornflowerblue var(--clr-a-text-hvr);
+  color: rgb(52, 28, 158) var(--clr-a-text-hvr);
 }
 
 ul.link a {
-  color:cornflowerblue var(--clr-h1-and-bold);
+  color:rgb(52, 28, 158) var(--clr-h1-and-bold);
 }
 
 ul.link a:hover, a:focus {
-  color: cornflowerblue var(--clr-a-text-hvr);
+  color: rgb(52, 28, 158) var(--clr-a-text-hvr);
 }
 
 ul.content {
