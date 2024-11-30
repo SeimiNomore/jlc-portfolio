@@ -61,26 +61,26 @@ h3, h4, h5, h6 {
 a {
   color:var(--clr-a-text);
   text-decoration:none;
-  color:rgb(94, 76, 179);
+  color:royalblue;
 }
 
 a:hover, a:focus {
-  color: rgb(214, 209, 226);
+  color: rgb(224, 220, 234);
 }
 
 a small {
   font-size: 9.8px;
-  color:rgb(94, 76, 179);
+  color:royalblue;
   margin-top: -0.3em;
   display: block;
 }
 
 a:hover small {
-  color:rgb(94, 76, 179);
+  color:royalblue;
 }
 
 .addr a:hover, a:focus {
-  color: rgb(94, 76, 179)(--clr-a-text-hvr);
+  color: royalblue (--clr-a-text-hvr);
 }
 
 ul.link a {
