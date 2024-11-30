@@ -9,7 +9,7 @@ html {
 body {
   background-color: var(--clr-bg);
   padding: 50px;
-  font: 12px/1.2 "Noto Sans", "Helvetica Neue", Helvetica, sans-serif;
+  font: 12px/1.2 BlinkMacSystemFont, DejaVu Sans Mono;
   color: var(--clr-text);
   font-weight: 500;
   -ms-overflow-style: -ms-autohiding-scrollbar;
@@ -138,7 +138,7 @@ blockquote {
   margin: 0;
   padding: 0 0 0 20px;
   font-style: normal;
-  font-family:system-ui, -apple-system, BlinkMacSystemFont, DejaVu Sans Mono, Courier New, monospace;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, DejaVu Sans Mono, Courier New, monospace;
   font-size: 12px;
   color:#637489;
 }
