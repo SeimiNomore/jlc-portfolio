@@ -61,34 +61,34 @@ h3, h4, h5, h6 {
 a {
   color:var(--clr-a-text);
   text-decoration:none;
-  color:rgb(114, 112, 143);
+  color:rgb(91, 90, 115);
 }
 
 a:hover, a:focus {
-  color: rgb(199, 206, 213);
+  color: rgb(214, 209, 226);
 }
 
 a small {
   font-size: 9.8px;
-  color:rgb(114, 112, 143);
+  color:rgb(91, 90, 115);
   margin-top: -0.3em;
   display: block;
 }
 
 a:hover small {
-  color:rgb(114, 112, 143);
+  color:rgb(91, 90, 115);
 }
 
 .addr a:hover, a:focus {
-  color: rgb(114, 112, 143)(--clr-a-text-hvr);
+  color: rgb(91, 90, 115)(--clr-a-text-hvr);
 }
 
 ul.link a {
-  color:rgb(114, 112, 143)(--clr-h1-and-bold);
+  color:rgb(91, 90, 115)(--clr-h1-and-bold);
 }
 
 ul.link a:hover, a:focus {
-  color: rgb(114, 112, 143)(--clr-a-text-hvr);
+  color: rgb(91, 90, 115)(--clr-a-text-hvr);
 }
 
 ul.content {
