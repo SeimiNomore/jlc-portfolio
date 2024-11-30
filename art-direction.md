@@ -144,6 +144,13 @@ This was the beginnning of it all the first ads for anime4breakfast! -- going of
 
 This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
 
+![a4b kowloon](assets/img/a4b-kowloon.jpg)
+**A4B! Issue 01 advertivements** - 2007 / Feb.
+
+---
+
+This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
+
 ![a4b kowloon art](assets/img/a4b-kowloon-art.png)
 **A4B! Issue 01 advertivements** - 2007 / Feb.
 
@@ -159,12 +166,15 @@ This was the beginnning of it all the first ads for anime4breakfast! -- going of
 
 This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
 
+
+
 ![](assets/img/tmoneyanime4.png)
 **TMoney Ad 2**
 
 ---
 
 This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
+
 
 
 ![](assets/img/rsisanime.png)
@@ -175,19 +185,13 @@ This was the beginnning of it all the first ads for anime4breakfast! -- going of
 This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
 
 ![](assets/img/a4b-index.jpg)
-**Racquel ***Twitche*** Brazer** Advertizment - 01 for A4B!
+**Racquel *Twitche* Brazer** Advertizment - 01 for A4B!
 
 ---
 
 This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
 
 
-![a4b kowloon](assets/img/a4b-kowloon.jpg)
-**A4B! Issue 01 advertivements** - 2007 / Feb.
-
----
-
-This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
 
 ![a4b nolis](assets/img/a4b-nolis.png.png)
 **A4B! Issue 01 advertivements** - 2007 / Feb.
@@ -341,6 +345,18 @@ With a mission to foster talent through immersive experiences, practical learnin
 
 Central to the philosophy of Midnight Kids Academy is the idea that genuine growth comes from pushing boundaries and venturing into the unknown. Its curriculum defies traditional learning methods, featuring unconventional schedules, nocturnal brainstorming sessions, and mentorship by accomplished experts who themselves have succeeded through unorthodox paths.
 
+<br>
+<br>
+<br>
+
+![](assets/img/midnight-kids-logo.png)
+**A4B! Issue 01 advertivements** - 2007 / Feb.
+
+---
+
+This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
+
+
 ![ghost-kids](assets/img/ghost-kids.png)
 **A4B! Issue 01 advertivements** - 2007 / Feb.
 
@@ -362,7 +378,7 @@ This was the beginnning of it all the first ads for anime4breakfast! -- going of
 
 This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
 
-![](assets/img/midnight-kids-logo.png)
+
 
 ![MDNK-mini-Tour](assets/img/MDNK-mini-Tour.jpg)
 **A4B! Issue 01 advertivements** - 2007 / Feb.
