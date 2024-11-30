@@ -61,22 +61,22 @@ h3, h4, h5, h6 {
 a {
   color:var(--clr-a-text);
   text-decoration:none;
-  color:cornflowerblue;
+  color:;
 }
 
 a:hover, a:focus {
-  color: lightslategray;
+  color:;
 }
 
 a small {
   font-size: 9.8px;
-  color:cornflowerblue;
+  color:;
   margin-top: -0.3em;
   display: block;
 }
 
 a:hover small {
-  color:cornflowerblue;
+  color:;
 }
 
 .addr a:hover, a:focus {
@@ -132,6 +132,11 @@ ul.link:last-child {
   width: 860px;
   margin: 0 auto;
 }
+
+a.section, a:hover, a:focus {
+color: lightslategray var(--clr-a-text-hvr);
+}
+
 
 blockquote {
   border-left: 1px solid var(--clr-splitter-blockquote-and-section);
