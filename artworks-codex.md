@@ -127,7 +127,8 @@ This piece belongs to the Spooky collection, where themes of the unknown, the un
 
 ---
 
-Lee’s journey to becoming an urban legend began with this unyielding (***Love***). It wasn’t just about mastering an instrument; it was about making it speak. He could translate emotion into sound, pulling from the depths of joy, heartache, and everything in between.
+
+Keisha is a painting drawn from a pivotal scene in the film Belly, a cinematic masterpiece that resonates deeply with me. The decision to reimagine this particular moment came naturally—it’s a favorite scene that captures a raw, captivating energy that felt like it needed to live beyond the screen.
 
 ![3Essentials](assets/img/3Essentials.jpg)
 **3Essentials** | Collection - Muse 1 - 2022 / Jul.
