@@ -266,12 +266,15 @@ This was the beginnning of it all the first ads for anime4breakfast! -- going of
 
 This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
 
+<br>
+<br>
 
 #### Case study - KC93 RR
 
 ---
 
 Midnight Kids Academy is a vibrant, multifaceted initiative dedicated to cultivating creativity, resilience, and empowerment within a community of ambitious individuals. Grounded in the belief that inspiration often awakens when the world sleeps, the academy champions those who unlock their full potential during the twilight hours—dreamers, passionate strivers, and innovative thinkers who come alive when the world is at rest.
+
 
 
 ![kc93splash](assets/img/kc93splash.jpg)
@@ -320,6 +323,7 @@ This was the beginnning of it all the first ads for anime4breakfast! -- going of
 
 This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
 
+<br>
 <br>
 
 #### Case study - MDNKA Midnight Kids Academy
