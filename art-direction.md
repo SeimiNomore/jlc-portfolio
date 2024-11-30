@@ -100,7 +100,7 @@ Through its presence in the logo, JoyBoy serves as a beacon of inspiration, remi
 <br>
 
 ![a4bmusickowloon city](assets/img/a4bmusickowloon_city.png)
-**A4B! Music Kowloon City - Online Magazine cover design** / 2007 - 2008
+**A4B! Music Kowloon City - Online Magazine cover design** / 2007
 
 ---
 
