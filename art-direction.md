@@ -269,7 +269,7 @@ This was the beginnning of it all the first ads for anime4breakfast! -- going of
 <br>
 <br>
 
-#### Case study - KC93 RR
+### Case study - KC93 RR
 
 ---
 
@@ -326,7 +326,7 @@ This was the beginnning of it all the first ads for anime4breakfast! -- going of
 <br>
 <br>
 
-#### Case study - MDNKA Midnight Kids Academy
+### Case study - MDNKA Midnight Kids Academy
 
 ---
 
