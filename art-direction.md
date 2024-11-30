@@ -151,6 +151,32 @@ This was the beginnning of it all the first ads for anime4breakfast! -- going of
 
 This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
 
+
+![](assets/img/pixelcut-export2.png)
+**Bad News S, Free** Sucka Free First Year at Anime4Breakfast
+
+---
+
+This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
+
+![](assets/img/tmoneyanime4.png)
+**TMoney Ad 2**
+
+---
+
+This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
+
+
+![](assets/img/rsisanime.png)
+**Rsisanime** First Advertizment with Anime4Breakfast
+
+---
+
+This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
+
+
+
+
 ![a4b kowloon](assets/img/a4b-kowloon.jpg)
 **A4B! Issue 01 advertivements** - 2007 / Feb.
 
@@ -164,6 +190,8 @@ This was the beginnning of it all the first ads for anime4breakfast! -- going of
 ---
 
 This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
+
+![](assets/img/pixelcut-export (2).png)
 
 ![a4b main4](assets/img/a4b-siber2.png)
 **A4B! Issue 01 advertivements** - 2007 / Feb.
@@ -237,9 +265,13 @@ This was the beginnning of it all the first ads for anime4breakfast! -- going of
 
 This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
 
+<br>
+
 #### Case study - KC93 RR
 
+---
 
+Midnight Kids Academy is a vibrant, multifaceted initiative dedicated to cultivating creativity, resilience, and empowerment within a community of ambitious individuals. Grounded in the belief that inspiration often awakens when the world sleeps, the academy champions those who unlock their full potential during the twilight hours—dreamers, passionate strivers, and innovative thinkers who come alive when the world is at rest.
 
 
 ![kc93splash](assets/img/kc93splash.jpg)
@@ -292,12 +324,7 @@ This was the beginnning of it all the first ads for anime4breakfast! -- going of
 
 #### Case study - MDNKA Midnight Kids Academy
 
-
-
 ---
-
-
-#### Case study - MDNKA Midnight Kids Academy
 
 Midnight Kids Academy is a vibrant, multifaceted initiative dedicated to cultivating creativity, resilience, and empowerment within a community of ambitious individuals. Grounded in the belief that inspiration often awakens when the world sleeps, the academy champions those who unlock their full potential during the twilight hours—dreamers, passionate strivers, and innovative thinkers who come alive when the world is at rest.
 
@@ -305,7 +332,13 @@ With a mission to foster talent through immersive experiences, practical learnin
 
 Central to the philosophy of Midnight Kids Academy is the idea that genuine growth comes from pushing boundaries and venturing into the unknown. Its curriculum defies traditional learning methods, featuring unconventional schedules, nocturnal brainstorming sessions, and mentorship by accomplished experts who themselves have succeeded through unorthodox paths.
 
+![ghost-kids](assets/img/ghost-kids.png)
 
+![MDNK-mini-Tour](assets/img/MDNK-mini-Tour.jpg)
+
+![MDNK-mini-Tour](assets/img/MDNK-mini-Tour.jpg)
+
+![MDNK-mini-Tour](assets/img/MDNK-mini-Tour.jpg)
 
 <br>
 <br>
