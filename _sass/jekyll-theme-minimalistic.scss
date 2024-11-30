@@ -61,7 +61,7 @@ h3, h4, h5, h6 {
 a {
   color:var(--clr-a-text);
   text-decoration:none;
-  color:dodgerblue;
+  color:cornflowerblue;
 }
 
 a:hover, a:focus {
@@ -70,25 +70,25 @@ a:hover, a:focus {
 
 a small {
   font-size: 9.8px;
-  color: dodgerblue;
+  color:cornflowerblue;
   margin-top: -0.3em;
   display: block;
 }
 
 a:hover small {
-  color: dodgerblue;
+  color:cornflowerblue;
 }
 
 .addr a:hover, a:focus {
-  color: dodgerblue var(--clr-a-text-hvr);
+  color: cornflowerblue var(--clr-a-text-hvr);
 }
 
 ul.link a {
-  color: dodgerblue var(--clr-h1-and-bold);
+  color:cornflowerblue var(--clr-h1-and-bold);
 }
 
 ul.link a:hover, a:focus {
-  color: dodgerblue var(--clr-a-text-hvr);
+  color: cornflowerblue var(--clr-a-text-hvr);
 }
 
 ul.content {
