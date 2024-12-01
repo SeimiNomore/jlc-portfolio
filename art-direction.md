@@ -99,7 +99,6 @@ Each element—the color, the font, and the composition—came together organica
 This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
 
 
-
 <br>
 
 ![a4bmusickowloon city](assets/img/a4bmusickowloon_city.png)
@@ -122,7 +121,7 @@ This inaugural issue brings focus to KC93, the music production division born fr
 This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept. Leaning more in the spirit of freedom of A4B!, I start working with more on the backflip aspect of the idea. The idea was for it to be a digital magazine that focus not just on anime but art and artist alike.
 
 ![](assets/img/tmoneyanime4.png)
-**TMoney Ad 2**
+**T-Money Ad 2**
 
 ---
 
@@ -176,10 +175,12 @@ This was the beginnning of it all the first ads for anime4breakfast! -- going of
 
 ---
 
-This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
+Certainly! Here’s a polished version:
+
+The concept for the Deval and Miles Timothy advertisement was born from a collection of conversations with Miles Timothy, during which he introduced me to his brother, a fellow creative whose talents became integral to anime4breakfast. Reflecting on the dynamic between the two brothers, I envisioned this project as the perfect introduction to the collective artistry of Duval Timothy. Their combined craftsmanship inspired a narrative that celebrates their creative synergy and unique contributions.
 
 
-![](assets/img/pixelcut-export2.png)
+![suckafree export](assets/img/pixelcut-export2.png)
 **Bad News S, Free** Sucka Free First Year at Anime4Breakfast
 
 ---
