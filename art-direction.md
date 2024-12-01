@@ -163,12 +163,6 @@ This was the beginnning of it all the first ads for anime4breakfast! -- going of
 
 This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
 
-![a4b kowloon](assets/img/a4b-kowloon.jpg)
-**A4B! Issue 01 advertivements** - 2007 / Feb.
-
----
-
-This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
 
 ![a4b kowloon art](assets/img/a4b-kowloon-art.png)
 **A4B! Issue 01 advertivements** - 2007 / Feb.
