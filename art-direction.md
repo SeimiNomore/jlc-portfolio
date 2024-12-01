@@ -175,8 +175,6 @@ This was the beginnning of it all the first ads for anime4breakfast! -- going of
 
 ---
 
-Certainly! Here’s a polished version:
-
 The concept for the Deval and Miles Timothy advertisement was born from a collection of conversations with Miles Timothy, during which he introduced me to his brother, a fellow creative whose talents became integral to anime4breakfast. Reflecting on the dynamic between the two brothers, I envisioned this project as the perfect introduction to the collective artistry of Duval Timothy. Their combined craftsmanship inspired a narrative that celebrates their creative synergy and unique contributions.
 
 
