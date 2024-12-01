@@ -92,7 +92,7 @@ Each element—the color, the font, and the composition—came together organica
 
 
 ![](assets/img/a4b-index.jpg)
-**Racquel *Twitch* Brazer** Advertizment - 01 for A4B!
+**Racquel Brazer** Advertizment - 01 for A4B!
 
 ---
 
