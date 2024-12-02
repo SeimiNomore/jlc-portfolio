@@ -13,8 +13,7 @@ body {
   color:#45455f;
   font-weight: 40;
   -ms-overflow-style: -ms-autohiding-scrollbar;
-  line-height: 1.4;
-  word-spacing: 1.5;
+ 
 }
 
 .header-title-mobile {
@@ -36,7 +35,7 @@ img {
 h1, h2, h3, h4, h5, h6 {
   color: var(--clr-h1-and-bold);
   color: dimgray;
-  margin: 0 0 20px;
+  margin: 0 0 5px;
   line-height: 0.6;
 }
 
@@ -59,6 +58,11 @@ h2 {
 h3, h4, h5, h6 {
   color: var(--clr-h-3-6);
 
+}
+
+p {
+  line-height: 1.5;
+  word-spacing: 1.5;
 }
 
 a {
