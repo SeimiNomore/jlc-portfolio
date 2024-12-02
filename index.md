@@ -6,7 +6,7 @@
 <br>
 
 ### Index
-Directory of works
+<small>Directory of works</small>
 
 ---
 
