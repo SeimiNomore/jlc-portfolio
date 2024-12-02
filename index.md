@@ -12,7 +12,7 @@ Directory of works
 
 ### [Artworks Codex](./artworks-codex.md)
 
-Conception - Feb 2019 / On-going
+<small> Conception - Feb 2019 / On-going</small>
 
 The latest chapter of my fine art journey embodies the continuous evolution of my personal mythos and artistic metamorphosis. 
 
@@ -22,7 +22,7 @@ The latest chapter of my fine art journey embodies the continuous evolution of m
 
 ### [Art Direction](./art-direction.md)
 
-Conception - Sept. 2006 / On-going
+<small>Conception - Sept. 2006 / On-going</small>
 
 I collaborated with artists across a range of mediums to support and refine their creative practices. 
 
@@ -32,7 +32,7 @@ I collaborated with artists across a range of mediums to support and refine thei
 
 ### [Character Design & Storytelling](./character-design-&-storytelling.md)
 
-Conception - Mar. 2012 / On-going
+<small>Conception - Mar. 2012 / On-going</small>
 
 Character design and storytelling has been a cornerstone of my creative journey. 
 
