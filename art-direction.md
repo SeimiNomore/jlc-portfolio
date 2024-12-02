@@ -120,7 +120,7 @@ This inaugural issue brings focus to KC93, the music production division born fr
 
 This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept. Leaning more in the spirit of freedom of A4B!, I start working with more on the backflip aspect of the idea. The idea was for it to be a digital magazine that focus not just on anime but art and artist alike.
 
-![](assets/img/tmoneyanime4.png)
+![tmoney-a4b](assets/img/tmoney-a4b.png)
 **T-Money Ad 2**
 
 ---
@@ -129,7 +129,7 @@ This was the beginnning of it all the first ads for anime4breakfast! -- going of
 
 
 
-![](assets/img/rsisanime.png)
+![rsis-a4b](assets/img/rsis-a4b.png)
 **Rsisanime** First Advertizment with Anime4Breakfast
 
 ---
