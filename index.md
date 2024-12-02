@@ -19,7 +19,6 @@ The latest chapter of my fine art journey embodies the continuous evolution of m
 [unpack](./artworks-codex.md)
 
 --
-
 <br>
 
 ### [Art Direction](./art-direction.md)
@@ -31,7 +30,6 @@ I collaborated with artists across a range of mediums to support and refine thei
 [unpack](./art-direction.md)
 
 --
-
 <br>
 
 ### [Character Design & Storytelling](./character-design-&-storytelling.md)
@@ -43,7 +41,6 @@ Character design and storytelling has been a cornerstone of my creative journey.
 [unpack](./character-design-&-storytelling.md)
 
 --
-
 <br>
 
 ### [Ui / Ux Development](./character-design-&-storytelling.md)
