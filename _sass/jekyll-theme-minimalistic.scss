@@ -118,10 +118,12 @@ p.link {
 ul.link {
   list-style-type: none;
   padding: 0.4px;
+
 }
 
 ul.link li + li {
   margin-top: 6px;
+  margin:0 0 10px;
 }
 
 ul.link:last-child {
