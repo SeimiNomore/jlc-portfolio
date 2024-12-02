@@ -13,7 +13,7 @@ body {
   color:#45455f;
   font-weight: 40;
   -ms-overflow-style: -ms-autohiding-scrollbar;
-  line-height: 1.7;
+  line-height: 1.6;
   word-spacing: 1.5;
 }
 
@@ -37,6 +37,7 @@ h1, h2, h3, h4, h5, h6 {
   color: var(--clr-h1-and-bold);
   color: dimgray;
   margin: 0 0 20px;
+  line-height: 0.6;
 }
 
 p, ul, ol, table, pre, dl {
