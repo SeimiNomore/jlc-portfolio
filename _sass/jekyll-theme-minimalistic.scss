@@ -24,7 +24,7 @@ img {
   max-width: 100%;
 }
 
-.logo {
+. {
   -webkit-border-radius: 100%;
   -moz-border-radius: 100%;
   border-radius: 100%;
@@ -260,6 +260,11 @@ kbd {
   line-height: 1.5;
 }
 
+.sidebar-h3 {
+  line-height: 1.8;
+}
+
+
 @-moz-document url-prefix() {
   
   .sidebar {
@@ -422,7 +427,7 @@ hr {
     top: 52px;
   }
 
-  .logo {
+  . {
     
     width: 110px;
     box-sizing: border-box;

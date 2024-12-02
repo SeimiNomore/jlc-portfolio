@@ -39,7 +39,15 @@ Character design and storytelling has been a cornerstone of my creative journey.
 [unpack](./character-design-&-storytelling.md)
 
 
+<br>
 
+### [Ui / Ux Development](./character-design-&-storytelling.md)
+
+<small>Conception - May. 2024 / On-going</small>
+
+Character design and storytelling has been a cornerstone of my creative journey. 
+
+[unpack](./character-design-&-storytelling.md)
 
 <br>
 <br>
