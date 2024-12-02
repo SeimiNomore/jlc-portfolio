@@ -257,6 +257,7 @@ kbd {
   overflow-y: scroll;
   -ms-overflow-style: -ms-autohiding-scrollbar;
   font-size: 12px;
+  line-height: 1.5;
 }
 
 @-moz-document url-prefix() {
@@ -316,7 +317,8 @@ hr {
 
   .sidebar {
     width: 200px;
-    height: calc(100vh - 50px);  
+    height: calc(100vh - 50px);
+
   }
 
   section {
