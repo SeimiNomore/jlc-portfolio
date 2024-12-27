@@ -150,7 +150,6 @@ Scene from the anime (Ghost in the Shell)
 ![kid oreo2](assets/img/kid%20oreo2.png)
 **A4B! Kid Oreo 2** Advertisement - 2007 / Feb.
 
-
 ---
 
 This was the beginnning of it all the first ads for anime4breakfast! -- going off of the **JoyBoy** logo, creating that this ads just followed that concept.
